@@ -1,0 +1,146 @@
+STUDENT ID,Graduated High-School Type,Scholarship Type,Mother's Education,Father's Education,Number of Siblings,Parental Status,Mother's Occupation,Father's Occupation,Cumulative Grade Point Average
+Student 1,Other,50%,Primary School,Secondary School,3,Married,Housewife,Other,<2.00
+Student 2,Other,50%,Secondary School,High School,2,Married,Housewife,Retired,2.00-2.49
+Student 3,Public,50%,Secondary School,Secondary School,2,Married,Housewife,Retired,2.00-2.49
+Student 4,Private,50%,Primary School,Secondary School,5 or above,Married,Housewife,Retired,2.50-2.99
+Student 5,Private,50%,High School,High School,2,Married,Housewife,Self-employment,2.00-2.49
+Student 6,Public,50%,High School,High School,2,Married,Housewife,Private Sector Employee,3.00-3.49
+Student 7,Public,75%,Primary School,High School,1,Married,Housewife,Self-employment,3.00-3.49
+Student 8,Public,50%,University,High School,1,Married,Private Sector Employee,Private Sector Employee,<2.00
+Student 9,Other,50%,Secondary School,University,2,Married,Housewife,Self-employment,3.00-3.49
+Student 10,Public,50%,Primary School,Secondary School,3,Married,Housewife,Private Sector Employee,<2.00
+Student 11,Private,50%,High School,University,2,Married,Government Officer,Government Officer,<2.00
+Student 12,Private,75%,Master's,Master's,1,Married,Government Officer,Government Officer,3.00-3.49
+Student 13,Private,75%,High School,Master's,4,Divorced,Housewife,Government Officer,3.00-3.49
+Student 14,Public,Full,Secondary School,Secondary School,2,Married,Housewife,Private Sector Employee,3.00-3.49
+Student 15,Public,75%,High School,Primary School,2,Married,Private Sector Employee,Retired,3.00-3.49
+Student 16,Public,50%,University,University,2,Married,Government Officer,Retired,2.00-2.49
+Student 17,Public,Full,Secondary School,Secondary School,4,Married,Housewife,Private Sector Employee,3.00-3.49
+Student 18,Public,50%,Secondary School,Secondary School,2,Married,Housewife,Retired,2.00-2.49
+Student 19,Public,75%,Secondary School,Secondary School,5 or above,Married,Housewife,Other,2.50-2.99
+Student 20,Private,50%,High School,High School,3,Married,Housewife,Self-employment,2.00-2.49
+Student 21,Public,Full,High School,High School,3,Divorced,Housewife,Private Sector Employee,3.00-3.49
+Student 22,Public,Full,Secondary School,Secondary School,4,Married,Housewife,Private Sector Employee,2.50-2.99
+Student 23,Public,50%,Primary School,Primary School,4,Divorced,Housewife,Self-employment,2.50-2.99
+Student 24,Public,25%,Primary School,University,3,Married,Housewife,Retired,2.50-2.99
+Student 25,Public,50%,High School,Primary School,3,Married,Housewife,Self-employment,3.00-3.49
+Student 26,Public,50%,Primary School,University,3,Married,Housewife,Self-employment,<2.00
+Student 27,Public,50%,University,University,4,Married,Housewife,Self-employment,2.00-2.49
+Student 28,Private,50%,Primary School,Primary School,4,Married,Housewife,Private Sector Employee,2.00-2.49
+Student 29,Public,50%,Secondary School,Secondary School,4,Married,Housewife,Retired,3.49<
+Student 30,Other,75%,High School,High School,2,Married,Private Sector Employee,Retired,3.00-3.49
+Student 31,Public,Full,Primary School,Primary School,5 or above,Married,Housewife,Self-employment,3.49<
+Student 32,Public,50%,Primary School,Secondary School,4,Married,Housewife,Private Sector Employee,3.00-3.49
+Student 33,Public,50%,Secondary School,Secondary School,2,Married,Housewife,Retired,2.00-2.49
+Student 34,Public,50%,Primary School,Secondary School,5 or above,Married,Housewife,Private Sector Employee,2.00-2.49
+Student 35,Private,50%,High School,High School,3,Married,Housewife,Self-employment,3.00-3.49
+Student 36,Private,75%,Primary School,Secondary School,5 or above,Married,Housewife,Private Sector Employee,<2.00
+Student 37,Other,75%,Primary School,Primary School,2,Divorced,Private Sector Employee,Private Sector Employee,3.00-3.49
+Student 38,Public,50%,High School,High School,1,Married,Housewife,Private Sector Employee,3.49<
+Student 39,Public,Full,High School,High School,1,Married,Housewife,Self-employment,3.00-3.49
+Student 40,Public,50%,Primary School,High School,1,Married,Housewife,Self-employment,2.00-2.49
+Student 41,Private,50%,Secondary School,High School,1,Married,Housewife,Other,2.00-2.49
+Student 42,Public,50%,Primary School,University,2,Married,Housewife,Government Officer,3.00-3.49
+Student 43,Public,50%,University,University,2,Married,Government Officer,Retired,2.00-2.49
+Student 44,Public,50%,Secondary School,High School,3,Married,Housewife,Retired,2.50-2.99
+Student 45,Other,50%,Primary School,High School,2,Married,Housewife,Other,3.00-3.49
+Student 46,Public,50%,Secondary School,High School,5 or above,Married,Housewife,Self-employment,3.00-3.49
+Student 47,Public,50%,Primary School,Secondary School,3,Married,Housewife,Other,3.00-3.49
+Student 48,Public,50%,University,High School,1,Married,Self-employment,Self-employment,3.49<
+Student 49,Public,50%,High School,High School,3,Married,Housewife,Government Officer,2.00-2.49
+Student 50,Private,75%,Secondary School,High School,2,Married,Housewife,Self-employment,2.50-2.99
+Student 51,Public,50%,Primary School,Primary School,2,Married,Housewife,Private Sector Employee,2.50-2.99
+Student 52,Other,50%,Primary School,Secondary School,5 or above,Married,Housewife,Retired,2.50-2.99
+Student 53,Public,50%,Primary School,High School,4,Married,Housewife,Retired,3.00-3.49
+Student 54,Public,50%,Primary School,Primary School,5 or above,Married,Housewife,Retired,2.50-2.99
+Student 55,Public,50%,Primary School,University,2,Married,Private Sector Employee,Government Officer,3.49<
+Student 56,Public,50%,Primary School,Primary School,5 or above,Died - One or Both,Housewife,Retired,3.49<
+Student 57,Public,50%,Primary School,High School,5 or above,Married,Housewife,Self-employment,3.49<
+Student 58,Public,50%,University,Secondary School,3,Married,Government Officer,Private Sector Employee,3.49<
+Student 59,Public,50%,Primary School,High School,5 or above,Divorced,Housewife,Retired,3.49<
+Student 60,Public,50%,University,University,3,Married,Housewife,Private Sector Employee,3.00-3.49
+Student 61,Public,50%,Ph.D.,Primary School,3,Married,Housewife,Private Sector Employee,2.00-2.49
+Student 62,Other,50%,Primary School,High School,4,Married,Housewife,Private Sector Employee,3.00-3.49
+Student 63,Public,50%,Secondary School,High School,2,Married,Housewife,Self-employment,3.49<
+Student 64,Public,75%,Primary School,High School,3,Married,Housewife,Retired,2.50-2.99
+Student 65,Other,Full,Secondary School,Secondary School,2,Married,Housewife,Retired,3.00-3.49
+Student 66,Public,50%,Secondary School,University,3,Married,Housewife,Self-employment,2.00-2.49
+Student 67,Public,50%,High School,Secondary School,5 or above,Married,Housewife,Other,3.49<
+Student 68,Other,50%,High School,University,4,Divorced,Housewife,Government Officer,2.00-2.49
+Student 69,Public,75%,Secondary School,High School,5 or above,Died - One or Both,Housewife,Other,3.00-3.49
+Student 70,Public,75%,Secondary School,Secondary School,2,Married,Housewife,Private Sector Employee,2.50-2.99
+Student 71,Public,75%,University,High School,1,Divorced,Private Sector Employee,Government Officer,3.49<
+Student 72,Other,75%,Primary School,High School,5 or above,Married,Housewife,Self-employment,2.00-2.49
+Student 73,Public,50%,Primary School,Primary School,2,Married,Housewife,Private Sector Employee,2.50-2.99
+Student 74,Public,75%,Primary School,High School,4,Married,Housewife,Self-employment,3.49<
+Student 75,Public,75%,Secondary School,Secondary School,3,Married,Housewife,Retired,2.50-2.99
+Student 76,Public,75%,Primary School,Master's,4,Married,Housewife,Government Officer,3.00-3.49
+Student 77,Private,25%,Master's,University,3,Married,Private Sector Employee,Private Sector Employee,2.00-2.49
+Student 78,Private,25%,Ph.D.,Master's,2,Married,Private Sector Employee,Government Officer,<2.00
+Student 79,Public,75%,Primary School,High School,4,Married,Housewife,Self-employment,2.00-2.49
+Student 80,Public,75%,Primary School,High School,4,Married,Housewife,Self-employment,3.00-3.49
+Student 81,Public,50%,Primary School,Primary School,2,Married,Housewife,Private Sector Employee,3.00-3.49
+Student 82,Public,50%,Primary School,Secondary School,4,Married,Housewife,Private Sector Employee,3.49<
+Student 83,Public,75%,High School,Primary School,3,Married,Housewife,Private Sector Employee,3.00-3.49
+Student 84,Other,50%,University,University,2,Married,Retired,Government Officer,<2.00
+Student 85,Other,50%,University,Secondary School,5 or above,Died - One or Both,Housewife,Retired,3.49<
+Student 86,Public,Full,Primary School,Primary School,5 or above,Married,Housewife,Retired,3.00-3.49
+Student 87,Public,75%,High School,High School,2,Married,Private Sector Employee,Retired,3.49<
+Student 88,Public,50%,High School,University,2,Married,Retired,Retired,<2.00
+Student 89,Public,75%,University,University,1,Married,Government Officer,Government Officer,3.49<
+Student 90,Public,50%,High School,Master's,3,Married,Housewife,Government Officer,2.50-2.99
+Student 91,Public,50%,High School,High School,1,Married,Private Sector Employee,Government Officer,3.00-3.49
+Student 92,Public,Full,University,Primary School,5 or above,Married,Housewife,Private Sector Employee,3.49<
+Student 93,Public,50%,High School,University,4,Married,Government Officer,Government Officer,2.00-2.49
+Student 94,Public,None,Primary School,Secondary School,4,Married,Housewife,Private Sector Employee,2.00-2.49
+Student 95,Public,50%,High School,Secondary School,5 or above,Married,Housewife,Other,3.49<
+Student 96,Other,Full,High School,University,1,Married,Housewife,Retired,3.00-3.49
+Student 97,Public,75%,Secondary School,Secondary School,3,Married,Private Sector Employee,Government Officer,2.00-2.49
+Student 98,Public,75%,High School,High School,4,Married,Housewife,Private Sector Employee,2.50-2.99
+Student 99,Public,75%,Secondary School,University,2,Married,Housewife,Other,3.00-3.49
+Student 100,Public,50%,High School,University,2,Married,Housewife,Retired,2.00-2.49
+Student 101,Public,75%,University,Primary School,2,Married,Government Officer,Private Sector Employee,2.50-2.99
+Student 102,Public,75%,Secondary School,High School,1,Married,Housewife,Self-employment,2.00-2.49
+Student 103,Public,50%,High School,Primary School,1,Divorced,Private Sector Employee,Self-employment,2.50-2.99
+Student 104,Private,75%,Primary School,High School,4,Married,Housewife,Retired,3.00-3.49
+Student 105,Public,50%,University,University,1,Married,Government Officer,Government Officer,<2.00
+Student 106,Public,75%,Secondary School,Secondary School,4,Married,Housewife,Self-employment,2.50-2.99
+Student 107,Public,75%,Secondary School,Secondary School,1,Married,Housewife,Retired,3.00-3.49
+Student 108,Public,75%,Primary School,High School,5 or above,Married,Housewife,Self-employment,3.00-3.49
+Student 109,Private,Full,Primary School,Secondary School,1,Died - One or Both,Retired,Other,2.50-2.99
+Student 110,Private,50%,University,University,2,Died - One or Both,Housewife,Other,3.00-3.49
+Student 111,Public,50%,University,University,2,Divorced,Retired,Other,2.00-2.49
+Student 112,Private,Full,High School,High School,1,Married,Government Officer,Government Officer,3.00-3.49
+Student 113,Other,50%,Primary School,Primary School,2,Married,Housewife,Retired,3.00-3.49
+Student 114,Other,50%,University,University,1,Married,Government Officer,Government Officer,<2.00
+Student 115,Public,Full,Primary School,Primary School,1,Married,Housewife,Retired,<2.00
+Student 116,Public,Full,Primary School,Primary School,2,Married,Housewife,Government Officer,2.00-2.49
+Student 117,Public,Full,Primary School,Primary School,5 or above,Married,Housewife,Self-employment,2.00-2.49
+Student 118,Private,50%,University,University,1,Married,Retired,Private Sector Employee,2.00-2.49
+Student 119,Public,Full,Primary School,Secondary School,3,Married,Private Sector Employee,Self-employment,2.50-2.99
+Student 120,Public,75%,High School,High School,2,Died - One or Both,Housewife,Other,2.50-2.99
+Student 121,Private,50%,High School,High School,2,Married,Government Officer,Self-employment,2.00-2.49
+Student 122,Public,50%,Primary School,Primary School,5 or above,Died - One or Both,Housewife,Self-employment,<2.00
+Student 123,Public,Full,High School,High School,2,Married,Housewife,Retired,3.00-3.49
+Student 124,Other,50%,High School,Secondary School,4,Married,Retired,Retired,<2.00
+Student 125,Public,75%,Secondary School,High School,2,Married,Private Sector Employee,Private Sector Employee,2.50-2.99
+Student 126,Public,Full,Primary School,Primary School,5 or above,Married,Housewife,Private Sector Employee,<2.00
+Student 127,Private,75%,University,Ph.D.,2,Married,Private Sector Employee,Private Sector Employee,2.00-2.49
+Student 128,Public,75%,High School,Secondary School,2,Married,Government Officer,Self-employment,2.00-2.49
+Student 129,Public,75%,High School,University,2,Married,Private Sector Employee,Government Officer,2.00-2.49
+Student 130,Public,50%,Primary School,Primary School,3,Married,Housewife,Self-employment,2.00-2.49
+Student 131,Public,50%,Primary School,Secondary School,3,Married,Housewife,Self-employment,2.00-2.49
+Student 132,Private,Full,University,High School,1,Married,Government Officer,Government Officer,3.49<
+Student 133,Private,Full,Primary School,Secondary School,3,Married,Housewife,Retired,3.49<
+Student 134,Public,Full,Primary School,Primary School,1,Married,Housewife,Private Sector Employee,3.49<
+Student 135,Public,75%,Primary School,Primary School,2,Married,Private Sector Employee,Private Sector Employee,2.00-2.49
+Student 136,Public,50%,High School,High School,1,Married,Housewife,Retired,2.50-2.99
+Student 137,Public,50%,High School,High School,3,Married,Government Officer,Self-employment,2.00-2.49
+Student 138,Private,Full,Secondary School,Secondary School,2,Married,Housewife,Retired,2.00-2.49
+Student 139,Public,75%,High School,Primary School,1,Divorced,Private Sector Employee,Other,<2.00
+Student 140,Public,75%,High School,High School,1,Married,Self-employment,Self-employment,<2.00
+Student 141,Public,50%,Primary School,Secondary School,2,Divorced,Housewife,Self-employment,2.50-2.99
+Student 142,Public,75%,Primary School,Primary School,5 or above,Married,Housewife,Retired,3.49<
+Student 143,Private,75%,High School,University,4,Married,Housewife,Self-employment,3.00-3.49
+Student 144,Public,75%,University,University,1,Married,Government Officer,Private Sector Employee,3.49<
+Student 145,Private,Full,High School,Primary School,5 or above,Married,Housewife,Self-employment,3.49<
