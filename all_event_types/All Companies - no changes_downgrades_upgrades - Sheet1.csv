@@ -1,0 +1,1259 @@
+,Row,Date,Company Name,Ticker,Broker,Analyst,Rating Before,Rating After,Price Target Before,Price Target After,Score Before,Score After ,Event Type
+0,122,6/13/2013,Ross Stores Inc,ROST,Crt Capital,Ike Boruchow,Neutral,Buy,36,37.5,0,1,Upgrade
+1,415,11/22/2013,Ross Stores Inc,ROST,Maxim Group,Rick Snyder,Hold,Sell,37.5,31.5,0,-1,Downgrade
+2,430,2/28/2014,Ross Stores Inc,ROST,NaN,Roxanne Meyer,Buy,Buy,84,84,1,1,No change
+3,322,5/23/2014,Ross Stores Inc,ROST,Deutsche Bank,Michael Baker,Buy,Buy,78,78,1,1,No change
+4,134,7/16/2014,Ross Stores Inc,ROST,Crt Capital,Ike Boruchow,Buy,Neutral,40.5,34,1,0,Downgrade
+5,253,11/21/2014,Ross Stores Inc,ROST,NaN,Laura Champine,Sell,Sell,74,74,-1,-1,No change
+6,324,11/21/2014,Ross Stores Inc,ROST,Deutsche Bank,Michael Baker,Buy,Buy,95,95,1,1,No change
+7,462,12/3/2014,Ross Stores Inc,ROST,Goldman Sachs,Stephen Grambling,Buy,Buy,49.5,48,1,1,No change
+8,360,12/16/2014,Ross Stores Inc,ROST,Td Cowen,Oliver Chen,Outperform,Market Perform,47.5,47,1,0,Downgrade
+9,429,2/27/2015,Ross Stores Inc,ROST,NaN,Roxanne Meyer,Neutral,Neutral,99,99,0,0,No change
+10,319,2/27/2015,Ross Stores Inc,ROST,Deutsche Bank,Michael Baker,Buy,Buy,115,115,1,1,No change
+11,131,4/17/2015,Ross Stores Inc,ROST,Crt Capital,Ike Boruchow,Short,Neutral,52.5,56,-1,0,Upgrade
+12,433,9/17/2015,Ross Stores Inc,ROST,NaN,Roxanne Meyer,Neutral,Neutral,52,52,0,0,No change
+13,428,3/2/2016,Ross Stores Inc,ROST,Roth Mkm,Roxanne Meyer,Neutral,Buy,52,65,0,1,Upgrade
+14,364,5/20/2016,Ross Stores Inc,ROST,Td Cowen,Oliver Chen,Outperform,Outperform,63,61,1,1,No change
+15,365,7/13/2016,Ross Stores Inc,ROST,Td Cowen,Oliver Chen,Outperform,Outperform,61,63,1,1,No change
+16,457,8/1/2016,Ross Stores Inc,ROST,NaN,Stephen Grambling,Neutral,Neutral,64,64,0,0,No change
+17,316,8/19/2016,Ross Stores Inc,ROST,Deutsche Bank,Michael Baker,Buy,Buy,70,70,1,1,No change
+18,420,8/19/2016,Ross Stores Inc,ROST,NaN,Robert Drbul,Buy,Buy,70,70,1,1,No change
+19,458,8/19/2016,Ross Stores Inc,ROST,NaN,Stephen Grambling,Neutral,Neutral,67,67,0,0,No change
+20,376,8/19/2016,Ross Stores Inc,ROST,Citi,Paul Lejuez,Buy,Buy,70,70,1,1,No change
+21,434,8/19/2016,Ross Stores Inc,ROST,Roth Mkm,Roxanne Meyer,Buy,Buy,65,72,1,1,No change
+22,413,8/19/2016,Ross Stores Inc,ROST,Jefferies,Randal Konik,Hold,Hold,51,57,0,0,No change
+23,411,11/18/2016,Ross Stores Inc,ROST,Jefferies,Randal Konik,Hold,Hold,57,59,0,0,No change
+24,208,3/1/2017,Ross Stores Inc,ROST,Bmo,John Morris,Market Perform,Market Perfo,65,72,0,NaN,None
+25,347,3/1/2017,Ross Stores Inc,ROST,Wedbush,Morry Brown,Outperform,Positive,71,73,1,1,No change
+26,412,3/1/2017,Ross Stores Inc,ROST,Jefferies,Randal Konik,Hold,Hold,59,63,0,0,No change
+27,221,11/17/2017,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,77,77,1,1,No change
+28,207,11/17/2017,Ross Stores Inc,ROST,Bmo,John Morris,Market Perform,Market Perform,71,71,0,0,No change
+29,48,11/17/2017,Ross Stores Inc,ROST,Rbc,Brian Tunick,Sector Perform,Sector Perform,70,70,0,0,No change
+30,74,11/17/2017,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Outperform,Outperform,75,75,1,1,No change
+31,447,11/17/2017,Ross Stores Inc,ROST,Nomura,Simeon Siegel,Buy,Buy,80,80,1,1,No change
+32,439,11/17/2017,Ross Stores Inc,ROST,Roth Mkm,Roxanne Meyer,Buy,Buy,78,80,1,1,No change
+33,446,1/17/2018,Ross Stores Inc,ROST,Nomura,Simeon Siegel,Buy,Buy,90,90,1,1,No change
+34,217,3/7/2018,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,94,94,1,1,No change
+35,323,5/25/2018,Ross Stores Inc,ROST,NaN,Michael Baker,Buy,Buy,91,91,1,1,No change
+36,377,7/31/2018,Ross Stores Inc,ROST,Citi,Paul Lejuez,Neutral,Neutral,89,89,0,0,No change
+37,392,8/24/2018,Ross Stores Inc,ROST,NaN,Paul Trussell,Buy,Buy,95,95,1,1,No change
+38,293,8/24/2018,Ross Stores Inc,ROST,NaN,Matthew Boss,Overweight,Overweight,96,96,1,1,No change
+39,318,8/24/2018,Ross Stores Inc,ROST,NaN,Michael Baker,Buy,Buy,95,95,1,1,No change
+40,71,8/24/2018,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Outperform,Outperform,100,100,1,1,No change
+41,444,8/24/2018,Ross Stores Inc,ROST,Nomura,Simeon Siegel,Buy,Buy,95,95,1,1,No change
+42,461,9/4/2018,Ross Stores Inc,ROST,NaN,Stephen Grambling,Neutral,Neutral,104,104,0,0,No change
+43,379,10/11/2018,Ross Stores Inc,ROST,Citi,Paul Lejuez,Neutral,Neutral,98,98,0,0,No change
+44,261,11/14/2018,Ross Stores Inc,ROST,Baml,Lorraine Hutchinson,Buy,Buy,115,115,1,1,No change
+45,448,11/21/2018,Ross Stores Inc,ROST,Nomura,Simeon Siegel,Buy,Buy,95,95,1,1,No change
+46,75,11/21/2018,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Outperform,Outperform,95,95,1,1,No change
+47,378,11/21/2018,Ross Stores Inc,ROST,Citi,Paul Lejuez,Neutral,Neutral,88,88,0,0,No change
+48,222,11/23/2018,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,94,94,1,1,No change
+49,37,6/27/2019,Ross Stores Inc,ROST,Goldman Sachs,Alexandra Walvis,Neutral,Sell,102,91,0,-1,Downgrade
+50,115,8/23/2019,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Outperform,Outperform.,104,116,1,NaN,None
+51,317,8/23/2019,Ross Stores Inc,ROST,NaN,Michael Baker,Buy,Buy,113,113,1,1,No change
+52,182,8/23/2019,Ross Stores Inc,ROST,Td Cowen,John Kernan,Outperform,Outperform,115,116,1,1,No change
+53,77,10/11/2019,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,103,112,0,0,No change
+54,325,11/22/2019,Ross Stores Inc,ROST,NaN,Michael Baker,Neutral,Neutral,113,113,0,0,No change
+55,191,11/22/2019,Ross Stores Inc,ROST,Td Cowen,John Kernan,Outperform,Outperform,126,131,1,1,No change
+56,76,11/22/2019,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,112,118,0,0,No change
+57,445,2/4/2020,Ross Stores Inc,ROST,NaN,Simeon Siegel,Outperform,Outperform,130,130,1,1,No change
+58,393,2/24/2020,Ross Stores Inc,ROST,Deutsche Bank,Paul Trussell,Buy,Buy,128,128,1,1,No change
+59,294,3/4/2020,Ross Stores Inc,ROST,NaN,Matthew Boss,Overweight,Overweight,122,122,1,1,No change
+60,432,3/4/2020,Ross Stores Inc,ROST,Roth Mkm,Roxanne Meyer,Buy,Buy,124,124,1,1,No change
+61,371,3/20/2020,Ross Stores Inc,ROST,Citi,Paul Lejuez,Buy,Neutral,90,120,1,0,Downgrade
+62,39,3/25/2020,Ross Stores Inc,ROST,Goldman Sachs,Alexandra Walvis,Sell,Buy,93,110,-1,1,Upgrade
+63,460,3/25/2020,Ross Stores Inc,ROST,NaN,Stephen Grambling,Buy,Buy,93,93,1,1,No change
+64,219,3/30/2020,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,105,105,1,1,No change
+65,321,3/31/2020,Ross Stores Inc,ROST,Nomura,Michael Baker,Neutral,Neutral,80,80,0,0,No change
+66,206,4/28/2020,Ross Stores Inc,ROST,D.A. Davidson,John Morris,Buy,Neutral,87,108,1,0,Downgrade
+67,73,5/22/2020,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,96,101,0,0,No change
+68,260,5/22/2020,Ross Stores Inc,ROST,Baml,Lorraine Hutchinson,Buy,Buy,110,110,1,1,No change
+69,192,5/22/2020,Ross Stores Inc,ROST,Td Cowen,John Kernan,Outperform,Outperform,99,103,1,1,No change
+70,220,11/13/2020,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,111,111,1,1,No change
+71,223,11/23/2020,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,121,121,1,1,No change
+72,211,4/23/2021,Ross Stores Inc,ROST,NaN,Kate Fitzsimons,Outperform,Outperform,130,130,1,1,No change
+73,72,5/17/2021,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Outperform,Outperform,145,145,1,1,No change
+74,248,10/14/2021,Ross Stores Inc,ROST,Loop Capital,Laura Champine,Hold,Buy,140,105,0,1,Upgrade
+75,111,11/11/2021,Ross Stores Inc,ROST,NaN,Gabriella Carbone,Buy,Buy,146,146,1,1,No change
+76,181,12/10/2021,Ross Stores Inc,ROST,Td Cowen,John Kernan,Market Perform,Market Perform,109,109,0,0,No change
+77,357,12/10/2021,Ross Stores Inc,ROST,NaN,Oliver Chen,Market Perform,Market Perform,109,109,0,0,No change
+78,123,1/4/2022,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Equal Weight,Equal Weight,120,120,NaN,NaN,None
+79,57,2/10/2022,Ross Stores Inc,ROST,Gordon Haskett,Chuck Grom,Hold,Accumulate,130,106,0,NaN,None
+80,218,3/2/2022,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,137,137,1,1,No change
+81,216,4/26/2022,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,139,139,1,1,No change
+82,341,8/19/2022,Ross Stores Inc,ROST,Credit Suisse,Michael Binetti,Outperform,Outperform,99,99,1,1,No change
+83,193,8/19/2022,Ross Stores Inc,ROST,Td Cowen,John Kernan,Outperform,Outperform,80,83,1,1,No change
+84,140,8/19/2022,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Equal Weight,Equal Weight,90,90,NaN,NaN,None
+85,250,8/19/2022,Ross Stores Inc,ROST,Loop Capital,Laura Champine,Hold,Hold,80,85,0,0,No change
+86,85,11/18/2022,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,120,120,0,0,No change
+87,141,11/18/2022,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Overweight,Overweight,120,120,1,1,No change
+88,232,11/18/2022,Ross Stores Inc,ROST,NaN,Kimberly Greenberger,Overweight,Overweight,127,127,1,1,No change
+89,178,11/18/2022,Ross Stores Inc,ROST,NaN,Jay Sole,Neutral,Neutral,108,108,0,0,No change
+90,142,12/20/2022,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Overweight,Overweight,135,135,1,1,No change
+91,86,2/17/2023,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,120,120,0,0,No change
+92,87,3/1/2023,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,120,120,0,0,No change
+93,342,3/1/2023,Ross Stores Inc,ROST,NaN,Michael Binetti,Outperform,Outperform,123,123,1,1,No change
+94,251,3/22/2023,Ross Stores Inc,ROST,Loop Capital,Laura Champine,Buy,Hold,105,115,1,0,Downgrade
+95,308,4/3/2023,Ross Stores Inc,ROST,Jpmorgan,Matthew Boss,Overweight,Overweight,124,124,1,1,No change
+96,88,5/12/2023,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,120,120,0,0,No change
+97,89,5/19/2023,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,120,120,0,0,No change
+98,65,6/26/2023,Ross Stores Inc,ROST,Gordon Haskett,Chuck Grom,Buy,Accumulate,120,120,1,NaN,None
+99,102,6/29/2023,Ross Stores Inc,ROST,NaN,Edward Yruma,Neutral,Neutral,112,112,0,0,No change
+100,189,8/3/2023,Ross Stores Inc,ROST,Td Cowen,John Kernan,Outperform,Market Perform,113,128,1,0,Downgrade
+101,90,8/10/2023,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,120,120,0,0,No change
+102,233,8/18/2023,Ross Stores Inc,ROST,NaN,Kimberly Greenberger,Overweight,Overweight,131,131,1,1,No change
+103,423,8/18/2023,Ross Stores Inc,ROST,Guggenheim,Robert Drbul,Buy,Buy,135,135,1,1,No change
+104,91,8/18/2023,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,130,130,0,0,No change
+105,258,8/18/2023,Ross Stores Inc,ROST,Loop Capital,Laura Champine,Buy,Buy,135,135,1,1,No change
+106,66,11/3/2023,Ross Stores Inc,ROST,Gordon Haskett,Chuck Grom,Accumulate,Buy,135,135,NaN,1,None
+107,343,11/7/2023,Ross Stores Inc,ROST,NaN,Michael Binetti,Outperform,Outperform,140,140,1,1,No change
+108,175,2/23/2024,Ross Stores Inc,ROST,Ubs,Jay Sole,Sell,Neutral,85,142,-1,0,Upgrade
+109,344,2/23/2024,Ross Stores Inc,ROST,NaN,Michael Binetti,Outperform,Outperform,165,165,1,1,No change
+110,92,5/17/2024,Ross Stores Inc,ROST,NaN,Dana Telsey,Market Perform,Market Perform,160,160,0,0,No change
+111,34,5/24/2024,Ross Stores Inc,ROST,Morgan Stanley,Alex Straton,Overweight,Overweight,161,161,1,1,No change
+112,199,5/24/2024,Ross Stores Inc,ROST,Td Cowen,John Kernan,Buy,Buy,176,176,1,1,No change
+113,93,5/24/2024,Ross Stores Inc,ROST,NaN,Dana Telsey,Market Perform,Market Perform,160,160,0,0,No change
+114,94,6/14/2024,Ross Stores Inc,ROST,NaN,Dana Telsey,Market Perform,Market Perform,160,160,0,0,No change
+115,95,8/16/2024,Ross Stores Inc,ROST,NaN,Dana Telsey,Market Perform,Market Perform,160,160,0,0,No change
+116,55,8/23/2024,Ross Stores Inc,ROST,Goldman Sachs,Brooke Roach,Buy,Buy,167,185,1,1,No change
+117,35,8/23/2024,Ross Stores Inc,ROST,Morgan Stanley,Alex Straton,Overweight,Overweight,178,178,1,1,No change
+118,200,8/23/2024,Ross Stores Inc,ROST,Td Cowen,John Kernan,Buy,Buy,185,185,1,1,No change
+119,176,8/23/2024,Ross Stores Inc,ROST,Ubs,Jay Sole,Neutral,Neutral,167,167,0,0,No change
+120,259,8/23/2024,Ross Stores Inc,ROST,Loop Capital,Laura Champine,Buy,Buy,190,190,1,1,No change
+121,283,8/23/2024,Ross Stores Inc,ROST,Baird,Mark Altschwager,Outperform,Outperform,180,180,1,1,No change
+122,21,8/23/2024,Ross Stores Inc,ROST,Barclays,Adrienne Yih,Overweight,Overweight,175,175,1,1,No change
+123,96,10/29/2024,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,175,175,0,0,No change
+124,385,11/12/2024,Ross Stores Inc,ROST,Citi,Paul Lejuez,Buy,Neutral,152,152,1,0,Downgrade
+125,143,11/14/2024,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Overweight,Overweight,165,165,1,1,No change
+126,198,11/19/2024,Ross Stores Inc,ROST,Td Cowen,John Kernan,Buy,Buy,185,177,1,1,No change
+127,97,11/22/2024,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,175,175,0,0,No change
+128,144,1/10/2025,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Overweight,Equal Weight,165,165,1,NaN,None
+129,98,2/24/2025,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,175,175,0,0,No change
+130,197,2/28/2025,Ross Stores Inc,ROST,Td Cowen,John Kernan,Buy,Buy,180,175,1,1,No change
+131,82,3/5/2025,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perfo,175,150,0,NaN,None
+132,145,4/8/2025,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Equal Weight,Overweight,150,150,NaN,1,None
+133,309,4/14/2025,Ross Stores Inc,ROST,Jpmorgan,Matthew Boss,Overweight,Overweight,161,161,1,1,No change
+134,99,5/16/2025,Ross Stores Inc,ROST,NaN,Dana Telsey,Market Perform,Market Perform,150,150,0,0,No change
+135,36,5/23/2025,Ross Stores Inc,ROST,NaN,Alex Straton,Equal Weight,Equal Weight,126,126,NaN,NaN,None
+136,100,5/23/2025,Ross Stores Inc,ROST,NaN,Dana Telsey,Market Perform,Market Perform,150,150,0,0,No change
+137,146,5/23/2025,Ross Stores Inc,ROST,NaN,Ike Boruchow,Overweight,Overweight,150,150,1,1,No change
+138,68,5/23/2025,Ross Stores Inc,ROST,Jefferies,Corey Tarlowe,Hold,Hold,145,135,0,0,No change
+139,305,6/13/2025,Ross Stores Inc,ROST,Jpmorgan,Matthew Boss,Overweight,Overweight,141,154,1,1,No change
+140,310,7/28/2025,Ross Stores Inc,ROST,NaN,Matthew Boss,Overweight,Overweight,156,156,1,1,No change
+141,543,12/2/2009,Amazon.com Inc,AMZN,NaN,Heath Terry,Outperform,Outperform,160,160,1,1,No change
+142,226,9/4/2012,Amazon.com Inc,AMZN,NaN,Brian Pitz,Buy,Buy,300,300,1,1,No change
+143,1536,9/21/2012,Amazon.com Inc,AMZN,NaN,Youssef Squali,Buy,Buy,300,300,1,1,No change
+144,544,1/9/2013,Amazon.com Inc,AMZN,NaN,Heath Terry,Buy,Buy,310,310,1,1,No change
+145,222,1/30/2013,Amazon.com Inc,AMZN,NaN,Brian Pitz,Buy,Buy,335,335,1,1,No change
+146,1534,1/30/2013,Amazon.com Inc,AMZN,NaN,Youssef Squali,Buy,Buy,335,335,1,1,No change
+147,161,1/30/2013,Amazon.com Inc,AMZN,NaN,Brian Nowak,Buy,Buy,335,335,1,1,No change
+148,932,1/30/2013,Amazon.com Inc,AMZN,NaN,Mark Mahaney,Outperform,Outperform,330,330,1,1,No change
+149,159,2/20/2013,Amazon.com Inc,AMZN,NaN,Brian Nowak,Buy,Buy,300,300,1,1,No change
+150,156,4/17/2013,Amazon.com Inc,AMZN,NaN,Brian Nowak,Buy,Buy,315,315,1,1,No change
+151,1533,4/26/2013,Amazon.com Inc,AMZN,NaN,Youssef Squali,Buy,Buy,315,315,1,1,No change
+152,162,7/10/2013,Amazon.com Inc,AMZN,NaN,Brian Nowak,Positive,Positive,370,370,1,1,No change
+153,1269,10/25/2013,Amazon.com Inc,AMZN,Deutsche Bank,Ross Sandler,Buy,Buy,16.75,20,1,1,No change
+154,935,10/25/2013,Amazon.com Inc,AMZN,NaN,Mark Mahaney,Outperform,Outperform,425,425,1,1,No change
+155,478,10/25/2013,Amazon.com Inc,AMZN,Ubs,Eric Sheridan,Buy,Buy,400,400,1,1,No change
+156,993,12/31/2013,Amazon.com Inc,AMZN,Citi,Mark May,Buy,Buy,457,457,1,1,No change
+157,1317,1/6/2014,Amazon.com Inc,AMZN,Morgan Stanley,Scott Devitt,Overweight,Overweight,435,435,1,1,No change
+158,160,1/10/2014,Amazon.com Inc,AMZN,NaN,Brian Nowak,Positive,Positive,500,500,1,1,No change
+159,469,1/13/2014,Amazon.com Inc,AMZN,Ubs,Eric Sheridan,Buy,Buy,465,465,1,1,No change
+160,1265,1/31/2014,Amazon.com Inc,AMZN,Deutsche Bank,Ross Sandler,Buy,Buy,420,420,1,1,No change
+161,996,1/31/2014,Amazon.com Inc,AMZN,Citi,Mark May,Neutral,Neutral,454,454,0,0,No change
+162,472,1/31/2014,Amazon.com Inc,AMZN,Ubs,Eric Sheridan,Buy,Buy,420,420,1,1,No change
+163,1263,4/25/2014,Amazon.com Inc,AMZN,Deutsche Bank,Ross Sandler,Buy,Buy,400,400,1,1,No change
+164,12,4/25/2014,Amazon.com Inc,AMZN,Raymond James,Aaron Kessler,Outperform,Outperform,400,400,1,1,No change
+165,467,4/25/2014,Amazon.com Inc,AMZN,Ubs,Eric Sheridan,Neutral,Neutral,350,350,0,0,No change
+166,1532,4/25/2014,Amazon.com Inc,AMZN,NaN,Youssef Squali,Buy,Buy,400,400,1,1,No change
+167,1005,7/22/2014,Amazon.com Inc,AMZN,Citi,Mark May,Buy,Neutral,20.7,19.75,1,0,Downgrade
+168,1266,7/25/2014,Amazon.com Inc,AMZN,Deutsche Bank,Ross Sandler,Buy,Buy,395,395,1,1,No change
+169,475,7/25/2014,Amazon.com Inc,AMZN,Ubs,Eric Sheridan,Neutral,Neutral,358,358,0,0,No change
+170,225,7/25/2014,Amazon.com Inc,AMZN,NaN,Brian Pitz,Buy,Buy,395,395,1,1,No change
+171,933,7/25/2014,Amazon.com Inc,AMZN,NaN,Mark Mahaney,Outperform,Outperform,380,380,1,1,No change
+172,410,7/25/2014,Amazon.com Inc,AMZN,NaN,Doug Anmuth,Neutral,Neutral,358,358,0,0,No change
+173,937,9/19/2014,Amazon.com Inc,AMZN,NaN,Mark Mahaney,Outperform,Outperform,435,435,1,1,No change
+174,167,10/10/2014,Amazon.com Inc,AMZN,NaN,Brian Nowak,Positive,Positive,390,390,1,1,No change
+175,339,10/24/2014,Amazon.com Inc,AMZN,Benchmark,Daniel Kurnos,Buy,Buy,350,350,1,1,No change
+176,290,10/24/2014,Amazon.com Inc,AMZN,Baird,Colin Sebastian,Outperform,Outperform,20,17,1,1,No change
+177,477,10/24/2014,Amazon.com Inc,AMZN,Ubs,Eric Sheridan,Neutral,Neutral,325,325,0,0,No change
+178,998,10/24/2014,Amazon.com Inc,AMZN,Citi,Mark May,Neutral,Neutral,325,325,0,0,No change
+179,931,1/27/2015,Amazon.com Inc,AMZN,Rbc,Mark Mahaney,Outperform,Outperform,410,410,1,1,No change
+180,409,1/27/2015,Amazon.com Inc,AMZN,NaN,Doug Anmuth,Neutral,Neutral,323,323,0,0,No change
+181,471,1/30/2015,Amazon.com Inc,AMZN,Ubs,Eric Sheridan,Neutral,Neutral,350,350,0,0,No change
+182,1264,1/30/2015,Amazon.com Inc,AMZN,Deutsche Bank,Ross Sandler,Buy,Buy,400,400,1,1,No change
+183,223,1/30/2015,Amazon.com Inc,AMZN,NaN,Brian Pitz,Buy,Buy,400,400,1,1,No change
+184,995,1/30/2015,Amazon.com Inc,AMZN,Citi,Mark May,Buy,Buy,400,400,1,1,No change
+185,1430,1/30/2015,Amazon.com Inc,AMZN,Credit Suisse,Stephen Ju,Outperform,Outperform,415,415,1,1,No change
+186,997,3/27/2015,Amazon.com Inc,AMZN,Citi,Mark May,Buy,Buy,430,430,1,1,No change
+187,1550,4/24/2015,Amazon.com Inc,AMZN,Cantor Fitzgerald,Youssef Squali,Buy,Buy,19.25,23,1,1,No change
+188,466,4/24/2015,Amazon.com Inc,AMZN,Ubs,Eric Sheridan,Neutral,Neutral,450,450,0,0,No change
+189,929,4/24/2015,Amazon.com Inc,AMZN,NaN,Mark Mahaney,Outperform,Outperform,485,485,1,1,No change
+190,1099,4/24/2015,Amazon.com Inc,AMZN,Wedbush,Michael Pachter,Short,Neutral,19.75,21.75,-1,0,Upgrade
+191,165,5/21/2015,Amazon.com Inc,AMZN,NaN,Brian Nowak,Overweight,Overweight,520,520,1,1,No change
+192,301,7/8/2015,Amazon.com Inc,AMZN,Baird,Colin Sebastian,Positive,Positive,23.25,23.75,1,1,No change
+193,1551,7/24/2015,Amazon.com Inc,AMZN,Cantor Fitzgerald,Youssef Squali,Buy,Buy,23,33.5,1,1,No change
+194,474,7/24/2015,Amazon.com Inc,AMZN,Ubs,Eric Sheridan,Buy,Buy,650,650,1,1,No change
+195,1431,7/24/2015,Amazon.com Inc,AMZN,Credit Suisse,Stephen Ju,Outperform,Outperform,700,700,1,1,No change
+196,224,7/24/2015,Amazon.com Inc,AMZN,Jefferies,Brian Pitz,Buy,Buy,650,650,1,1,No change
+197,422,7/24/2015,Amazon.com Inc,AMZN,Jpmorgan,Doug Anmuth,Overweight,Overweight,26.75,35.5,1,1,No change
+198,1318,7/29/2015,Amazon.com Inc,AMZN,Stifel,Scott Devitt,Buy,Hold,26.3,35,1,0,Downgrade
+199,934,10/23/2015,Amazon.com Inc,AMZN,Rbc,Mark Mahaney,Outperform,Outperform,777,777,1,1,No change
+200,476,10/23/2015,Amazon.com Inc,AMZN,Ubs,Eric Sheridan,Buy,Buy,700,700,1,1,No change
+201,338,10/23/2015,Amazon.com Inc,AMZN,Benchmark,Daniel Kurnos,Buy,Buy,700,700,1,1,No change
+202,1359,10/23/2015,Amazon.com Inc,AMZN,Fbn,Shebly Seyrafi,Outperform,Outperform,32.5,35,1,1,No change
+203,1329,10/23/2015,Amazon.com Inc,AMZN,Stifel,Scott Devitt,Buy,Buy,35,37.5,1,1,No change
+204,1433,10/23/2015,Amazon.com Inc,AMZN,Credit Suisse,Stephen Ju,Outperform,Outperform,777,777,1,1,No change
+205,151,11/11/2015,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,37.5,40,1,1,No change
+206,1429,1/12/2016,Amazon.com Inc,AMZN,Credit Suisse,Stephen Ju,Outperform,Outperform,800,800,1,1,No change
+207,962,1/29/2016,Amazon.com Inc,AMZN,Rbc,Mark Mahaney,Outperform,Outperform,38.75,35.75,1,1,No change
+208,335,1/29/2016,Amazon.com Inc,AMZN,Benchmark,Daniel Kurnos,Buy,Buy,735,735,1,1,No change
+209,470,1/29/2016,Amazon.com Inc,AMZN,Ubs,Eric Sheridan,Buy,Buy,735,735,1,1,No change
+210,610,1/29/2016,Amazon.com Inc,AMZN,Oppenheimer,Jason Helfstein,Outperform,Outperform,700,700,1,1,No change
+211,1045,2/18/2016,Amazon.com Inc,AMZN,Canaccord,Michael Graham,Buy,Hold,30,37.5,1,0,Downgrade
+212,15,3/22/2016,Amazon.com Inc,AMZN,Raymond James,Aaron Kessler,Outperform,Outperform,655,655,1,1,No change
+213,991,4/1/2016,Amazon.com Inc,AMZN,Citi,Mark May,Buy,Buy,760,760,1,1,No change
+214,407,4/7/2016,Amazon.com Inc,AMZN,Jpmorgan,Doug Anmuth,Overweight,Overweight,41.25,41.1,1,1,No change
+215,542,4/29/2016,Amazon.com Inc,AMZN,NaN,Heath Terry,Buy,Buy,785,785,1,1,No change
+216,1175,5/3/2016,Amazon.com Inc,AMZN,NaN,Robert Drbul,Buy,Buy,775,775,1,1,No change
+217,336,7/13/2016,Amazon.com Inc,AMZN,Benchmark,Daniel Kurnos,Buy,Buy,915,915,1,1,No change
+218,337,7/29/2016,Amazon.com Inc,AMZN,Benchmark,Daniel Kurnos,Buy,Buy,870,870,1,1,No change
+219,1041,7/29/2016,Amazon.com Inc,AMZN,Canaccord,Michael Graham,Buy,Buy,870,870,1,1,No change
+220,1366,7/29/2016,Amazon.com Inc,AMZN,NaN,Shweta Khajuria,Market Outperform,Market Outperform,840,840,NaN,NaN,None
+221,949,9/16/2016,Amazon.com Inc,AMZN,Rbc,Mark Mahaney,Outperform,Outperform,42,50,1,1,No change
+222,1367,9/30/2016,Amazon.com Inc,AMZN,NaN,Shweta Khajuria,Market Outperform,Market Outperform,950,950,NaN,NaN,None
+223,1529,10/12/2016,Amazon.com Inc,AMZN,Cantor Fitzgerald,Youssef Squali,Buy,Buy,41.75,50,1,1,No change
+224,936,10/28/2016,Amazon.com Inc,AMZN,Rbc,Mark Mahaney,Outperform,Outperform,950,950,1,1,No change
+225,1044,10/28/2016,Amazon.com Inc,AMZN,Canaccord,Michael Graham,Buy,Buy,920,920,1,1,No change
+226,1038,12/1/2016,Amazon.com Inc,AMZN,Canaccord,Michael Graham,Buy,Buy,875,875,1,1,No change
+227,334,2/3/2017,Amazon.com Inc,AMZN,Benchmark,Daniel Kurnos,Buy,Buy,905,905,1,1,No change
+228,613,2/15/2017,Amazon.com Inc,AMZN,Oppenheimer,Jason Helfstein,Outperform,Outperform,45,48.5,1,1,No change
+229,999,7/28/2017,Amazon.com Inc,AMZN,Citi,Mark May,Buy,Buy,61,60,1,1,No change
+230,878,7/28/2017,Amazon.com Inc,AMZN,Deutsche Bank,Lloyd Walmsley,Buy,Buy,56.75,58.75,1,1,No change
+231,611,10/27/2017,Amazon.com Inc,AMZN,Oppenheimer,Jason Helfstein,Outperform,Outperform,1165,1165,1,1,No change
+232,47,10/27/2017,Amazon.com Inc,AMZN,Loop Capital,Anthony Chukumba,Buy,Buy,1250,1250,1,1,No change
+233,994,1/5/2018,Amazon.com Inc,AMZN,Citi,Mark May,Buy,Buy,1400,1400,1,1,No change
+234,1221,1/24/2018,Amazon.com Inc,AMZN,Jmp,Ronald Josey,Mkt Outperform,Mkt Outperform,1475,1475,NaN,NaN,None
+235,1365,1/24/2018,Amazon.com Inc,AMZN,NaN,Shweta Khajuria,Mkt Outperform,Mkt Outperform,1475,1475,NaN,NaN,None
+236,1503,1/25/2018,Amazon.com Inc,AMZN,D.A. Davidson,Tom Forte,Buy,Positive,75,90,1,1,No change
+237,158,2/2/2018,Amazon.com Inc,AMZN,NaN,Brian Nowak,Overweight,Overweight,1500,1500,1,1,No change
+238,1376,2/2/2018,Amazon.com Inc,AMZN,Susquehanna,Shyam Patil,Positive,Positive,65,92.5,1,1,No change
+239,1364,2/2/2018,Amazon.com Inc,AMZN,NaN,Shweta Khajuria,Market Outperform,Market Outperform,1600,1600,NaN,NaN,None
+240,97,3/13/2018,Amazon.com Inc,AMZN,Jefferies,Brent Thill,Buy,Buy,1850,1850,1,1,No change
+241,157,4/19/2018,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,1550,1550,1,1,No change
+242,1220,4/27/2018,Amazon.com Inc,AMZN,Jmp,Ronald Josey,Market Outperform,Market Outperform,1840,1840,NaN,NaN,None
+243,879,4/27/2018,Amazon.com Inc,AMZN,Deutsche Bank,Lloyd Walmsley,Buy,Buy,82.5,90,1,1,No change
+244,238,4/27/2018,Amazon.com Inc,AMZN,Monness Crespi & Hardt,Brian White,Buy,Buy,100,110,1,1,No change
+245,1427,4/27/2018,Amazon.com Inc,AMZN,Credit Suisse,Stephen Ju,Outperform,Outperform,1950,1950,1,1,No change
+246,679,5/23/2018,Amazon.com Inc,AMZN,Td Cowen,John Blackledge,Outperform,Positive,95,100,1,1,No change
+247,707,7/20/2018,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,2100,2100,1,1,No change
+248,708,7/27/2018,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,2100,2100,1,1,No change
+249,164,7/27/2018,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,2200,2200,1,1,No change
+250,411,7/27/2018,Amazon.com Inc,AMZN,Jpmorgan,Doug Anmuth,Overweight,Overweight,2200,2200,1,1,No change
+251,1040,7/27/2018,Amazon.com Inc,AMZN,Canaccord,Michael Graham,Buy,Buy,2100,2100,1,1,No change
+252,1222,7/27/2018,Amazon.com Inc,AMZN,Jmp,Ronald Josey,Market Outperform,Market Outperform,2075,2075,NaN,NaN,None
+253,1432,7/27/2018,Amazon.com Inc,AMZN,Credit Suisse,Stephen Ju,Outperform,Outperform,2100,2100,1,1,No change
+254,1327,9/27/2018,Amazon.com Inc,AMZN,Stifel,Scott Devitt,Buy,Buy,101,126.25,1,1,No change
+255,1223,10/29/2018,Amazon.com Inc,AMZN,Jmp,Ronald Josey,Mkt Outperform,Mkt Outperform,2050,2050,NaN,NaN,None
+256,80,3/15/2019,Amazon.com Inc,AMZN,NaN,Brent Bracelin,Overweight,Overweight,2100,2100,1,1,No change
+257,666,4/26/2019,Amazon.com Inc,AMZN,Td Cowen,John Blackledge,Outperform,Outperform,112.5,120,1,1,No change
+258,1146,6/4/2019,Amazon.com Inc,AMZN,NaN,Rob Sanderson,Buy,Buy,2380,2380,1,1,No change
+259,163,7/15/2019,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,2300,2300,1,1,No change
+260,14,7/26/2019,Amazon.com Inc,AMZN,Raymond James,Aaron Kessler,Outperform,Outperform,2225,2225,1,1,No change
+261,559,9/27/2019,Amazon.com Inc,AMZN,NaN,Ike Boruchow,Outperform,Outperform,2200,2300,1,1,No change
+262,1193,10/25/2019,Amazon.com Inc,AMZN,Roth Mkm,Rohit Kulkarni,Buy,Buy,2350,2350,1,1,No change
+263,947,1/31/2020,Amazon.com Inc,AMZN,Rbc,Mark Mahaney,Outperform,Outperform,125,135,1,1,No change
+264,235,1/31/2020,Amazon.com Inc,AMZN,Monness Crespi & Hardt,Brian White,Buy,Buy,112.5,132.5,1,1,No change
+265,18,1/31/2020,Amazon.com Inc,AMZN,Raymond James,Aaron Kessler,Outperform,Outperform,101,120,1,1,No change
+266,706,1/31/2020,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,2040,2400,1,1,No change
+267,473,1/31/2020,Amazon.com Inc,AMZN,Ubs,Eric Sheridan,Buy,Buy,2250,2450,1,1,No change
+268,585,2/5/2020,Amazon.com Inc,AMZN,Citi,Jason Bazinet,Buy,Buy,2400,2400,1,1,No change
+269,236,5/1/2020,Amazon.com Inc,AMZN,Monness Crespi & Hardt,Brian White,Buy,Buy,132.5,140,1,1,No change
+270,1192,5/1/2020,Amazon.com Inc,AMZN,Roth Mkm,Rohit Kulkarni,Buy,Buy,2550,2550,1,1,No change
+271,1043,5/1/2020,Amazon.com Inc,AMZN,Canaccord,Michael Graham,Buy,Buy,2550,2550,1,1,No change
+272,888,5/1/2020,Amazon.com Inc,AMZN,Canaccord,Maria Ripps,Buy,Buy,2550,2550,1,1,No change
+273,1535,5/1/2020,Amazon.com Inc,AMZN,Truist,Youssef Squali,Buy,Buy,2550,2550,1,1,No change
+274,1039,7/1/2020,Amazon.com Inc,AMZN,Canaccord,Michael Graham,Buy,Buy,2750,3300,1,1,No change
+275,1042,7/31/2020,Amazon.com Inc,AMZN,Canaccord,Michael Graham,Buy,Buy,3400,3600,1,1,No change
+276,19,7/31/2020,Amazon.com Inc,AMZN,Raymond James,Aaron Kessler,Outperform,Outperform,126.25,175,1,1,No change
+277,237,7/31/2020,Amazon.com Inc,AMZN,Monness Crespi & Hardt,Brian White,Buy,Buy,175,187.5,1,1,No change
+278,484,7/31/2020,Amazon.com Inc,AMZN,Ubs,Eric Sheridan,Buy,Buy,150,200,1,1,No change
+279,887,7/31/2020,Amazon.com Inc,AMZN,Canaccord,Maria Ripps,Buy,Buy,3400,3600,1,1,No change
+280,852,7/31/2020,Amazon.com Inc,AMZN,Deutsche Bank,Lloyd Walmsley,Buy,Buy,166.65,200,1,1,No change
+281,807,7/31/2020,Amazon.com Inc,AMZN,Needham,Laura Martin,Buy,Buy,160,185,1,1,No change
+282,709,7/31/2020,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,3500,3500,1,1,No change
+283,1470,9/25/2020,Amazon.com Inc,AMZN,NaN,Thomas Champion,Overweight,Overweight,193,193,1,1,No change
+284,341,10/7/2020,Amazon.com Inc,AMZN,Benchmark,Daniel Kurnos,Buy,Buy,183.75,190,1,1,No change
+285,697,10/30/2020,Amazon.com Inc,AMZN,Td Cowen,John Blackledge,Outperform,Outperform,200,207.5,1,1,No change
+286,447,11/4/2020,Amazon.com Inc,AMZN,China Renaissance,Ella Ji,Buy,Hold,168,200,1,0,Downgrade
+287,243,2/3/2021,Amazon.com Inc,AMZN,Monness Crespi & Hardt,Brian White,Buy,Buy,200,212.5,1,1,No change
+288,670,2/3/2021,Amazon.com Inc,AMZN,Td Cowen,John Blackledge,Outperform,Outperform,217.5,220,1,1,No change
+289,1316,2/3/2021,Amazon.com Inc,AMZN,Stifel,Scott Devitt,Buy,Buy,3800,4100,1,1,No change
+290,523,4/1/2021,Amazon.com Inc,AMZN,NaN,Greg Badishkanian,Outperform,Outperform,3720,3720,1,1,No change
+291,1428,4/30/2021,Amazon.com Inc,AMZN,Credit Suisse,Stephen Ju,Outperform,Outperform,4000,4000,1,1,No change
+292,886,4/30/2021,Amazon.com Inc,AMZN,Canaccord,Maria Ripps,Buy,Buy,4200,4200,1,1,No change
+293,244,4/30/2021,Amazon.com Inc,AMZN,Monness Crespi & Hardt,Brian White,Buy,Buy,212.5,225,1,1,No change
+294,558,4/30/2021,Amazon.com Inc,AMZN,Wells Fargo,Ike Boruchow,Overweight,Overweight,4500,4500,1,1,No change
+295,970,9/17/2021,Amazon.com Inc,AMZN,Evercore,Mark Mahaney,Outperform,Outperform,235,235,1,1,No change
+296,510,9/17/2021,Amazon.com Inc,AMZN,Goldman Sachs,Eric Sheridan,Buy,Buy,212.5,212.5,1,1,No change
+297,76,10/1/2021,Amazon.com Inc,AMZN,NaN,Brad Erickson,Outperform,Outperform,207.5,207.5,1,1,No change
+298,166,10/1/2021,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,4100,4100,1,1,No change
+299,71,10/29/2021,Amazon.com Inc,AMZN,NaN,Brad Erickson,Outperform,Outperform,4200,4100,1,1,No change
+300,216,10/29/2021,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,200,200,1,1,No change
+301,526,10/29/2021,Amazon.com Inc,AMZN,NaN,Greg Badishkanian,Outperform,Outperform,4200,4100,1,1,No change
+302,90,10/29/2021,Amazon.com Inc,AMZN,Jefferies,Brent Thill,Buy,Hold,210,200,1,0,Downgrade
+303,1457,11/1/2021,Amazon.com Inc,AMZN,Credit Suisse,Stephen Ju,Outperform,Outperform,205,205,1,1,No change
+304,30,11/1/2021,Amazon.com Inc,AMZN,NaN,Andrew Boone,Market Outperform,Market Outperform,200,200,NaN,NaN,None
+305,1289,11/1/2021,Amazon.com Inc,AMZN,NaN,Ross Sandler,Overweight,Overweight,190,190,1,1,No change
+306,863,12/2/2021,Amazon.com Inc,AMZN,NaN,Lloyd Walmsley,Buy,Buy,4700,4700,1,1,No change
+307,1054,12/2/2021,Amazon.com Inc,AMZN,NaN,Michael Lasser,Buy,Buy,4700,4700,1,1,No change
+308,424,2/4/2022,Amazon.com Inc,AMZN,Jpmorgan,Doug Anmuth,Overweight,Overweight,217.5,225,1,1,No change
+309,21,2/4/2022,Amazon.com Inc,AMZN,Raymond James,Aaron Kessler,Outperform,Outperform,192,197.5,1,1,No change
+310,1055,2/4/2022,Amazon.com Inc,AMZN,NaN,Michael Lasser,Buy,Buy,4100,4100,1,1,No change
+311,356,2/4/2022,Amazon.com Inc,AMZN,Wolfe,Deepak Mathivanan,Outperform,Outperform,3950,3950,1,1,No change
+312,497,2/4/2022,Amazon.com Inc,AMZN,Goldman Sachs,Eric Sheridan,Buy,Buy,205,210,1,1,No change
+313,524,2/4/2022,Amazon.com Inc,AMZN,NaN,Greg Badishkanian,Outperform,Outperform,3950,3950,1,1,No change
+314,841,3/11/2022,Amazon.com Inc,AMZN,NaN,Lee Horowitz,Buy,Buy,205,205,1,1,No change
+315,1394,3/30/2022,Amazon.com Inc,AMZN,NaN,Stefan Slowinski,Underperform,Underperform,140,140,-1,-1,No change
+316,468,4/5/2022,Amazon.com Inc,AMZN,Goldman Sachs,Eric Sheridan,Buy,Buy,4250,4250,1,1,No change
+317,930,4/5/2022,Amazon.com Inc,AMZN,Evercore,Mark Mahaney,Outperform,Outperform,4700,4700,1,1,No change
+318,584,4/20/2022,Amazon.com Inc,AMZN,NaN,Jason Bazinet,Buy,Buy,4550,4550,1,1,No change
+319,1052,4/20/2022,Amazon.com Inc,AMZN,NaN,Michael Lasser,Buy,Buy,4550,4550,1,1,No change
+320,881,4/20/2022,Amazon.com Inc,AMZN,Ubs,Lloyd Walmsley,Buy,Buy,231.25,227.5,1,1,No change
+321,329,4/29/2022,Amazon.com Inc,AMZN,Benchmark,Daniel Kurnos,Buy,In Line,200,185,1,NaN,None
+322,735,4/29/2022,Amazon.com Inc,AMZN,NaN,Joseph Feldman,Outperform,Outperform,170,170,1,1,No change
+323,885,4/29/2022,Amazon.com Inc,AMZN,Canaccord,Maria Ripps,Buy,Buy,3625,3625,1,1,No change
+324,27,4/29/2022,Amazon.com Inc,AMZN,NaN,Andrew Boone,Market Outperform,Market Outperform,3600,3600,NaN,NaN,None
+325,1194,4/29/2022,Amazon.com Inc,AMZN,Roth Mkm,Rohit Kulkarni,Buy,Buy,181.25,181.25,1,1,No change
+326,1053,4/29/2022,Amazon.com Inc,AMZN,NaN,Michael Lasser,Buy,Buy,3625,3625,1,1,No change
+327,29,6/1/2022,Amazon.com Inc,AMZN,NaN,Andrew Boone,Market Outperform,Market Outperform,3450,3450,NaN,NaN,None
+328,217,6/6/2022,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,175,175,1,1,No change
+329,1195,6/6/2022,Amazon.com Inc,AMZN,Roth Mkm,Rohit Kulkarni,Buy,Buy,180,180,1,1,No change
+330,511,6/10/2022,Amazon.com Inc,AMZN,Goldman Sachs,Eric Sheridan,Buy,Buy,170,170,1,1,No change
+331,63,6/14/2022,Amazon.com Inc,AMZN,Rosenblatt,Barton Crockett,Neutral,Neutral,107,107,0,0,No change
+332,1056,6/28/2022,Amazon.com Inc,AMZN,NaN,Michael Lasser,Buy,Buy,167,167,1,1,No change
+333,864,6/28/2022,Amazon.com Inc,AMZN,Ubs,Lloyd Walmsley,Buy,Buy,209,167,1,1,No change
+334,435,6/29/2022,Amazon.com Inc,AMZN,Jpmorgan,Doug Anmuth,Overweight,Overweight,175,175,1,1,No change
+335,572,6/29/2022,Amazon.com Inc,AMZN,Tigress Partners,Ivan Feinseth,Buy,Buy,232,232,1,1,No change
+336,525,6/29/2022,Amazon.com Inc,AMZN,NaN,Greg Badishkanian,Outperform,Outperform,140,140,1,1,No change
+337,736,7/13/2022,Amazon.com Inc,AMZN,NaN,Joseph Feldman,Outperform,Outperform,145,145,1,1,No change
+338,586,7/14/2022,Amazon.com Inc,AMZN,NaN,Jason Bazinet,Buy,Buy,180,180,1,1,No change
+339,1285,7/15/2022,Amazon.com Inc,AMZN,Barclays,Ross Sandler,Overweight,Overweight,195,195,1,1,No change
+340,842,7/21/2022,Amazon.com Inc,AMZN,Deutsche Bank,Lee Horowitz,Buy,Buy,155,155,1,1,No change
+341,64,7/29/2022,Amazon.com Inc,AMZN,Rosenblatt,Barton Crockett,Neutral,Neutral,118,118,0,0,No change
+342,1312,7/29/2022,Amazon.com Inc,AMZN,Stifel,Scott Devitt,Buy,In Line,185,200,1,NaN,None
+343,1140,7/29/2022,Amazon.com Inc,AMZN,NaN,Nicholas Jones,Market Outperform,Market Outperform,180,180,NaN,NaN,None
+344,28,7/29/2022,Amazon.com Inc,AMZN,NaN,Andrew Boone,Market Outperform,Market Outperform,180,180,NaN,NaN,None
+345,737,7/29/2022,Amazon.com Inc,AMZN,NaN,Joseph Feldman,Outperform,Outperform,150,150,1,1,No change
+346,800,7/29/2022,Amazon.com Inc,AMZN,NaN,Justin Post,Buy,Buy,170,170,1,1,No change
+347,801,10/3/2022,Amazon.com Inc,AMZN,NaN,Justin Post,Buy,Buy,157,157,1,1,No change
+348,436,10/21/2022,Amazon.com Inc,AMZN,NaN,Doug Anmuth,Overweight,Overweight,175,175,1,1,No change
+349,317,10/28/2022,Amazon.com Inc,AMZN,Baird,Colin Sebastian,Outperform,Outperform,130,130,1,1,No change
+350,218,10/28/2022,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,140,140,1,1,No change
+351,818,10/28/2022,Amazon.com Inc,AMZN,Needham,Laura Martin,Buy,Buy,120,120,1,1,No change
+352,1286,10/28/2022,Amazon.com Inc,AMZN,Barclays,Ross Sandler,Overweight,Overweight,140,140,1,1,No change
+353,632,10/28/2022,Amazon.com Inc,AMZN,Oppenheimer,Jason Helfstein,Outperform,Outperform,130,130,1,1,No change
+354,1238,10/28/2022,Amazon.com Inc,AMZN,NaN,Ronald Josey,Buy,Buy,145,145,1,1,No change
+355,738,10/28/2022,Amazon.com Inc,AMZN,NaN,Joseph Feldman,Outperform,Outperform,140,140,1,1,No change
+356,65,11/14/2022,Amazon.com Inc,AMZN,Rosenblatt,Barton Crockett,Neutral,Neutral,103,103,0,0,No change
+357,1479,11/22/2022,Amazon.com Inc,AMZN,Piper Sandler,Thomas Champion,Overweight,Overweight,119,119,1,1,No change
+358,512,1/13/2023,Amazon.com Inc,AMZN,Goldman Sachs,Eric Sheridan,Buy,Buy,145,145,1,1,No change
+359,1121,2/3/2023,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outperform,140,140,NaN,NaN,None
+360,819,2/3/2023,Amazon.com Inc,AMZN,Needham,Laura Martin,Buy,Buy,120,120,1,1,No change
+361,66,2/3/2023,Amazon.com Inc,AMZN,Rosenblatt,Barton Crockett,Neutral,Neutral,106,106,0,0,No change
+362,1514,2/3/2023,Amazon.com Inc,AMZN,D.A. Davidson,Tom Forte,Buy,Buy,134,134,1,1,No change
+363,1458,2/3/2023,Amazon.com Inc,AMZN,Credit Suisse,Stephen Ju,Outperform,Outperform,150,150,1,1,No change
+364,573,2/9/2023,Amazon.com Inc,AMZN,Tigress Partners,Ivan Feinseth,Buy,Buy,192,192,1,1,No change
+365,1122,3/16/2023,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outperform,140,140,NaN,NaN,None
+366,437,3/16/2023,Amazon.com Inc,AMZN,NaN,Doug Anmuth,Overweight,Overweight,135,135,1,1,No change
+367,820,3/20/2023,Amazon.com Inc,AMZN,Needham,Laura Martin,Buy,Buy,120,120,1,1,No change
+368,821,4/5/2023,Amazon.com Inc,AMZN,Needham,Laura Martin,Buy,Buy,120,120,1,1,No change
+369,633,4/6/2023,Amazon.com Inc,AMZN,Oppenheimer,Jason Helfstein,Outperform,Outperform,125,125,1,1,No change
+370,1549,4/12/2023,Amazon.com Inc,AMZN,Truist,Youssef Squali,Buy,Positive,142,144,1,1,No change
+371,822,4/12/2023,Amazon.com Inc,AMZN,Needham,Laura Martin,Buy,Buy,120,120,1,1,No change
+372,1123,4/19/2023,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outperform,140,140,NaN,NaN,None
+373,739,4/20/2023,Amazon.com Inc,AMZN,NaN,Joseph Feldman,Outperform,Outperform,125,125,1,1,No change
+374,1196,4/28/2023,Amazon.com Inc,AMZN,NaN,Rohit Kulkarni,Buy,Buy,130,130,1,1,No change
+375,1124,4/28/2023,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,140,140,NaN,NaN,None
+376,1107,4/28/2023,Amazon.com Inc,AMZN,Wedbush,Michael Pachter,Outperform,Outperform,129,129,1,1,No change
+377,823,4/28/2023,Amazon.com Inc,AMZN,Needham,Laura Martin,Buy,Buy,120,120,1,1,No change
+378,722,4/28/2023,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,125,125,1,1,No change
+379,1480,6/7/2023,Amazon.com Inc,AMZN,Piper Sandler,Thomas Champion,Overweight,Overweight,150,150,1,1,No change
+380,883,6/8/2023,Amazon.com Inc,AMZN,Ubs,Lloyd Walmsley,Buy,Buy,150,150,1,1,No change
+381,796,6/12/2023,Amazon.com Inc,AMZN,Baml,Justin Post,Buy,Buy,154,154,1,1,No change
+382,109,6/21/2023,Amazon.com Inc,AMZN,Jefferies,Brent Thill,Buy,Positive,135,150,1,1,No change
+383,438,6/22/2023,Amazon.com Inc,AMZN,Jpmorgan,Doug Anmuth,Overweight,Overweight,145,145,1,1,No change
+384,205,6/22/2023,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,150,150,1,1,No change
+385,1197,6/26/2023,Amazon.com Inc,AMZN,NaN,Rohit Kulkarni,Buy,Buy,155,155,1,1,No change
+386,1125,7/11/2023,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,140,140,NaN,NaN,None
+387,574,7/13/2023,Amazon.com Inc,AMZN,Tigress Partners,Ivan Feinseth,Buy,Buy,204,204,1,1,No change
+388,1126,7/18/2023,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,140,140,NaN,NaN,None
+389,1239,8/4/2023,Amazon.com Inc,AMZN,NaN,Ronald Josey,Buy,Buy,167,167,1,1,No change
+390,67,8/4/2023,Amazon.com Inc,AMZN,Rosenblatt,Barton Crockett,Neutral,Buy,184,184,0,1,Upgrade
+391,1473,8/24/2023,Amazon.com Inc,AMZN,Piper Sandler,Thomas Champion,Overweight,Overweight,175,185,1,1,No change
+392,206,9/20/2023,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,175,175,1,1,No change
+393,723,9/22/2023,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,160,160,1,1,No change
+394,797,9/26/2023,Amazon.com Inc,AMZN,Baml,Justin Post,Buy,Buy,174,174,1,1,No change
+395,642,9/27/2023,Amazon.com Inc,AMZN,Argus,Jim Kelleher,Buy,Buy,165,165,1,1,No change
+396,724,9/27/2023,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,160,160,1,1,No change
+397,824,9/28/2023,Amazon.com Inc,AMZN,Needham,Laura Martin,Buy,Buy,160,160,1,1,No change
+398,1348,9/28/2023,Amazon.com Inc,AMZN,NaN,Scott Devitt,Outperform,Outperform,180,180,1,1,No change
+399,207,10/2/2023,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,175,175,1,1,No change
+400,725,10/11/2023,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,160,160,1,1,No change
+401,1127,10/16/2023,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,175,175,NaN,NaN,None
+402,899,10/17/2023,Amazon.com Inc,AMZN,NaN,Mark Kelley,Buy,Buy,173,173,1,1,No change
+403,843,10/17/2023,Amazon.com Inc,AMZN,NaN,Lee Horowitz,Buy,Buy,175,175,1,1,No change
+404,1349,10/18/2023,Amazon.com Inc,AMZN,NaN,Scott Devitt,Outperform,Outperform,180,180,1,1,No change
+405,634,10/19/2023,Amazon.com Inc,AMZN,Oppenheimer,Jason Helfstein,Outperform,Outperform,170,170,1,1,No change
+406,25,10/24/2023,Amazon.com Inc,AMZN,NaN,Aaron Kessler,Buy,Buy,145,145,1,1,No change
+407,825,10/27/2023,Amazon.com Inc,AMZN,Needham,Laura Martin,Buy,Buy,160,160,1,1,No change
+408,1128,11/29/2023,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,175,175,NaN,NaN,None
+409,1558,11/29/2023,Amazon.com Inc,AMZN,Truist,Youssef Squali,Buy,Buy,176,176,1,1,No change
+410,1350,12/1/2023,Amazon.com Inc,AMZN,NaN,Scott Devitt,Outperform,Outperform,180,180,1,1,No change
+411,228,1/9/2024,Amazon.com Inc,AMZN,NaN,Brian Pitz,Outperform,Outperform,200,200,1,1,No change
+412,900,1/9/2024,Amazon.com Inc,AMZN,NaN,Mark Kelley,Buy,Buy,175,175,1,1,No change
+413,492,1/10/2024,Amazon.com Inc,AMZN,Goldman Sachs,Eric Sheridan,Buy,Buy,190,200,1,1,No change
+414,1351,1/19/2024,Amazon.com Inc,AMZN,Wedbush,Scott Devitt,Outperform,Outperform,210,210,1,1,No change
+415,717,1/24/2024,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,165,185,1,1,No change
+416,439,2/2/2024,Amazon.com Inc,AMZN,Jpmorgan,Doug Anmuth,Overweight,Overweight,225,225,1,1,No change
+417,1287,2/2/2024,Amazon.com Inc,AMZN,Barclays,Ross Sandler,Overweight,Overweight,220,220,1,1,No change
+418,1198,2/2/2024,Amazon.com Inc,AMZN,NaN,Rohit Kulkarni,Buy,Buy,205,205,1,1,No change
+419,1129,2/2/2024,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,225,225,NaN,NaN,None
+420,741,2/2/2024,Amazon.com Inc,AMZN,NaN,Josh Beck,Strong Buy,Strong Buy,200,200,1,1,No change
+421,77,2/2/2024,Amazon.com Inc,AMZN,Rbc,Brad Erickson,Outperform,Outperform,215,215,1,1,No change
+422,884,2/2/2024,Amazon.com Inc,AMZN,Ubs,Lloyd Walmsley,Buy,Buy,198,198,1,1,No change
+423,1559,2/2/2024,Amazon.com Inc,AMZN,Truist,Youssef Squali,Buy,Buy,195,195,1,1,No change
+424,971,2/2/2024,Amazon.com Inc,AMZN,Evercore,Mark Mahaney,Outperform,Outperform,220,220,1,1,No change
+425,726,3/27/2024,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,200,200,1,1,No change
+426,520,4/18/2024,Amazon.com Inc,AMZN,NaN,Gil Luria,Buy,Buy,235,235,1,1,No change
+427,826,4/18/2024,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,205,205,1,1,No change
+428,229,4/23/2024,Amazon.com Inc,AMZN,NaN,Brian Pitz,Outperform,Outperform,215,215,1,1,No change
+429,349,4/24/2024,Amazon.com Inc,AMZN,Benchmark,Daniel Kurnos,Buy,Buy,200,200,1,1,No change
+430,249,5/1/2024,Amazon.com Inc,AMZN,Hsbc,Christopher Johnen,Buy,Buy,200,220,1,1,No change
+431,1130,5/1/2024,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,225,225,NaN,NaN,None
+432,350,5/1/2024,Amazon.com Inc,AMZN,Benchmark,Daniel Kurnos,Buy,Buy,200,200,1,1,No change
+433,68,5/1/2024,Amazon.com Inc,AMZN,Rosenblatt,Barton Crockett,Buy,Buy,220,220,1,1,No change
+434,740,5/1/2024,Amazon.com Inc,AMZN,Raymond James,Josh Beck,Strong Buy,Strong Buy,200,205,1,1,No change
+435,1236,5/1/2024,Amazon.com Inc,AMZN,Citi,Ronald Josey,Buy,Buy,235,245,1,1,No change
+436,901,5/1/2024,Amazon.com Inc,AMZN,NaN,Mark Kelley,Buy,Buy,228,228,1,1,No change
+437,1477,5/1/2024,Amazon.com Inc,AMZN,Piper Sandler,Thomas Champion,Overweight,Overweight,205,220,1,1,No change
+438,727,5/1/2024,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,215,215,1,1,No change
+439,433,5/1/2024,Amazon.com Inc,AMZN,Jpmorgan,Doug Anmuth,Overweight,Overweight,225,240,1,1,No change
+440,827,5/1/2024,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,205,205,1,1,No change
+441,230,5/1/2024,Amazon.com Inc,AMZN,NaN,Brian Pitz,Outperform,Outperform,220,220,1,1,No change
+442,1199,5/1/2024,Amazon.com Inc,AMZN,NaN,Rohit Kulkarni,Buy,Buy,210,210,1,1,No change
+443,969,5/1/2024,Amazon.com Inc,AMZN,Evercore,Mark Mahaney,Outperform,Outperform,220,225,1,1,No change
+444,204,5/1/2024,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,215,220,1,1,No change
+445,1352,5/1/2024,Amazon.com Inc,AMZN,Wedbush,Scott Devitt,Outperform,Outperform,225,225,1,1,No change
+446,1288,5/1/2024,Amazon.com Inc,AMZN,Barclays,Ross Sandler,Overweight,Overweight,230,230,1,1,No change
+447,828,5/15/2024,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,205,205,1,1,No change
+448,575,5/30/2024,Amazon.com Inc,AMZN,NaN,Ivan Feinseth,Buy,Buy,245,245,1,1,No change
+449,829,7/1/2024,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,205,205,1,1,No change
+450,830,7/9/2024,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,205,205,1,1,No change
+451,1200,7/9/2024,Amazon.com Inc,AMZN,NaN,Rohit Kulkarni,Buy,Buy,210,210,1,1,No change
+452,703,7/10/2024,Amazon.com Inc,AMZN,Td Cowen,John Blackledge,Buy,Buy,245,245,1,1,No change
+453,351,7/16/2024,Amazon.com Inc,AMZN,Benchmark,Daniel Kurnos,Buy,Buy,200,200,1,1,No change
+454,1368,7/16/2024,Amazon.com Inc,AMZN,NaN,Shweta Khajuria,Outperform,Outperform,250,250,1,1,No change
+455,831,7/17/2024,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,210,210,1,1,No change
+456,1560,7/22/2024,Amazon.com Inc,AMZN,Truist,Youssef Squali,Buy,Buy,230,230,1,1,No change
+457,1023,7/22/2024,Amazon.com Inc,AMZN,NaN,Mark Shmulik,Outperform,Outperform,215,215,1,1,No change
+458,208,7/23/2024,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,240,240,1,1,No change
+459,1131,7/23/2024,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,225,225,NaN,NaN,None
+460,231,7/25/2024,Amazon.com Inc,AMZN,NaN,Brian Pitz,Outperform,Outperform,230,230,1,1,No change
+461,1353,7/26/2024,Amazon.com Inc,AMZN,Wedbush,Scott Devitt,Outperform,Outperform,225,225,1,1,No change
+462,352,8/2/2024,Amazon.com Inc,AMZN,Benchmark,Daniel Kurnos,Buy,Buy,200,200,1,1,No change
+463,798,8/2/2024,Amazon.com Inc,AMZN,Baml,Justin Post,Buy,Buy,210,210,1,1,No change
+464,1515,8/2/2024,Amazon.com Inc,AMZN,NaN,Tom Forte,Buy,Buy,251,251,1,1,No change
+465,78,8/2/2024,Amazon.com Inc,AMZN,Rbc,Brad Erickson,Outperform,Outperform,215,215,1,1,No change
+466,1481,8/2/2024,Amazon.com Inc,AMZN,Piper Sandler,Thomas Champion,Overweight,Overweight,215,215,1,1,No change
+467,902,8/2/2024,Amazon.com Inc,AMZN,NaN,Mark Kelley,Buy,Buy,224,224,1,1,No change
+468,1201,8/2/2024,Amazon.com Inc,AMZN,NaN,Rohit Kulkarni,Buy,Buy,215,215,1,1,No change
+469,1354,8/2/2024,Amazon.com Inc,AMZN,Wedbush,Scott Devitt,Outperform,Outperform,225,225,1,1,No change
+470,122,8/2/2024,Amazon.com Inc,AMZN,Jefferies,Brent Thill,Buy,Buy,225,225,1,1,No change
+471,440,8/2/2024,Amazon.com Inc,AMZN,Jpmorgan,Doug Anmuth,Overweight,Overweight,230,230,1,1,No change
+472,1132,9/3/2024,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,265,265,NaN,NaN,None
+473,372,9/5/2024,Amazon.com Inc,AMZN,NaN,Deepak Mathivanan,Overweight,Overweight,230,230,1,1,No change
+474,832,9/12/2024,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,210,210,1,1,No change
+475,232,9/19/2024,Amazon.com Inc,AMZN,NaN,Brian Pitz,Outperform,Outperform,230,230,1,1,No change
+476,972,9/20/2024,Amazon.com Inc,AMZN,NaN,Mark Mahaney,Outperform,Outperform,240,240,1,1,No change
+477,373,9/23/2024,Amazon.com Inc,AMZN,NaN,Deepak Mathivanan,Overweight,Overweight,230,230,1,1,No change
+478,366,9/30/2024,Amazon.com Inc,AMZN,NaN,Deepak Mathivanan,Overweight,Overweight,230,230,1,1,No change
+479,1561,9/30/2024,Amazon.com Inc,AMZN,Truist,Youssef Squali,Buy,Buy,265,265,1,1,No change
+480,209,10/3/2024,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,210,210,1,1,No change
+481,1133,10/4/2024,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,265,265,NaN,NaN,None
+482,367,10/9/2024,Amazon.com Inc,AMZN,NaN,Deepak Mathivanan,Overweight,Overweight,210,210,1,1,No change
+483,521,10/10/2024,Amazon.com Inc,AMZN,NaN,Gil Luria,Buy,Buy,235,235,1,1,No change
+484,728,10/10/2024,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,215,215,1,1,No change
+485,973,10/11/2024,Amazon.com Inc,AMZN,NaN,Mark Mahaney,Outperform,Outperform,240,240,1,1,No change
+486,1111,10/11/2024,Amazon.com Inc,AMZN,NaN,Nat Schindler,Sector Outperform,Sector Outperform,245,245,NaN,NaN,None
+487,1134,10/15/2024,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,265,265,NaN,NaN,None
+488,833,10/24/2024,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,210,210,1,1,No change
+489,1512,11/1/2024,Amazon.com Inc,AMZN,Maxim Group,Tom Forte,Buy,Buy,251,260,1,1,No change
+490,73,11/1/2024,Amazon.com Inc,AMZN,Rbc,Brad Erickson,Outperform,Outperform,215,225,1,1,No change
+491,1478,11/1/2024,Amazon.com Inc,AMZN,Piper Sandler,Thomas Champion,Overweight,Overweight,215,225,1,1,No change
+492,69,11/1/2024,Amazon.com Inc,AMZN,Rosenblatt,Barton Crockett,Buy,Buy,236,236,1,1,No change
+493,729,11/1/2024,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,235,235,1,1,No change
+494,233,11/1/2024,Amazon.com Inc,AMZN,NaN,Brian Pitz,Outperform,Outperform,236,236,1,1,No change
+495,513,11/1/2024,Amazon.com Inc,AMZN,NaN,Eric Sheridan,Buy,Buy,240,240,1,1,No change
+496,347,11/1/2024,Amazon.com Inc,AMZN,Benchmark,Daniel Kurnos,Buy,Buy,200,215,1,1,No change
+497,974,11/1/2024,Amazon.com Inc,AMZN,NaN,Mark Mahaney,Outperform,Outperform,260,260,1,1,No change
+498,630,11/1/2024,Amazon.com Inc,AMZN,Oppenheimer,Jason Helfstein,Outperform,Outperform,220,230,1,1,No change
+499,834,11/1/2024,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,210,210,1,1,No change
+500,1024,11/1/2024,Amazon.com Inc,AMZN,NaN,Mark Shmulik,Outperform,Outperform,235,235,1,1,No change
+501,1237,11/1/2024,Amazon.com Inc,AMZN,Citi,Ronald Josey,Buy,Buy,245,252,1,1,No change
+502,1135,11/1/2024,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,285,285,NaN,NaN,None
+503,903,11/1/2024,Amazon.com Inc,AMZN,NaN,Mark Kelley,Buy,Buy,245,245,1,1,No change
+504,210,11/4/2024,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,230,230,1,1,No change
+505,835,11/6/2024,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,210,210,1,1,No change
+506,1165,11/6/2024,Amazon.com Inc,AMZN,Loop Capital,Rob Sanderson,Buy,Buy,225,275,1,1,No change
+507,234,12/3/2024,Amazon.com Inc,AMZN,NaN,Brian Pitz,Outperform,Outperform,236,236,1,1,No change
+508,836,12/4/2024,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,250,250,1,1,No change
+509,1202,12/9/2024,Amazon.com Inc,AMZN,NaN,Rohit Kulkarni,Buy,Buy,250,250,1,1,No change
+510,837,12/10/2024,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,250,250,1,1,No change
+511,702,12/12/2024,Amazon.com Inc,AMZN,Td Cowen,John Blackledge,Buy,Buy,240,265,1,1,No change
+512,318,12/13/2024,Amazon.com Inc,AMZN,Baird,Colin Sebastian,Outperform,Outperform,260,260,1,1,No change
+513,441,12/18/2024,Amazon.com Inc,AMZN,Jpmorgan,Doug Anmuth,Overweight,Overweight,280,280,1,1,No change
+514,576,12/20/2024,Amazon.com Inc,AMZN,NaN,Ivan Feinseth,Buy,Buy,290,290,1,1,No change
+515,1136,1/10/2025,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,285,285,NaN,NaN,None
+516,211,1/13/2025,Amazon.com Inc,AMZN,Morgan Stanley,Brian Nowak,Overweight,Overweight,280,280,1,1,No change
+517,742,1/21/2025,Amazon.com Inc,AMZN,NaN,Josh Beck,Strong Buy,Strong Buy,260,260,1,1,No change
+518,815,1/21/2025,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,250,250,1,1,No change
+519,368,1/22/2025,Amazon.com Inc,AMZN,NaN,Deepak Mathivanan,Overweight,Overweight,270,270,1,1,No change
+520,1110,1/24/2025,Amazon.com Inc,AMZN,Scotiabank,Nat Schindler,Outperform,Outperform,246,306,1,1,No change
+521,1137,1/30/2025,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,285,285,NaN,NaN,None
+522,730,1/31/2025,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,275,275,1,1,No change
+523,522,2/7/2025,Amazon.com Inc,AMZN,NaN,Gil Luria,Buy,Buy,280,280,1,1,No change
+524,369,2/7/2025,Amazon.com Inc,AMZN,NaN,Deepak Mathivanan,Overweight,Overweight,270,270,1,1,No change
+525,816,2/7/2025,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,250,250,1,1,No change
+526,1138,2/7/2025,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,285,285,NaN,NaN,None
+527,1482,2/7/2025,Amazon.com Inc,AMZN,NaN,Thomas Champion,Overweight,Overweight,265,265,1,1,No change
+528,904,2/7/2025,Amazon.com Inc,AMZN,NaN,Mark Kelley,Buy,Buy,275,275,1,1,No change
+529,731,2/7/2025,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,275,275,1,1,No change
+530,1453,2/7/2025,Amazon.com Inc,AMZN,Ubs,Stephen Ju,Buy,Buy,275,272,1,1,No change
+531,514,2/7/2025,Amazon.com Inc,AMZN,NaN,Eric Sheridan,Buy,Buy,255,255,1,1,No change
+532,1355,2/7/2025,Amazon.com Inc,AMZN,Wedbush,Scott Devitt,Outperform,Outperform,280,280,1,1,No change
+533,1139,3/20/2025,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Market Outperform,Market Outp,285,285,NaN,NaN,None
+534,319,4/1/2025,Amazon.com Inc,AMZN,NaN,Curtis Shauger,Buy,Buy,280,280,1,1,No change
+535,442,4/8/2025,Amazon.com Inc,AMZN,NaN,Doug Anmuth,Overweight,Overweight,220,220,1,1,No change
+536,313,4/9/2025,Amazon.com Inc,AMZN,Baird,Colin Sebastian,Outperform,In Line,260,215,1,NaN,None
+537,1554,4/10/2025,Amazon.com Inc,AMZN,Truist,Youssef Squali,Buy,Buy,265,230,1,1,No change
+538,370,4/16/2025,Amazon.com Inc,AMZN,NaN,Deepak Mathivanan,Overweight,Overweight,230,230,1,1,No change
+539,515,4/22/2025,Amazon.com Inc,AMZN,NaN,Eric Sheridan,Buy,Buy,220,220,1,1,No change
+540,905,4/23/2025,Amazon.com Inc,AMZN,NaN,Mark Kelley,Buy,Buy,248,248,1,1,No change
+541,720,4/23/2025,Amazon.com Inc,AMZN,Telsey Advisory,Joseph Feldman,Outperform,Outperform,275,235,1,1,No change
+542,732,5/2/2025,Amazon.com Inc,AMZN,NaN,Joseph Feldman,Outperform,Outperform,235,235,1,1,No change
+543,817,5/2/2025,Amazon.com Inc,AMZN,NaN,Laura Martin,Buy,Buy,220,220,1,1,No change
+544,1120,5/2/2025,Amazon.com Inc,AMZN,Jmp,Nicholas Jones,Outperform,Outperform,240,250,1,1,No change
+545,1483,5/2/2025,Amazon.com Inc,AMZN,NaN,Thomas Champion,Overweight,Overweight,212,212,1,1,No change
+546,443,5/2/2025,Amazon.com Inc,AMZN,NaN,Doug Anmuth,Overweight,Overweight,225,225,1,1,No change
+547,906,5/2/2025,Amazon.com Inc,AMZN,NaN,Mark Kelley,Buy,Buy,245,245,1,1,No change
+548,371,5/2/2025,Amazon.com Inc,AMZN,NaN,Deepak Mathivanan,Overweight,Overweight,240,240,1,1,No change
+549,799,6/2/2025,Amazon.com Inc,AMZN,NaN,Justin Post,Buy,Buy,248,248,1,1,No change
+550,444,6/4/2025,Amazon.com Inc,AMZN,NaN,Doug Anmuth,Overweight,Overweight,240,240,1,1,No change
+551,1562,7/2/2025,Amazon.com Inc,AMZN,NaN,Youssef Squali,Buy,Buy,250,250,1,1,No change
+552,733,7/10/2025,Amazon.com Inc,AMZN,NaN,Joseph Feldman,Outperform,Outperform,235,235,1,1,No change
+553,212,7/10/2025,Amazon.com Inc,AMZN,NaN,Brian Nowak,Overweight,Overweight,300,300,1,1,No change
+554,1356,7/30/2025,Amazon.com Inc,AMZN,NaN,Scott Devitt,Outperform,Outperform,250,250,1,1,No change
+555,734,8/13/2025,Amazon.com Inc,AMZN,NaN,Joseph Feldman,Outperform,Outperform,265,265,1,1,No change
+556,690,7/5/2012,Starbucks Corp,SBUX,Piper Sandler,Nicole Miller Regan,Overweight,Overweight,67,67,1,1,No change
+557,596,7/25/2014,Starbucks Corp,SBUX,Ubs,Keith Siegner,Buy,Buy,90,90,1,1,No change
+558,695,11/28/2014,Starbucks Corp,SBUX,Piper Sandler,Nicole Miller Regan,Overweight,Overweight,100,100,1,1,No change
+559,594,1/23/2015,Starbucks Corp,SBUX,Ubs,Keith Siegner,Buy,Buy,95,95,1,1,No change
+560,278,1/23/2015,Starbucks Corp,SBUX,Rbc,David Palmer,Outperform,Outperform,95,95,1,1,No change
+561,700,2/10/2015,Starbucks Corp,SBUX,Piper Sandler,Nicole Miller Regan,Overweight,Overweight,50,51,1,1,No change
+562,709,2/25/2015,Starbucks Corp,SBUX,Piper Sandler,Nicole Miller Regan,Overweight,Overweight,51,53.5,1,1,No change
+563,583,3/19/2015,Starbucks Corp,SBUX,Goldman Sachs,Karen Holthouse,Buy,Positive,49,53.5,1,1,No change
+564,702,4/10/2015,Starbucks Corp,SBUX,Piper Sandler,Nicole Miller Regan,Overweight,Overweight,53,55,1,1,No change
+565,593,4/24/2015,Starbucks Corp,SBUX,Ubs,Keith Siegner,Buy,Buy,57,57,1,1,No change
+566,693,6/25/2015,Starbucks Corp,SBUX,Piper Sandler,Nicole Miller Regan,Overweight,Overweight,63,63,1,1,No change
+567,279,7/16/2015,Starbucks Corp,SBUX,Rbc,David Palmer,Outperform,Outperform,60,60,1,1,No change
+568,595,7/24/2015,Starbucks Corp,SBUX,Ubs,Keith Siegner,Buy,Buy,63,63,1,1,No change
+569,703,10/30/2015,Starbucks Corp,SBUX,Piper Sandler,Nicole Miller Regan,Overweight,Overweight,63,72,1,1,No change
+570,597,10/30/2015,Starbucks Corp,SBUX,Ubs,Keith Siegner,Buy,Buy,70,70,1,1,No change
+571,285,10/30/2015,Starbucks Corp,SBUX,Rbc,David Palmer,Outperform,Outperform,64,68,1,1,No change
+572,580,5/4/2016,Starbucks Corp,SBUX,Goldman Sachs,Karen Holthouse,Buy,Buy,72,72,1,1,No change
+573,657,7/22/2016,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Outperform,Outperform,70,70,1,1,No change
+574,662,9/28/2016,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Outperform,Outperform,65,65,1,1,No change
+575,451,9/28/2016,Starbucks Corp,SBUX,NaN,Jeremy Scott,Buy,Buy,68,68,1,1,No change
+576,533,1/27/2017,Starbucks Corp,SBUX,Buckingham Research,John Zolidis,Neutral,Neutral,59,54,0,0,No change
+577,620,4/20/2017,Starbucks Corp,SBUX,Stifel,Mark Astrachan,Hold,Buy,60,67,0,1,Upgrade
+578,628,7/28/2017,Starbucks Corp,SBUX,Stifel,Mark Astrachan,Buy,Hold,66,58,1,0,Downgrade
+579,625,10/3/2017,Starbucks Corp,SBUX,NaN,Mark Astrachan,Hold,Hold,58,58,0,0,No change
+580,280,10/13/2017,Starbucks Corp,SBUX,Rbc,David Palmer,Outperform,Outperform,63,63,1,1,No change
+581,423,11/3/2017,Starbucks Corp,SBUX,NaN,Jason West,Neutral,Neutral,54,54,0,0,No change
+582,353,11/3/2017,Starbucks Corp,SBUX,Ubs,Dennis Geiger,Buy,In Line,67,64,1,NaN,None
+583,452,2/1/2018,Starbucks Corp,SBUX,Mizuho,Jeremy Scott,Buy,Neutral,68,60,1,0,Downgrade
+584,624,6/20/2018,Starbucks Corp,SBUX,NaN,Mark Astrachan,Hold,Hold,55,55,0,0,No change
+585,520,6/21/2018,Starbucks Corp,SBUX,Jpmorgan,John Ivankoe,Overweight,Overweight,61,61,1,1,No change
+586,658,7/27/2018,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,53,53,0,0,No change
+587,697,8/22/2018,Starbucks Corp,SBUX,Piper Sandler,Nicole Miller Regan,Overweight,Neutral,60,53,1,0,Downgrade
+588,660,11/2/2018,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,64,64,0,0,No change
+589,584,1/11/2019,Starbucks Corp,SBUX,Goldman Sachs,Karen Holthouse,Buy,Neutral,75,68,1,0,Downgrade
+590,286,1/25/2019,Starbucks Corp,SBUX,Rbc,David Palmer,Outperform,Outperform,74,75,1,1,No change
+591,692,6/10/2019,Starbucks Corp,SBUX,Piper Sandler,Nicole Miller Regan,Neutral,Neutral,82,82,0,0,No change
+592,622,7/26/2019,Starbucks Corp,SBUX,NaN,Mark Astrachan,Hold,Hold,90,90,0,0,No change
+593,519,12/12/2019,Starbucks Corp,SBUX,Jpmorgan,John Ivankoe,Neutral,Overweight,90,94,0,1,Upgrade
+594,694,3/10/2020,Starbucks Corp,SBUX,Piper Sandler,Nicole Miller Regan,Neutral,Neutral,74,74,0,0,No change
+595,383,4/9/2020,Starbucks Corp,SBUX,Baml,Gregory Francfort,Buy,Neutral,73,68,1,0,Downgrade
+596,371,4/9/2020,Starbucks Corp,SBUX,NaN,Gregory Badishkanian,Buy,Buy,82,82,1,1,No change
+597,369,4/29/2020,Starbucks Corp,SBUX,Keybank,Eric Gonzalez,Overweight,Overweight,92,92,1,1,No change
+598,654,4/29/2020,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,75,75,0,0,No change
+599,623,7/29/2020,Starbucks Corp,SBUX,NaN,Mark Astrachan,Hold,Hold,78,78,0,0,No change
+600,747,7/30/2020,Starbucks Corp,SBUX,Citi,Wendy Nicholson,Buy,Buy,93,93,1,1,No change
+601,621,8/25/2020,Starbucks Corp,SBUX,NaN,Mark Astrachan,Buy,Buy,90,90,1,1,No change
+602,547,10/16/2020,Starbucks Corp,SBUX,Wells Fargo,Jon Tower,Overweight,Overweight,98,98,1,1,No change
+603,661,10/19/2020,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,88,88,0,0,No change
+604,655,12/10/2020,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,105,105,0,0,No change
+605,256,12/10/2020,Starbucks Corp,SBUX,Rbc,Christopher Carril,Outperform,Outperform,109,115,1,1,No change
+606,656,1/27/2021,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,108,108,0,0,No change
+607,546,1/27/2021,Starbucks Corp,SBUX,Wells Fargo,Jon Tower,Overweight,Overweight,120,120,1,1,No change
+608,427,2/5/2021,Starbucks Corp,SBUX,Gordon Haskett,Jeff Farmer,Buy,Hold,100,120,1,0,Downgrade
+609,664,3/19/2021,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Outperform,Neutral,108,124,1,0,Downgrade
+610,544,4/28/2021,Starbucks Corp,SBUX,NaN,Jon Tower,Overweight,Overweight,129,129,1,1,No change
+611,327,7/23/2021,Starbucks Corp,SBUX,Baird,David Tarantino,Neutral,Outperform,117,142,0,1,Upgrade
+612,393,7/28/2021,Starbucks Corp,SBUX,Guggenheim,Gregory Francfort,Neutral,Neutral,125,126,0,0,No change
+613,691,7/28/2021,Starbucks Corp,SBUX,NaN,Nicole Miller Regan,Neutral,Neutral,125,126,0,0,No change
+614,243,9/21/2021,Starbucks Corp,SBUX,Stifel,Chris O'Cull,Buy,Buy,130,130,1,1,No change
+615,626,9/21/2021,Starbucks Corp,SBUX,NaN,Mark Astrachan,Buy,Buy,130,130,1,1,No change
+616,488,10/14/2021,Starbucks Corp,SBUX,Morgan Stanley,John Glass,Equal Weight,Equal Weight,124,124,NaN,NaN,None
+617,556,10/19/2021,Starbucks Corp,SBUX,NaN,Jon Tower,Overweight,Overweight,135,135,1,1,No change
+618,679,10/29/2021,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Outperform,Outperform,128,128,1,1,No change
+619,557,10/29/2021,Starbucks Corp,SBUX,NaN,Jon Tower,Overweight,Overweight,122,122,1,1,No change
+620,618,11/1/2021,Starbucks Corp,SBUX,Credit Suisse,Lauren Silberman,Outperform,Outperform,132,132,1,1,No change
+621,489,11/1/2021,Starbucks Corp,SBUX,Morgan Stanley,John Glass,Equal Weight,Equal Weight,117,117,NaN,NaN,None
+622,244,11/1/2021,Starbucks Corp,SBUX,Stifel,Chris O'Cull,Buy,Hold,112,112,1,0,Downgrade
+623,264,11/1/2021,Starbucks Corp,SBUX,NaN,Christopher Carril,Outperform,Outperform,124,124,1,1,No change
+624,433,11/1/2021,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,128,128,1,1,No change
+625,434,12/16/2021,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,136,136,1,1,No change
+626,310,12/17/2021,Starbucks Corp,SBUX,Baird,David Tarantino,Neutral,Outperform,126,116,0,1,Upgrade
+627,263,1/7/2022,Starbucks Corp,SBUX,Rbc,Christopher Carril,Outperform,Sector Perform,124,122,1,0,Downgrade
+628,713,2/2/2022,Starbucks Corp,SBUX,NaN,Nicole Miller Regan,Neutral,Neutral,100,100,0,0,No change
+629,435,2/2/2022,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,125,125,1,1,No change
+630,545,2/2/2022,Starbucks Corp,SBUX,NaN,Jon Tower,Buy,Buy,142,130,1,1,No change
+631,680,3/17/2022,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Outperform,Outperform,105,105,1,1,No change
+632,395,3/18/2022,Starbucks Corp,SBUX,Guggenheim,Gregory Francfort,Neutral,Neutral,107,95,0,0,No change
+633,663,4/5/2022,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Outperform,105,91,0,1,Upgrade
+634,535,4/12/2022,Starbucks Corp,SBUX,Citi,Jon Tower,Neutral,Buy,120,91,0,1,Upgrade
+635,436,4/25/2022,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,108,108,1,1,No change
+636,714,5/4/2022,Starbucks Corp,SBUX,NaN,Nicole Miller Regan,Neutral,Neutral,80,80,0,0,No change
+637,265,5/4/2022,Starbucks Corp,SBUX,Rbc,Christopher Carril,Sector Perform,Sector Perform,85,85,0,0,No change
+638,437,5/4/2022,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,94,94,1,1,No change
+639,748,5/4/2022,Starbucks Corp,SBUX,NaN,Wendy Nicholson,Neutral,Neutral,76,76,0,0,No change
+640,715,7/18/2022,Starbucks Corp,SBUX,NaN,Nicole Miller Regan,Neutral,Neutral,84,84,0,0,No change
+641,681,8/3/2022,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,86,86,0,0,No change
+642,438,8/3/2022,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,96,96,1,1,No change
+643,333,9/14/2022,Starbucks Corp,SBUX,Baird,David Tarantino,Neutral,Neutral,94,94,0,0,No change
+644,439,9/14/2022,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,100,100,1,1,No change
+645,570,9/23/2022,Starbucks Corp,SBUX,NaN,Joshua Long,Equal Weight,Equal Weight,91,91,NaN,NaN,None
+646,619,11/4/2022,Starbucks Corp,SBUX,Credit Suisse,Lauren Silberman,Outperform,Outperform,105,105,1,1,No change
+647,440,1/5/2023,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,121,121,1,1,No change
+648,490,1/18/2023,Starbucks Corp,SBUX,Morgan Stanley,John Glass,Equal Weight,Equal Weight,100,100,NaN,NaN,None
+649,768,1/24/2023,Starbucks Corp,SBUX,NaN,Zachary Fadem,Overweight,Overweight,120,120,1,1,No change
+650,441,2/3/2023,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,123,123,1,1,No change
+651,558,2/6/2023,Starbucks Corp,SBUX,NaN,Jon Tower,Neutral,Neutral,112,112,0,0,No change
+652,203,4/17/2023,Starbucks Corp,SBUX,NaN,Brian Harbour,Equal Weight,Equal Weight,104,104,NaN,NaN,None
+653,219,6/14/2023,Starbucks Corp,SBUX,NaN,Brian Mullan,Neutral,Neutral,107,107,0,0,No change
+654,571,7/14/2023,Starbucks Corp,SBUX,NaN,Joshua Long,Equal Weight,Equal Weight,110,110,NaN,NaN,None
+655,204,7/17/2023,Starbucks Corp,SBUX,NaN,Brian Harbour,Equal Weight,Equal Weight,104,104,NaN,NaN,None
+656,769,7/19/2023,Starbucks Corp,SBUX,NaN,Zachary Fadem,Overweight,Overweight,120,120,1,1,No change
+657,559,7/24/2023,Starbucks Corp,SBUX,NaN,Jon Tower,Neutral,Neutral,112,112,0,0,No change
+658,442,8/2/2023,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,123,123,1,1,No change
+659,205,8/2/2023,Starbucks Corp,SBUX,NaN,Brian Harbour,Equal Weight,Equal Weight,104,104,NaN,NaN,None
+660,572,8/2/2023,Starbucks Corp,SBUX,NaN,Joshua Long,Equal Weight,Equal Weight,110,110,NaN,NaN,None
+661,560,9/25/2023,Starbucks Corp,SBUX,NaN,Jon Tower,Neutral,Neutral,104,104,0,0,No change
+662,206,10/11/2023,Starbucks Corp,SBUX,NaN,Brian Harbour,Equal Weight,Equal Weight,102,102,NaN,NaN,None
+663,220,10/19/2023,Starbucks Corp,SBUX,NaN,Brian Mullan,Buy,Buy,118,118,1,1,No change
+664,443,10/23/2023,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,116,116,1,1,No change
+665,682,1/18/2024,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,95,95,0,0,No change
+666,221,1/19/2024,Starbucks Corp,SBUX,NaN,Brian Mullan,Neutral,Neutral,100,100,0,0,No change
+667,683,1/31/2024,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,95,95,0,0,No change
+668,444,1/31/2024,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,112,112,1,1,No change
+669,561,1/31/2024,Starbucks Corp,SBUX,Citi,Jon Tower,Neutral,Neutral,103,103,0,0,No change
+670,552,3/13/2024,Starbucks Corp,SBUX,Citi,Jon Tower,Neutral,Neutral,103,102,0,0,No change
+671,770,4/1/2024,Starbucks Corp,SBUX,NaN,Zachary Fadem,Overweight,Overweight,105,105,1,1,No change
+672,398,4/19/2024,Starbucks Corp,SBUX,Guggenheim,Gregory Francfort,Buy,Buy,91,91,1,1,No change
+673,245,5/1/2024,Starbucks Corp,SBUX,Stifel,Chris O'Cull,Hold,Hold,80,80,0,0,No change
+674,771,5/1/2024,Starbucks Corp,SBUX,NaN,Zachary Fadem,Overweight,Overweight,90,90,1,1,No change
+675,729,5/1/2024,Starbucks Corp,SBUX,Btig,Peter Saleh,Buy,Buy,115,100,1,1,No change
+676,613,5/1/2024,Starbucks Corp,SBUX,Deutsche Bank,Lauren Silberman,Buy,Hold,108,89,1,0,Downgrade
+677,744,6/10/2024,Starbucks Corp,SBUX,Baml,Sara Senatore,Buy,Buy,112,112,1,1,No change
+678,684,6/28/2024,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,81,81,0,0,No change
+679,207,7/12/2024,Starbucks Corp,SBUX,Morgan Stanley,Brian Harbour,Overweight,Overweight,98,98,1,1,No change
+680,222,7/16/2024,Starbucks Corp,SBUX,NaN,Brian Mullan,Hold,Hold,85,85,0,0,No change
+681,301,7/16/2024,Starbucks Corp,SBUX,Evercore,David Palmer,Outperform,In Line,80,80,1,NaN,None
+682,685,7/19/2024,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,77,77,0,0,No change
+683,562,7/22/2024,Starbucks Corp,SBUX,Citi,Jon Tower,Neutral,Neutral,80,80,0,0,No change
+684,208,7/31/2024,Starbucks Corp,SBUX,Morgan Stanley,Brian Harbour,Overweight,Overweight,98,98,1,1,No change
+685,686,7/31/2024,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,80,80,0,0,No change
+686,445,7/31/2024,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,93,93,1,1,No change
+687,687,8/13/2024,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,80,80,0,0,No change
+688,328,8/13/2024,Starbucks Corp,SBUX,Baird,David Tarantino,Neutral,Outperform,81,110,0,1,Upgrade
+689,563,8/14/2024,Starbucks Corp,SBUX,Citi,Jon Tower,Neutral,Neutral,98,98,0,0,No change
+690,446,8/14/2024,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,110,110,1,1,No change
+691,614,8/14/2024,Starbucks Corp,SBUX,Deutsche Bank,Lauren Silberman,Hold,Buy,85,118,0,1,Upgrade
+692,302,8/14/2024,Starbucks Corp,SBUX,Evercore,David Palmer,In Line,Outperform,120,120,NaN,1,None
+693,223,8/14/2024,Starbucks Corp,SBUX,NaN,Brian Mullan,Hold,Buy,118,118,0,1,Upgrade
+694,246,8/14/2024,Starbucks Corp,SBUX,Stifel,Chris O'Cull,Hold,Buy,110,110,0,1,Upgrade
+695,527,9/30/2024,Starbucks Corp,SBUX,Jpmorgan,John Ivankoe,Overweight,Overweight,105,105,1,1,No change
+696,731,10/17/2024,Starbucks Corp,SBUX,Btig,Peter Saleh,Buy,Buy,100,115,1,1,No change
+697,745,10/22/2024,Starbucks Corp,SBUX,NaN,Sara Senatore,Buy,Buy,117,117,1,1,No change
+698,564,10/23/2024,Starbucks Corp,SBUX,Citi,Jon Tower,Neutral,Neutral,96,96,0,0,No change
+699,362,10/23/2024,Starbucks Corp,SBUX,Ubs,Dennis Geiger,Neutral,Neutral,95,95,0,0,No change
+700,688,10/31/2024,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Neutral,95,95,0,0,No change
+701,565,10/31/2024,Starbucks Corp,SBUX,Citi,Jon Tower,Neutral,Neutral,99,99,0,0,No change
+702,447,10/31/2024,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,108,108,1,1,No change
+703,772,11/26/2024,Starbucks Corp,SBUX,NaN,Zachary Fadem,Overweight,Overweight,115,115,1,1,No change
+704,247,1/27/2025,Starbucks Corp,SBUX,Stifel,Chris O'Cull,Buy,Buy,114,114,1,1,No change
+705,448,1/29/2025,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,124,124,1,1,No change
+706,773,2/25/2025,Starbucks Corp,SBUX,NaN,Zachary Fadem,Overweight,Overweight,125,125,1,1,No change
+707,335,4/7/2025,Starbucks Corp,SBUX,NaN,David Tarantino,Outperform,Neutral,85,85,1,0,Downgrade
+708,566,4/11/2025,Starbucks Corp,SBUX,Citi,Jon Tower,Neutral,Neutral,88,88,0,0,No change
+709,430,4/22/2025,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,106,106,1,1,No change
+710,396,4/29/2025,Starbucks Corp,SBUX,Guggenheim,Gregory Francfort,Neutral,Neutral,95,83,0,0,No change
+711,248,4/30/2025,Starbucks Corp,SBUX,NaN,Christine Cho,Buy,Neutral,85,85,1,0,Downgrade
+712,730,4/30/2025,Starbucks Corp,SBUX,Btig,Peter Saleh,Buy,Buy,115,105,1,1,No change
+713,299,4/30/2025,Starbucks Corp,SBUX,Evercore,David Palmer,Outperform,Outperform,105,95,1,1,No change
+714,431,6/26/2025,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,108,108,1,1,No change
+715,567,7/14/2025,Starbucks Corp,SBUX,NaN,Jon Tower,Neutral,Neutral,100,100,0,0,No change
+716,432,7/17/2025,Starbucks Corp,SBUX,NaN,Jeffrey Bernstein,Overweight,Overweight,106,106,1,1,No change
+717,334,7/30/2025,Starbucks Corp,SBUX,NaN,David Tarantino,Neutral,Neutral,100,100,0,0,No change
+718,218,5/31/2013,Costco Wholesale,COST,Ubs,Jason Derise,Buy,Buy,125,125,1,1,No change
+719,141,9/25/2014,Costco Wholesale,COST,Jefferies,Daniel Binder,Hold,Hold,115,115,0,0,No change
+720,220,10/2/2014,Costco Wholesale,COST,NaN,Jason Derise,Neutral,Neutral,125,125,0,0,No change
+721,626,10/6/2014,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Buy,Buy,130,130,1,1,No change
+722,140,10/7/2014,Costco Wholesale,COST,Jefferies,Daniel Binder,Hold,Hold,116,116,0,0,No change
+723,221,10/9/2014,Costco Wholesale,COST,NaN,Jason Derise,Neutral,Neutral,129,129,0,0,No change
+724,138,12/5/2014,Costco Wholesale,COST,Jefferies,Daniel Binder,Hold,Hold,118,130,0,0,No change
+725,216,12/11/2014,Costco Wholesale,COST,NaN,Jason Derise,Neutral,Neutral,145,145,0,0,No change
+726,139,1/7/2015,Costco Wholesale,COST,Jefferies,Daniel Binder,Hold,Hold,133,133,0,0,No change
+727,628,2/5/2015,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Buy,Hold,147,142,1,0,Downgrade
+728,616,7/9/2015,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,143,143,0,0,No change
+729,72,9/22/2015,Costco Wholesale,COST,NaN,Charles Grom,Buy,Buy,152,152,1,1,No change
+730,627,9/30/2015,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,144,144,0,0,No change
+731,71,10/2/2015,Costco Wholesale,COST,NaN,Charles Grom,Buy,Buy,154,154,1,1,No change
+732,222,10/26/2015,Costco Wholesale,COST,NaN,Jason Derise,Buy,Buy,180,180,1,1,No change
+733,888,11/17/2015,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,163,179,1,1,No change
+734,633,12/3/2015,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Buy,152,200,0,1,Upgrade
+735,840,12/9/2015,Costco Wholesale,COST,Piper Sandler,Sean Naughton,Overweight,Overweight,171,174,1,1,No change
+736,354,2/5/2016,Costco Wholesale,COST,Bmo,Kelly Bania,Outperform,Outperform,170,170,1,1,No change
+737,37,2/12/2016,Costco Wholesale,COST,Oppenheimer,Brian Nagel,Outperform,Outperform,160,160,1,1,No change
+738,621,5/16/2016,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Buy,Buy,196,196,1,1,No change
+739,328,5/27/2016,Costco Wholesale,COST,Citi,Kate Mcshane,Neutral,Neutral,155,155,0,0,No change
+740,622,5/31/2016,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Buy,Buy,195,195,1,1,No change
+741,326,8/16/2016,Costco Wholesale,COST,Citi,Kate Mcshane,Neutral,Neutral,172,172,0,0,No change
+742,330,9/30/2016,Costco Wholesale,COST,Citi,Kate Mcshane,Neutral,Neutral,167,167,0,0,No change
+743,614,12/5/2016,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Buy,Buy,194,194,1,1,No change
+744,48,1/11/2017,Costco Wholesale,COST,Oppenheimer,Brian Nagel,Outperform,Outperform,175,185,1,1,No change
+745,310,3/3/2017,Costco Wholesale,COST,Barclays,Karen Short,Equal Weight,Equal Weight,170,170,NaN,NaN,None
+746,558,3/3/2017,Costco Wholesale,COST,Td Cowen,Oliver Chen,Outperform,Outperform,170,190,1,1,No change
+747,70,5/9/2017,Costco Wholesale,COST,NaN,Charles Grom,Accumulate,Accumulate,191,191,NaN,NaN,None
+748,462,5/26/2017,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,191,191,1,1,No change
+749,329,10/6/2017,Costco Wholesale,COST,Citi,Kate Mcshane,Buy,Buy,190,190,1,1,No change
+750,463,11/30/2017,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,185,185,1,1,No change
+751,327,6/1/2018,Costco Wholesale,COST,Citi,Kate Mcshane,Buy,Buy,222,222,1,1,No change
+752,104,6/1/2018,Costco Wholesale,COST,NaN,Christopher Horvers,Overweight,Overweight,212,212,1,1,No change
+753,910,7/12/2018,Costco Wholesale,COST,NaN,Zachary Fadem,Outperform,Outperform,235,235,1,1,No change
+754,160,7/12/2018,Costco Wholesale,COST,Wells Fargo,Edward Kelly,Outperform,Outperform,235,235,1,1,No change
+755,64,7/25/2018,Costco Wholesale,COST,Gordon Haskett,Charles Grom,Accumulate,Buy,222,235,NaN,1,None
+756,771,8/21/2018,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,210,250,1,1,No change
+757,464,9/7/2018,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,245,245,1,1,No change
+758,916,9/14/2018,Costco Wholesale,COST,NaN,Zachary Fadem,Market Perform,Market Perform,235,235,0,0,No change
+759,105,9/17/2018,Costco Wholesale,COST,NaN,Christopher Horvers,Overweight,Overweight,255,255,1,1,No change
+760,514,10/5/2018,Costco Wholesale,COST,Deutsche Bank,Michael Baker,Hold,Hold,223,223,0,0,No change
+761,625,10/5/2018,Costco Wholesale,COST,NaN,Paul Trussell,Hold,Hold,223,223,0,0,No change
+762,908,12/14/2018,Costco Wholesale,COST,NaN,Zachary Fadem,Market Perform,Market Perform,220,220,0,0,No change
+763,236,4/9/2019,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,265,265,1,1,No change
+764,32,4/17/2019,Costco Wholesale,COST,NaN,Brian Nagel,Outperform,Outperform,270,270,1,1,No change
+765,913,5/9/2019,Costco Wholesale,COST,NaN,Zachary Fadem,Market Perform,Market Perform,240,240,0,0,No change
+766,53,5/16/2019,Costco Wholesale,COST,Raymond James,Budd Bugatch,Outperform,Outperform,250,260,1,1,No change
+767,461,7/11/2019,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,289,289,1,1,No change
+768,810,9/6/2019,Costco Wholesale,COST,Rbc,Scot Ciccarelli,Outperform,Outperform,299,321,1,1,No change
+769,161,9/6/2019,Costco Wholesale,COST,NaN,Edward Kelly,Market Perform,Market Perform,290,290,0,0,No change
+770,915,9/6/2019,Costco Wholesale,COST,NaN,Zachary Fadem,Market Perform,Market Perform,290,290,0,0,No change
+771,223,9/9/2019,Costco Wholesale,COST,NaN,Jason Derise,Buy,Buy,335,335,1,1,No change
+772,28,9/18/2019,Costco Wholesale,COST,Bernstein,Brandon Fletcher,Underperform,Market Perform,230,220,-1,0,Upgrade
+773,624,10/1/2019,Costco Wholesale,COST,NaN,Paul Trussell,Hold,Hold,274,274,0,0,No change
+774,243,10/4/2019,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,329,329,1,1,No change
+775,623,11/7/2019,Costco Wholesale,COST,NaN,Paul Trussell,Hold,Hold,286,286,0,0,No change
+776,615,12/13/2019,Costco Wholesale,COST,NaN,Paul Trussell,Hold,Hold,288,288,0,0,No change
+777,217,3/6/2020,Costco Wholesale,COST,NaN,Jason Derise,Buy,Buy,355,355,1,1,No change
+778,513,3/6/2020,Costco Wholesale,COST,Nomura,Michael Baker,Neutral,Neutral,310,310,0,0,No change
+779,613,4/9/2020,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,295,295,0,0,No change
+780,620,5/7/2020,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,290,290,0,0,No change
+781,619,6/4/2020,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,297,297,0,0,No change
+782,617,7/9/2020,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,298,298,0,0,No change
+783,39,7/9/2020,Costco Wholesale,COST,NaN,Brian Nagel,Outperform,Outperform,355,355,1,1,No change
+784,618,7/30/2020,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,299,299,0,0,No change
+785,587,8/6/2020,Costco Wholesale,COST,Citi,Paul Lejuez,Neutral,Neutral,345,345,0,0,No change
+786,46,9/3/2020,Costco Wholesale,COST,NaN,Brian Nagel,Outperform,Outperform,400,400,1,1,No change
+787,244,9/3/2020,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,400,400,1,1,No change
+788,246,9/25/2020,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,365,365,1,1,No change
+789,311,10/6/2020,Costco Wholesale,COST,Barclays,Karen Short,Short,Overweight,330,400,-1,1,Upgrade
+790,240,3/5/2021,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,395,395,1,1,No change
+791,41,3/5/2021,Costco Wholesale,COST,NaN,Brian Nagel,Outperform,Outperform,395,395,1,1,No change
+792,835,3/11/2021,Costco Wholesale,COST,R5 Capital,Scott Mushkin,Buy,Hold,379,400,1,0,Downgrade
+793,1,3/11/2021,Costco Wholesale,COST,NaN,Zachary Fadem,Equal Weight,Overweight,340,370,NaN,1,None
+794,162,3/11/2021,Costco Wholesale,COST,Wells Fargo,Edward Kelly,Overweight,Equal Weight,340,370,1,NaN,None
+795,325,4/8/2021,Costco Wholesale,COST,Goldman Sachs,Kate Mcshane,Buy,Buy,350,350,1,1,No change
+796,34,4/8/2021,Costco Wholesale,COST,NaN,Brian Nagel,Outperform,Outperform,400,400,1,1,No change
+797,907,4/8/2021,Costco Wholesale,COST,NaN,Zachary Fadem,Overweight,Overweight,400,400,1,1,No change
+798,466,4/8/2021,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,370,385,1,1,No change
+799,43,5/18/2021,Costco Wholesale,COST,NaN,Brian Nagel,Outperform,Outperform,425,425,1,1,No change
+800,308,5/28/2021,Costco Wholesale,COST,Barclays,Karen Short,Short,Overweight,400,450,-1,1,Upgrade
+801,241,5/28/2021,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,415,415,1,1,No change
+802,871,6/1/2021,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,415,415,1,1,No change
+803,590,6/2/2021,Costco Wholesale,COST,NaN,Paul Lejuez,Neutral,Neutral,400,400,0,0,No change
+804,911,6/2/2021,Costco Wholesale,COST,NaN,Zachary Fadem,Overweight,Overweight,415,415,1,1,No change
+805,239,7/9/2021,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,440,440,1,1,No change
+806,40,7/9/2021,Costco Wholesale,COST,NaN,Brian Nagel,Outperform,Outperform,440,440,1,1,No change
+807,869,7/9/2021,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,425,425,1,1,No change
+808,238,8/5/2021,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,480,480,1,1,No change
+809,35,8/5/2021,Costco Wholesale,COST,NaN,Brian Nagel,Outperform,Outperform,480,480,1,1,No change
+810,245,9/2/2021,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,500,500,1,1,No change
+811,47,9/2/2021,Costco Wholesale,COST,NaN,Brian Nagel,Outperform,Outperform,500,500,1,1,No change
+812,288,9/24/2021,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,480,480,1,1,No change
+813,17,9/24/2021,Costco Wholesale,COST,NaN,Bobby Griffin,Outperform,Outperform,490,490,1,1,No change
+814,895,9/24/2021,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,510,510,1,1,No change
+815,596,10/1/2021,Costco Wholesale,COST,NaN,Paul Lejuez,Neutral,Neutral,495,495,0,0,No change
+816,18,10/1/2021,Costco Wholesale,COST,NaN,Bobby Griffin,Outperform,Outperform,490,490,1,1,No change
+817,383,10/1/2021,Costco Wholesale,COST,Deutsche Bank,Krisztina Katai,Hold,Hold,424,424,0,0,No change
+818,896,10/1/2021,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,510,510,1,1,No change
+819,725,10/1/2021,Costco Wholesale,COST,Credit Suisse,Robert Moskow,Neutral,Neutral,490,490,0,0,No change
+820,719,10/1/2021,Costco Wholesale,COST,Baird,Peter Benedict,Outperform,Outperform,520,520,1,1,No change
+821,289,10/1/2021,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,480,480,1,1,No change
+822,577,10/8/2021,Costco Wholesale,COST,Td Cowen,Oliver Chen,Outperform,Outperform,520,520,1,1,No change
+823,490,11/2/2021,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,515,515,1,1,No change
+824,290,11/5/2021,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,540,540,1,1,No change
+825,19,11/5/2021,Costco Wholesale,COST,NaN,Bobby Griffin,Outperform,Outperform,540,540,1,1,No change
+826,764,11/10/2021,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,540,540,1,1,No change
+827,242,11/10/2021,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,540,540,1,1,No change
+828,45,11/10/2021,Costco Wholesale,COST,NaN,Brian Nagel,Outperform,Outperform,540,540,1,1,No change
+829,79,11/11/2021,Costco Wholesale,COST,Gordon Haskett,Charles Grom,Accumulate,Buy,525,575,NaN,1,None
+830,20,12/3/2021,Costco Wholesale,COST,NaN,Bobby Griffin,Outperform,Outperform,565,565,1,1,No change
+831,589,12/3/2021,Costco Wholesale,COST,NaN,Paul Lejuez,Neutral,Neutral,540,540,0,0,No change
+832,36,12/10/2021,Costco Wholesale,COST,NaN,Brian Nagel,Outperform,Outperform,565,565,1,1,No change
+833,291,12/10/2021,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,610,610,1,1,No change
+834,319,12/10/2021,Costco Wholesale,COST,NaN,Karen Short,Overweight,Overweight,570,570,1,1,No change
+835,86,12/14/2021,Costco Wholesale,COST,Argus,Christopher Graja,Buy,Buy,515,610,1,1,No change
+836,358,3/4/2022,Costco Wholesale,COST,Bmo,Kelly Bania,Outperform,Outperform,560,580,1,1,No change
+837,292,3/4/2022,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,615,615,1,1,No change
+838,42,3/30/2022,Costco Wholesale,COST,NaN,Brian Nagel,Outperform,Outperform,620,620,1,1,No change
+839,904,4/7/2022,Costco Wholesale,COST,Jefferies,Stephanie Wissink,Buy,Buy,650,670,1,1,No change
+840,324,4/7/2022,Costco Wholesale,COST,Goldman Sachs,Kate Mcshane,Buy,Buy,627,627,1,1,No change
+841,33,4/7/2022,Costco Wholesale,COST,NaN,Brian Nagel,Outperform,Outperform,645,645,1,1,No change
+842,21,4/19/2022,Costco Wholesale,COST,NaN,Bobby Griffin,Outperform,Outperform,645,645,1,1,No change
+843,293,5/27/2022,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,590,590,1,1,No change
+844,22,5/31/2022,Costco Wholesale,COST,NaN,Bobby Griffin,Outperform,Outperform,560,560,1,1,No change
+845,135,6/2/2022,Costco Wholesale,COST,NaN,Corey Tarlowe,Buy,Buy,580,580,1,1,No change
+846,385,7/14/2022,Costco Wholesale,COST,Deutsche Bank,Krisztina Katai,Buy,Hold,525,579,1,0,Downgrade
+847,344,8/4/2022,Costco Wholesale,COST,Goldman Sachs,Kate Mcshane,Buy,Buy,573,573,1,1,No change
+848,23,8/5/2022,Costco Wholesale,COST,NaN,Bobby Griffin,Outperform,Outperform,600,600,1,1,No change
+849,127,9/1/2022,Costco Wholesale,COST,Jefferies,Corey Tarlowe,Buy,Buy,580,610,1,1,No change
+850,897,9/23/2022,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,525,525,1,1,No change
+851,24,9/26/2022,Costco Wholesale,COST,NaN,Bobby Griffin,Outperform,Outperform,560,560,1,1,No change
+852,25,12/1/2022,Costco Wholesale,COST,NaN,Bobby Griffin,Outperform,Outperform,570,570,1,1,No change
+853,294,12/9/2022,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,580,580,1,1,No change
+854,460,12/9/2022,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,In Line,565,545,1,NaN,None
+855,554,1/6/2023,Costco Wholesale,COST,Ubs,Michael Lasser,Buy,Buy,600,600,1,1,No change
+856,175,2/6/2023,Costco Wholesale,COST,NaN,George Kelly,Equal Weight,Equal Weight,475,475,NaN,NaN,None
+857,855,2/8/2023,Costco Wholesale,COST,NaN,Seth Sigman,Equal Weight,Equal Weight,510,510,NaN,NaN,None
+858,306,3/3/2023,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,540,540,1,1,No change
+859,261,3/28/2023,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,540,540,1,1,No change
+860,262,4/6/2023,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,540,540,1,1,No change
+861,779,4/6/2023,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,550,550,1,1,No change
+862,13,5/26/2023,Costco Wholesale,COST,Roth Mkm,Bill Kirk,Neutral,Neutral,482,482,0,0,No change
+863,263,5/26/2023,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,540,540,1,1,No change
+864,780,5/26/2023,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,550,550,1,1,No change
+865,443,6/2/2023,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,570,570,1,1,No change
+866,781,6/5/2023,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,575,575,1,1,No change
+867,212,6/8/2023,Costco Wholesale,COST,Tigress Partners,Ivan Feinseth,Buy,Buy,635,635,1,1,No change
+868,264,6/29/2023,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,540,540,1,1,No change
+869,597,7/10/2023,Costco Wholesale,COST,Citi,Paul Lejuez,Neutral,Neutral,530,530,0,0,No change
+870,769,7/25/2023,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,575,630,1,1,No change
+871,265,8/3/2023,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,575,575,1,1,No change
+872,266,8/28/2023,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,575,575,1,1,No change
+873,491,8/31/2023,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,575,575,1,1,No change
+874,196,9/8/2023,Costco Wholesale,COST,Evercore,Greg Melich,Outperform,Outperform,600,600,1,1,No change
+875,267,9/18/2023,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,575,575,1,1,No change
+876,521,9/26/2023,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,478,570,0,0,No change
+877,268,9/27/2023,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,575,575,1,1,No change
+878,741,9/27/2023,Costco Wholesale,COST,Baml,Robert Ohmes,Buy,Buy,610,610,1,1,No change
+879,14,9/27/2023,Costco Wholesale,COST,Roth Mkm,Bill Kirk,Neutral,Neutral,502,502,0,0,No change
+880,26,9/27/2023,Costco Wholesale,COST,NaN,Bobby Griffin,Outperform,Outperform,580,580,1,1,No change
+881,831,10/5/2023,Costco Wholesale,COST,NaN,Scot Ciccarelli,Buy,Buy,619,619,1,1,No change
+882,269,10/19/2023,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,600,600,1,1,No change
+883,270,11/2/2023,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,600,600,1,1,No change
+884,492,11/30/2023,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,615,615,1,1,No change
+885,832,11/30/2023,Costco Wholesale,COST,NaN,Scot Ciccarelli,Buy,Buy,619,619,1,1,No change
+886,782,12/15/2023,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,675,675,1,1,No change
+887,213,12/29/2023,Costco Wholesale,COST,Tigress Partners,Ivan Feinseth,Buy,Buy,745,745,1,1,No change
+888,783,2/2/2024,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,760,760,1,1,No change
+889,345,2/8/2024,Costco Wholesale,COST,Goldman Sachs,Kate Mcshane,Buy,Buy,749,749,1,1,No change
+890,176,2/8/2024,Costco Wholesale,COST,NaN,George Kelly,Equal Weight,Equal Weight,675,675,NaN,NaN,None
+891,484,3/8/2024,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,735,800,1,1,No change
+892,524,3/8/2024,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,600,680,0,0,No change
+893,367,3/11/2024,Costco Wholesale,COST,Bmo,Kelly Bania,Outperform,Outperform,800,800,1,1,No change
+894,271,4/4/2024,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,800,800,1,1,No change
+895,272,4/11/2024,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,800,800,1,1,No change
+896,528,4/11/2024,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,680,680,0,0,No change
+897,434,4/11/2024,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,830,820,1,1,No change
+898,594,4/23/2024,Costco Wholesale,COST,Citi,Paul Lejuez,Neutral,Neutral,630,710,0,0,No change
+899,273,5/6/2024,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,800,800,1,1,No change
+900,439,5/9/2024,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,820,840,1,1,No change
+901,197,5/14/2024,Costco Wholesale,COST,NaN,Greg Melich,Outperform,Outperform,820,820,1,1,No change
+902,784,5/22/2024,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,850,850,1,1,No change
+903,92,5/28/2024,Costco Wholesale,COST,Argus,Christopher Graja,Buy,Buy,900,900,1,1,No change
+904,833,5/31/2024,Costco Wholesale,COST,Truist,Scot Ciccarelli,Buy,Buy,873,873,1,1,No change
+905,578,5/31/2024,Costco Wholesale,COST,Td Cowen,Oliver Chen,Buy,Buy,850,850,1,1,No change
+906,274,5/31/2024,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,850,850,1,1,No change
+907,368,5/31/2024,Costco Wholesale,COST,Bmo,Kelly Bania,Outperform,Outperform,875,875,1,1,No change
+908,177,5/31/2024,Costco Wholesale,COST,NaN,George Kelly,Equal Weight,Equal Weight,775,775,NaN,NaN,None
+909,320,5/31/2024,Costco Wholesale,COST,NaN,Karen Short,Equal Weight,Equal Weight,765,765,NaN,NaN,None
+910,485,5/31/2024,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,800,850,1,1,No change
+911,15,5/31/2024,Costco Wholesale,COST,NaN,Bill Kirk,Neutral,Neutral,676,676,0,0,No change
+912,204,5/31/2024,Costco Wholesale,COST,NaN,Greg Melich,Outperform,Outperform,860,860,1,1,No change
+913,525,5/31/2024,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,680,780,0,0,No change
+914,260,6/6/2024,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,850,900,1,1,No change
+915,775,6/6/2024,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,850,905,1,1,No change
+916,441,6/14/2024,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,890,940,1,1,No change
+917,205,6/20/2024,Costco Wholesale,COST,NaN,Greg Melich,Outperform,Outperform,890,890,1,1,No change
+918,214,6/25/2024,Costco Wholesale,COST,Tigress Partners,Ivan Feinseth,Buy,Buy,975,975,1,1,No change
+919,275,7/8/2024,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,900,900,1,1,No change
+920,776,7/11/2024,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,905,950,1,1,No change
+921,717,7/11/2024,Costco Wholesale,COST,Baird,Peter Benedict,Outperform,Outperform,975,975,1,1,No change
+922,198,7/11/2024,Costco Wholesale,COST,NaN,Greg Melich,Outperform,Outperform,920,920,1,1,No change
+923,494,7/11/2024,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,950,950,1,1,No change
+924,178,7/11/2024,Costco Wholesale,COST,NaN,George Kelly,Equal Weight,Equal Weight,800,800,NaN,NaN,None
+925,579,7/12/2024,Costco Wholesale,COST,Td Cowen,Oliver Chen,Buy,Buy,925,925,1,1,No change
+926,276,8/5/2024,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,925,925,1,1,No change
+927,199,8/7/2024,Costco Wholesale,COST,NaN,Greg Melich,Outperform,Outperform,915,915,1,1,No change
+928,785,8/8/2024,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,925,925,1,1,No change
+929,84,8/8/2024,Costco Wholesale,COST,Gordon Haskett,Charles Grom,Accumulate,Buy,925,925,NaN,1,None
+930,295,8/27/2024,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,925,925,1,1,No change
+931,495,9/6/2024,Costco Wholesale,COST,NaN,Mark Astrachan,Buy,Buy,915,915,1,1,No change
+932,444,9/6/2024,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,975,975,1,1,No change
+933,296,9/6/2024,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,925,925,1,1,No change
+934,529,9/6/2024,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,780,780,0,0,No change
+935,297,9/27/2024,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1000,1000,1,1,No change
+936,828,9/27/2024,Costco Wholesale,COST,Truist,Scot Ciccarelli,Hold,Hold,873,909,0,0,No change
+937,16,9/27/2024,Costco Wholesale,COST,NaN,Bill Kirk,Neutral,Neutral,755,755,0,0,No change
+938,369,9/27/2024,Costco Wholesale,COST,NaN,Kelly Bania,Outperform,Outperform,980,980,1,1,No change
+939,179,9/27/2024,Costco Wholesale,COST,NaN,George Kelly,Equal Weight,Equal Weight,850,850,NaN,NaN,None
+940,435,9/27/2024,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,975,1005,1,1,No change
+941,298,10/3/2024,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1000,1000,1,1,No change
+942,299,10/10/2024,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1000,1000,1,1,No change
+943,530,10/10/2024,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,880,880,0,0,No change
+944,300,11/4/2024,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1000,1000,1,1,No change
+945,370,11/18/2024,Costco Wholesale,COST,NaN,Kelly Bania,Outperform,Outperform,1075,1075,1,1,No change
+946,301,11/29/2024,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1000,1000,1,1,No change
+947,136,12/5/2024,Costco Wholesale,COST,Jefferies,Corey Tarlowe,Buy,Buy,1145,1145,1,1,No change
+948,718,12/5/2024,Costco Wholesale,COST,Baird,Peter Benedict,Outperform,Outperform,1075,1075,1,1,No change
+949,302,12/5/2024,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1050,1050,1,1,No change
+950,483,12/5/2024,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,935,1000,1,1,No change
+951,527,12/13/2024,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,880,900,0,0,No change
+952,891,12/13/2024,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,950,1150,1,1,No change
+953,303,12/13/2024,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1050,1050,1,1,No change
+954,829,12/13/2024,Costco Wholesale,COST,Truist,Scot Ciccarelli,Hold,Hold,909,935,0,0,No change
+955,445,12/13/2024,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,1095,1095,1,1,No change
+956,598,12/18/2024,Costco Wholesale,COST,Citi,Paul Lejuez,Neutral,Neutral,1060,1060,0,0,No change
+957,304,1/3/2025,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1100,1100,1,1,No change
+958,305,1/8/2025,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1100,1100,1,1,No change
+959,277,2/3/2025,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1100,1100,1,1,No change
+960,200,2/6/2025,Costco Wholesale,COST,Evercore,Greg Melich,Outperform,Outperform,1070,1070,1,1,No change
+961,437,2/6/2025,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,1095,1150,1,1,No change
+962,493,2/6/2025,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,1075,1075,1,1,No change
+963,573,3/7/2025,Costco Wholesale,COST,Td Cowen,Oliver Chen,Buy,Buy,1090,1100,1,1,No change
+964,278,3/7/2025,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1100,1100,1,1,No change
+965,433,3/7/2025,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,1150,1135,1,1,No change
+966,132,3/7/2025,Costco Wholesale,COST,Jefferies,Corey Tarlowe,Buy,Buy,1145,1180,1,1,No change
+967,830,3/7/2025,Costco Wholesale,COST,Truist,Scot Ciccarelli,Hold,Hold,935,995,0,0,No change
+968,201,3/11/2025,Costco Wholesale,COST,NaN,Greg Melich,Outperform,Outperform,1070,1070,1,1,No change
+969,279,4/4/2025,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1100,1100,1,1,No change
+970,280,4/10/2025,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1100,1100,1,1,No change
+971,281,4/28/2025,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1100,1100,1,1,No change
+972,282,5/5/2025,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1100,1100,1,1,No change
+973,283,5/30/2025,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1100,1100,1,1,No change
+974,446,5/30/2025,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,1110,1110,1,1,No change
+975,834,5/30/2025,Costco Wholesale,COST,NaN,Scot Ciccarelli,Hold,Hold,1042,1042,0,0,No change
+976,202,5/30/2025,Costco Wholesale,COST,NaN,Greg Melich,Outperform,Outperform,1075,1075,1,1,No change
+977,438,6/5/2025,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,1110,1170,1,1,No change
+978,284,6/5/2025,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1100,1100,1,1,No change
+979,203,6/17/2025,Costco Wholesale,COST,NaN,Greg Melich,Outperform,Outperform,1060,1060,1,1,No change
+980,285,7/3/2025,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1100,1100,1,1,No change
+981,286,7/10/2025,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1100,1100,1,1,No change
+982,287,8/4/2025,Costco Wholesale,COST,NaN,Joseph Feldman,Outperform,Outperform,1100,1100,1,1,No change
+983,117,8/7/2025,Costco Wholesale,COST,NaN,Christopher Horvers,Overweight,Overweight,1160,1160,1,1,No change
+984,670,3/19/2013,Lululemon Athletica,LULU,Crt Capital,Sam Poser,Neutral,Neutral,68,68,0,0,No change
+985,671,5/8/2013,Lululemon Athletica,LULU,Crt Capital,Sam Poser,Buy,Buy,90,90,1,1,No change
+986,663,6/11/2013,Lululemon Athletica,LULU,Crt Capital,Sam Poser,Buy,Neutral,90,75,1,0,Downgrade
+987,664,11/14/2013,Lululemon Athletica,LULU,Crt Capital,Sam Poser,Neutral,Underperform,75,56,0,-1,Downgrade
+988,12,12/13/2013,Lululemon Athletica,LULU,Janney,Adrienne Yih,Buy,Buy,75,75,1,1,No change
+989,12,12/13/2013,Lululemon Athletica,LULU,Janney,Adrienne Yih,Buy,Buy,75,75,1,1,No change
+990,253,12/13/2013,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy,Buy,75,75,1,1,No change
+991,254,1/14/2014,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy,Buy,73,73,1,1,No change
+992,667,1/21/2014,Lululemon Athletica,LULU,Crt Capital,Sam Poser,Underperform,Underperform,43,43,-1,-1,No change
+993,357,10/16/2014,Lululemon Athletica,LULU,Macquarie,Laurent Vasilescu,Neutral,Underperform,40,34,0,-1,Downgrade
+994,549,12/9/2014,Lululemon Athletica,LULU,Wells Fargo,Paul Lejuez,Outperform,Marketperform,50,54,1,NaN,None
+995,13,1/13/2015,Lululemon Athletica,LULU,Janney,Adrienne Yih,Neutral,Neutral,61,61,0,0,No change
+996,13,1/13/2015,Lululemon Athletica,LULU,Janney,Adrienne Yih,Neutral,Neutral,61,61,0,0,No change
+997,16,3/26/2015,Lululemon Athletica,LULU,Janney,Adrienne Yih,Neutral,Neutral,63,63,0,0,No change
+998,16,3/26/2015,Lululemon Athletica,LULU,Janney,Adrienne Yih,Neutral,Neutral,63,63,0,0,No change
+999,527,4/8/2015,Lululemon Athletica,LULU,Td Cowen,Oliver Chen,Outperform,Outperform,72,74,1,1,No change
+1000,486,10/22/2015,Lululemon Athletica,LULU,Ubs,Michael Binetti,Neutral,Neutral,59,55,0,0,No change
+1001,552,3/31/2016,Lululemon Athletica,LULU,Citi,Paul Lejuez,Buy,Buy,72,72,1,1,No change
+1002,653,3/31/2016,Lululemon Athletica,LULU,NaN,Robert Drbul,Buy,Buy,72,72,1,1,No change
+1003,488,6/9/2016,Lululemon Athletica,LULU,Ubs,Michael Binetti,Neutral,Neutral,69,72,0,0,No change
+1004,553,9/2/2016,Lululemon Athletica,LULU,Citi,Paul Lejuez,Buy,Buy,85,85,1,1,No change
+1005,692,12/8/2016,Lululemon Athletica,LULU,Susquehanna,Sam Poser,Positive,Positive,77,82,1,1,No change
+1006,138,3/30/2017,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,64,64,1,1,No change
+1007,138,3/30/2017,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,64,64,1,1,No change
+1008,694,3/30/2017,Lululemon Athletica,LULU,Susquehanna,Sam Poser,Positive,Neutral,82,57,1,0,Downgrade
+1009,560,10/20/2017,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral,Buy,62,73,0,1,Upgrade
+1010,633,12/1/2017,Lululemon Athletica,LULU,Needham,Rick Patel,Buy,Buy,71,71,1,1,No change
+1011,131,12/7/2017,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,84,84,1,1,No change
+1012,131,12/7/2017,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,84,84,1,1,No change
+1013,133,1/2/2018,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,92,92,1,1,No change
+1014,133,1/2/2018,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,92,92,1,1,No change
+1015,634,1/9/2018,Lululemon Athletica,LULU,Needham,Rick Patel,Buy,Buy,84,84,1,1,No change
+1016,187,3/28/2018,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Market Perform,Market Perform,82,82,0,0,No change
+1017,187,3/28/2018,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Market Perform,Market Perform,82,82,0,0,No change
+1018,516,3/28/2018,Lululemon Athletica,LULU,NaN,Oliver Chen,Outperform,Outperform,98,98,1,1,No change
+1019,637,3/28/2018,Lululemon Athletica,LULU,Needham,Rick Patel,Buy,Buy,84,88,1,1,No change
+1020,668,6/1/2018,Lululemon Athletica,LULU,Susquehanna,Sam Poser,Positive,Positive,121,121,1,1,No change
+1021,134,6/1/2018,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,125,125,1,1,No change
+1022,255,6/1/2018,Lululemon Athletica,LULU,Stifel,Jim Duffy,Hold,Hold,111,111,0,0,No change
+1023,134,6/1/2018,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,125,125,1,1,No change
+1024,712,6/4/2018,Lululemon Athletica,LULU,Nomura,Simeon Siegel,Buy,Buy,120,120,1,1,No change
+1025,256,6/8/2018,Lululemon Athletica,LULU,Stifel,Jim Duffy,Hold,Hold,113,113,0,0,No change
+1026,514,7/9/2018,Lululemon Athletica,LULU,NaN,Oliver Chen,Outperform,Outperform,137,137,1,1,No change
+1027,551,7/12/2018,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral,Neutral,127,127,0,0,No change
+1028,733,8/15/2018,Lululemon Athletica,LULU,B. Riley,Susan Anderson,Neutral,In Line,112,128,0,NaN,None
+1029,252,8/31/2018,Lululemon Athletica,LULU,Stifel,Jim Duffy,Hold,Hold,150,150,0,0,No change
+1030,518,10/2/2018,Lululemon Athletica,LULU,NaN,Oliver Chen,Outperform,Outperform,185,185,1,1,No change
+1031,517,3/28/2019,Lululemon Athletica,LULU,NaN,Oliver Chen,Outperform,Outperform,192,192,1,1,No change
+1032,360,5/7/2019,Lululemon Athletica,LULU,Macquarie,Laurent Vasilescu,Underperform,Neutral,101,188,-1,0,Upgrade
+1033,136,6/13/2019,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,205,205,1,1,No change
+1034,313,6/13/2019,Lululemon Athletica,LULU,Td Cowen,John Kernan,Outperform,Outperform,192,200,1,1,No change
+1035,136,6/13/2019,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,205,205,1,1,No change
+1036,141,9/6/2019,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,214,214,1,1,No change
+1037,519,9/6/2019,Lululemon Athletica,LULU,NaN,Oliver Chen,Outperform,Outperform,214,214,1,1,No change
+1038,141,9/6/2019,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,214,214,1,1,No change
+1039,453,9/6/2019,Lululemon Athletica,LULU,Jpmorgan,Matthew Boss,Overweight,Overweight,230,230,1,1,No change
+1040,309,9/17/2019,Lululemon Athletica,LULU,Td Cowen,John Kernan,Outperform,Outperform,214,235,1,1,No change
+1041,520,9/17/2019,Lululemon Athletica,LULU,NaN,Oliver Chen,Outperform,Outperform,235,235,1,1,No change
+1042,511,12/3/2019,Lululemon Athletica,LULU,NaN,Oliver Chen,Outperform,Outperform,250,250,1,1,No change
+1043,325,1/14/2020,Lululemon Athletica,LULU,Td Cowen,John Kernan,Outperform,Outperform,250,270,1,1,No change
+1044,550,1/16/2020,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral,Neutral,245,245,0,0,No change
+1045,684,2/21/2020,Lululemon Athletica,LULU,Susquehanna,Sam Poser,Positive,Buy,285,310,1,1,No change
+1046,186,3/16/2020,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Overweight,Overweight,250,250,1,1,No change
+1047,186,3/16/2020,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Overweight,Overweight,250,250,1,1,No change
+1048,137,3/24/2020,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,285,230,1,1,No change
+1049,137,3/24/2020,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,285,230,1,1,No change
+1050,452,3/27/2020,Lululemon Athletica,LULU,Jpmorgan,Matthew Boss,Overweight,Overweight,209,209,1,1,No change
+1051,515,6/1/2020,Lululemon Athletica,LULU,NaN,Oliver Chen,Outperform,Outperform,311,311,1,1,No change
+1052,178,6/2/2020,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Equal Weight,Overweight,275,250,NaN,1,None
+1053,178,6/2/2020,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Equal Weight,Overweight,275,250,NaN,1,None
+1054,135,6/8/2020,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,230,360,1,1,No change
+1055,135,6/8/2020,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,230,360,1,1,No change
+1056,451,6/12/2020,Lululemon Athletica,LULU,Jpmorgan,Matthew Boss,Overweight,Overweight,334,334,1,1,No change
+1057,613,6/12/2020,Lululemon Athletica,LULU,Jefferies,Randal Konik,Hold,Hold,290,290,0,0,No change
+1058,139,9/3/2020,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,360,440,1,1,No change
+1059,139,9/3/2020,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,360,440,1,1,No change
+1060,326,11/25/2020,Lululemon Athletica,LULU,Td Cowen,John Kernan,Outperform,Outperform,399,403,1,1,No change
+1061,739,3/31/2021,Lululemon Athletica,LULU,B. Riley,Susan Anderson,Buy,Buy,409,374,1,1,No change
+1062,15,6/4/2021,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,445,445,1,1,No change
+1063,15,6/4/2021,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,445,445,1,1,No change
+1064,140,9/3/2021,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,460,460,1,1,No change
+1065,140,9/3/2021,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,460,460,1,1,No change
+1066,142,9/9/2021,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,485,485,1,1,No change
+1067,142,9/9/2021,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,485,485,1,1,No change
+1068,366,9/9/2021,Lululemon Athletica,LULU,Baml,Lorraine Hutchinson,Buy,Buy,473,473,1,1,No change
+1069,554,9/10/2021,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral,Neutral,430,430,0,0,No change
+1070,132,12/10/2021,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,515,523,1,1,No change
+1071,512,12/10/2021,Lululemon Athletica,LULU,NaN,Oliver Chen,Outperform,Outperform,515,523,1,1,No change
+1072,132,12/10/2021,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,515,523,1,1,No change
+1073,450,12/10/2021,Lululemon Athletica,LULU,Jpmorgan,Matthew Boss,Overweight,Overweight,481,487,1,1,No change
+1074,513,1/13/2022,Lululemon Athletica,LULU,NaN,Oliver Chen,Outperform,Outperform,491,491,1,1,No change
+1075,14,1/14/2022,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,461,461,1,1,No change
+1076,14,1/14/2022,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,461,461,1,1,No change
+1077,100,4/1/2022,Lululemon Athletica,LULU,Oppenheimer,Brian Nagel,Outperform,Outperform,520,520,1,1,No change
+1078,100,4/1/2022,Lululemon Athletica,LULU,Oppenheimer,Brian Nagel,Outperform,Outperform,520,520,1,1,No change
+1079,746,6/3/2022,Lululemon Athletica,LULU,B. Riley,Susan Anderson,Buy,Buy,440,377,1,1,No change
+1080,202,6/3/2022,Lululemon Athletica,LULU,NaN,Ike Boruchow,Equal Weight,Equal Weight,345,345,NaN,NaN,None
+1081,329,6/3/2022,Lululemon Athletica,LULU,Td Cowen,John Kernan,Outperform,Outperform,497,505,1,1,No change
+1082,286,9/2/2022,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy,Buy,400,400,1,1,No change
+1083,470,10/25/2022,Lululemon Athletica,LULU,Jpmorgan,Matthew Boss,Overweight,Overweight,413,413,1,1,No change
+1084,231,12/2/2022,Lululemon Athletica,LULU,Ubs,Jay Sole,Neutral,Neutral,395,395,0,0,No change
+1085,287,12/5/2022,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy,Buy,450,450,1,1,No change
+1086,501,12/5/2022,Lululemon Athletica,LULU,Credit Suisse,Michael Binetti,Outperform,Outperform,465,465,1,1,No change
+1087,121,12/9/2022,Lululemon Athletica,LULU,Goldman Sachs,Brooke Roach,Buy,Buy,431,383,1,1,No change
+1088,121,12/9/2022,Lululemon Athletica,LULU,Goldman Sachs,Brooke Roach,Buy,Buy,431,383,1,1,No change
+1089,32,12/12/2022,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,445,445,1,1,No change
+1090,32,12/12/2022,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,445,445,1,1,No change
+1091,183,1/6/2023,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Overweight,Equal Weight,360,380,1,NaN,None
+1092,183,1/6/2023,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Overweight,Equal Weight,360,380,1,NaN,None
+1093,150,1/10/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,425,425,1,1,No change
+1094,150,1/10/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,425,425,1,1,No change
+1095,151,3/21/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,425,425,1,1,No change
+1096,151,3/21/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,425,425,1,1,No change
+1097,127,3/29/2023,Lululemon Athletica,LULU,NaN,Dan Brennan,Outperform,Outperform,500,500,1,1,No change
+1098,152,3/29/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,425,425,1,1,No change
+1099,561,3/29/2023,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral,Buy,350,440,0,1,Upgrade
+1100,168,3/29/2023,Lululemon Athletica,LULU,NaN,Gregory Francfort,Buy,Buy,440,440,1,1,No change
+1101,167,3/29/2023,Lululemon Athletica,LULU,NaN,David Manthey,Outperform,Outperform,425,425,1,1,No change
+1102,168,3/29/2023,Lululemon Athletica,LULU,NaN,Gregory Francfort,Buy,Buy,440,440,1,1,No change
+1103,167,3/29/2023,Lululemon Athletica,LULU,NaN,David Manthey,Outperform,Outperform,425,425,1,1,No change
+1104,152,3/29/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,425,425,1,1,No change
+1105,127,3/29/2023,Lululemon Athletica,LULU,NaN,Dan Brennan,Outperform,Outperform,500,500,1,1,No change
+1106,369,4/20/2023,Lululemon Athletica,LULU,Baml,Lorraine Hutchinson,Buy,Buy,410,450,1,1,No change
+1107,128,4/27/2023,Lululemon Athletica,LULU,NaN,Dan Brennan,Outperform,Outperform,525,525,1,1,No change
+1108,128,4/27/2023,Lululemon Athletica,LULU,NaN,Dan Brennan,Outperform,Outperform,525,525,1,1,No change
+1109,153,5/26/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,425,425,1,1,No change
+1110,153,5/26/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,425,425,1,1,No change
+1111,505,6/2/2023,Lululemon Athletica,LULU,NaN,Noah Zatzkin,Overweight,Overweight,400,400,1,1,No change
+1112,763,6/2/2023,Lululemon Athletica,LULU,Wedbush,Tom Nikic,Outperform,Outperform,415,415,1,1,No change
+1113,154,6/2/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,430,430,1,1,No change
+1114,730,6/2/2023,Lululemon Athletica,LULU,Bmo,Simeon Siegel,Market Perform,Market Perform,355,355,0,0,No change
+1115,154,6/2/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,430,430,1,1,No change
+1116,33,6/5/2023,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,430,430,1,1,No change
+1117,572,6/5/2023,Lululemon Athletica,LULU,Citi,Paul Lejuez,Buy,Buy,450,450,1,1,No change
+1118,33,6/5/2023,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,430,430,1,1,No change
+1119,506,7/25/2023,Lululemon Athletica,LULU,NaN,Noah Zatzkin,Overweight,Overweight,425,425,1,1,No change
+1120,155,8/25/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,430,430,1,1,No change
+1121,155,8/25/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,430,430,1,1,No change
+1122,764,8/30/2023,Lululemon Athletica,LULU,Wedbush,Tom Nikic,Outperform,Outperform,415,415,1,1,No change
+1123,156,9/1/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,450,450,1,1,No change
+1124,507,9/1/2023,Lululemon Athletica,LULU,NaN,Noah Zatzkin,Overweight,Overweight,450,450,1,1,No change
+1125,156,9/1/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,450,450,1,1,No change
+1126,62,9/5/2023,Lululemon Athletica,LULU,Bernstein,Aneesha Sherman,Underperform,Market Perform,366,366,-1,0,Upgrade
+1127,62,9/5/2023,Lululemon Athletica,LULU,Bernstein,Aneesha Sherman,Underperform,Market Perform,366,366,-1,0,Upgrade
+1128,644,9/20/2023,Lululemon Athletica,LULU,Raymond James,Rick Patel,Buy,Buy,470,470,1,1,No change
+1129,157,9/21/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,450,450,1,1,No change
+1130,157,9/21/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,450,450,1,1,No change
+1131,502,11/7/2023,Lululemon Athletica,LULU,NaN,Michael Binetti,Outperform,Outperform,475,475,1,1,No change
+1132,704,11/17/2023,Lululemon Athletica,LULU,NaN,Scot Ciccarelli,Buy,Buy,500,500,1,1,No change
+1133,508,12/8/2023,Lululemon Athletica,LULU,NaN,Noah Zatzkin,Overweight,Overweight,500,500,1,1,No change
+1134,645,12/8/2023,Lululemon Athletica,LULU,Raymond James,Rick Patel,Buy,Buy,525,525,1,1,No change
+1135,158,12/13/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,550,550,1,1,No change
+1136,158,12/13/2023,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,550,550,1,1,No change
+1137,621,2/13/2024,Lululemon Athletica,LULU,Jefferies,Randal Konik,Underperform,Underperform,250,300,-1,-1,No change
+1138,86,2/20/2024,Lululemon Athletica,LULU,Needham,Anna Andreeva,Buy,Buy,525,525,1,1,No change
+1139,86,2/20/2024,Lululemon Athletica,LULU,Needham,Anna Andreeva,Buy,Buy,525,525,1,1,No change
+1140,336,3/22/2024,Lululemon Athletica,LULU,Td Cowen,John Kernan,Outperform,Outperform,553,515,1,1,No change
+1141,703,3/22/2024,Lululemon Athletica,LULU,Truist,Scot Ciccarelli,Buy,Buy,561,498,1,1,No change
+1142,34,3/25/2024,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,546,546,1,1,No change
+1143,34,3/25/2024,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,546,546,1,1,No change
+1144,430,4/19/2024,Lululemon Athletica,LULU,Baird,Mark Altschwager,Outperform,Outperform,505,505,1,1,No change
+1145,35,4/29/2024,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Equal Weight,395,395,1,NaN,None
+1146,35,4/29/2024,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Equal Weight,395,395,1,NaN,None
+1147,159,5/22/2024,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,550,550,1,1,No change
+1148,159,5/22/2024,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,550,550,1,1,No change
+1149,288,5/28/2024,Lululemon Athletica,LULU,NaN,Jim Duffy,Buy,Buy,410,410,1,1,No change
+1150,46,5/29/2024,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,490,404,1,1,No change
+1151,46,5/29/2024,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,490,404,1,1,No change
+1152,160,5/30/2024,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,550,550,1,1,No change
+1153,160,5/30/2024,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,550,550,1,1,No change
+1154,379,6/6/2024,Lululemon Athletica,LULU,Baml,Lorraine Hutchinson,Buy,Buy,440,440,1,1,No change
+1155,148,6/6/2024,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,In Line,550,470,1,NaN,None
+1156,113,6/6/2024,Lululemon Athletica,LULU,Oppenheimer,Brian Nagel,Outperform,Outperform,445,445,1,1,No change
+1157,148,6/6/2024,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,In Line,550,470,1,NaN,None
+1158,113,6/6/2024,Lululemon Athletica,LULU,Oppenheimer,Brian Nagel,Outperform,Outperform,445,445,1,1,No change
+1159,197,6/6/2024,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Equal Weight,Equal Weight,425,350,NaN,NaN,None
+1160,197,6/6/2024,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Equal Weight,Equal Weight,425,350,NaN,NaN,None
+1161,63,6/7/2024,Lululemon Athletica,LULU,NaN,Aneesha Sherman,Market Perform,Market Perform,382,382,0,0,No change
+1162,63,6/7/2024,Lululemon Athletica,LULU,NaN,Aneesha Sherman,Market Perform,Market Perform,382,382,0,0,No change
+1163,352,6/13/2024,Lululemon Athletica,LULU,NaN,Krisztina Katai,Hold,Hold,357,357,0,0,No change
+1164,471,7/25/2024,Lululemon Athletica,LULU,Jpmorgan,Matthew Boss,Overweight,Overweight,338,338,1,1,No change
+1165,573,7/25/2024,Lululemon Athletica,LULU,Citi,Paul Lejuez,Buy,Neutral,300,300,1,0,Downgrade
+1166,431,7/25/2024,Lululemon Athletica,LULU,Baird,Mark Altschwager,Outperform,Outperform,470,470,1,1,No change
+1167,622,7/25/2024,Lululemon Athletica,LULU,Jefferies,Randal Konik,Underperform,Underperform,220,220,-1,-1,No change
+1168,339,7/25/2024,Lululemon Athletica,LULU,Td Cowen,John Kernan,Buy,Buy,420,420,1,1,No change
+1169,702,7/25/2024,Lululemon Athletica,LULU,Truist,Scot Ciccarelli,Buy,Buy,415,310,1,1,No change
+1170,203,7/25/2024,Lululemon Athletica,LULU,Btig,Janine Stichter,Buy,Buy,425,360,1,1,No change
+1171,498,7/26/2024,Lululemon Athletica,LULU,Evercore,Michael Binetti,Outperform,Outperform,300,300,1,1,No change
+1172,125,8/2/2024,Lululemon Athletica,LULU,NaN,Brooke Roach,Buy,Neutral,286,286,1,0,Downgrade
+1173,125,8/2/2024,Lululemon Athletica,LULU,NaN,Brooke Roach,Buy,Neutral,286,286,1,0,Downgrade
+1174,278,8/22/2024,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy,Buy,416,370,1,1,No change
+1175,87,8/23/2024,Lululemon Athletica,LULU,NaN,Anna Andreeva,Neutral,Neutral,250,250,0,0,No change
+1176,87,8/23/2024,Lululemon Athletica,LULU,NaN,Anna Andreeva,Neutral,Neutral,250,250,0,0,No change
+1177,161,8/26/2024,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,360,360,1,1,No change
+1178,161,8/26/2024,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,360,360,1,1,No change
+1179,499,8/26/2024,Lululemon Athletica,LULU,Evercore,Michael Binetti,Outperform,Outperform,300,300,1,1,No change
+1180,334,8/27/2024,Lululemon Athletica,LULU,Td Cowen,John Kernan,Buy,Buy,420,375,1,1,No change
+1181,765,8/28/2024,Lululemon Athletica,LULU,NaN,Tom Nikic,Outperform,Outperform,324,324,1,1,No change
+1182,646,8/30/2024,Lululemon Athletica,LULU,NaN,Rick Patel,Outperform,Outperform,325,325,1,1,No change
+1183,88,8/30/2024,Lululemon Athletica,LULU,NaN,Anna Andreeva,Neutral,Neutral,260,260,0,0,No change
+1184,88,8/30/2024,Lululemon Athletica,LULU,NaN,Anna Andreeva,Neutral,Neutral,260,260,0,0,No change
+1185,44,10/1/2024,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,326,314,1,1,No change
+1186,44,10/1/2024,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,326,314,1,1,No change
+1187,48,11/26/2024,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,314,345,1,1,No change
+1188,48,11/26/2024,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,314,345,1,1,No change
+1189,111,11/27/2024,Lululemon Athletica,LULU,Oppenheimer,Brian Nagel,Outperform,Outperform,445,380,1,1,No change
+1190,111,11/27/2024,Lululemon Athletica,LULU,Oppenheimer,Brian Nagel,Outperform,Outperform,445,380,1,1,No change
+1191,337,12/3/2024,Lululemon Athletica,LULU,Td Cowen,John Kernan,Buy,Buy,382,383,1,1,No change
+1192,289,12/6/2024,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy,Buy,438,438,1,1,No change
+1193,89,12/6/2024,Lululemon Athletica,LULU,NaN,Anna Andreeva,Neutral,Neutral,340,340,0,0,No change
+1194,36,12/6/2024,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Equal Weight,Equal Weight,378,378,NaN,NaN,None
+1195,232,12/6/2024,Lululemon Athletica,LULU,NaN,Jay Sole,Neutral,Neutral,360,360,0,0,No change
+1196,36,12/6/2024,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Equal Weight,Equal Weight,378,378,NaN,NaN,None
+1197,162,12/6/2024,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,430,430,1,1,No change
+1198,89,12/6/2024,Lululemon Athletica,LULU,NaN,Anna Andreeva,Neutral,Neutral,340,340,0,0,No change
+1199,726,12/6/2024,Lululemon Athletica,LULU,Bmo,Simeon Siegel,Market Perform,Market Perfo,265,302,0,NaN,None
+1200,162,12/6/2024,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,430,430,1,1,No change
+1201,429,12/13/2024,Lululemon Athletica,LULU,Baird,Mark Altschwager,Outperform,Outperform,440,480,1,1,No change
+1202,768,1/10/2025,Lululemon Athletica,LULU,NaN,Tom Nikic,Hold,Buy,475,475,0,1,Upgrade
+1203,163,1/14/2025,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,445,445,1,1,No change
+1204,163,1/14/2025,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,445,445,1,1,No change
+1205,647,1/15/2025,Lululemon Athletica,LULU,NaN,Rick Patel,Outperform,Outperform,430,430,1,1,No change
+1206,37,1/16/2025,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Equal Weight,Equal Weight,411,411,NaN,NaN,None
+1207,37,1/16/2025,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Equal Weight,Equal Weight,411,411,NaN,NaN,None
+1208,497,1/28/2025,Lululemon Athletica,LULU,Evercore,Michael Binetti,Outperform,Outperform,440,495,1,1,No change
+1209,114,2/7/2025,Lululemon Athletica,LULU,NaN,Brian Nagel,Outperform,Outperform,500,500,1,1,No change
+1210,114,2/7/2025,Lululemon Athletica,LULU,NaN,Brian Nagel,Outperform,Outperform,500,500,1,1,No change
+1211,47,3/19/2025,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,420,411,1,1,No change
+1212,47,3/19/2025,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,420,411,1,1,No change
+1213,574,3/20/2025,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral,Neutral,330,330,0,0,No change
+1214,164,3/20/2025,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,445,445,1,1,No change
+1215,164,3/20/2025,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,445,445,1,1,No change
+1216,376,3/28/2025,Lululemon Athletica,LULU,NaN,Lorraine Hutchinson,Buy,Buy,400,400,1,1,No change
+1217,290,3/28/2025,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy,Buy,424,424,1,1,No change
+1218,760,3/28/2025,Lululemon Athletica,LULU,Needham,Tom Nikic,Buy,Buy,430,366,1,1,No change
+1219,233,3/28/2025,Lululemon Athletica,LULU,NaN,Jay Sole,Neutral,Neutral,335,335,0,0,No change
+1220,84,3/28/2025,Lululemon Athletica,LULU,Piper Sandler,Anna Andreeva,Neutral,Neutral,340,315,0,0,No change
+1221,724,3/28/2025,Lululemon Athletica,LULU,Bmo,Simeon Siegel,Market Perform,Market Perfo,313,302,0,NaN,None
+1222,165,3/28/2025,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,385,385,1,1,No change
+1223,84,3/28/2025,Lululemon Athletica,LULU,Piper Sandler,Anna Andreeva,Neutral,Neutral,340,315,0,0,No change
+1224,165,3/28/2025,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,385,385,1,1,No change
+1225,83,4/11/2025,Lululemon Athletica,LULU,Piper Sandler,Anna Andreeva,Neutral,Neutral,315,280,0,0,No change
+1226,83,4/11/2025,Lululemon Athletica,LULU,Piper Sandler,Anna Andreeva,Neutral,Neutral,315,280,0,0,No change
+1227,472,4/14/2025,Lululemon Athletica,LULU,NaN,Matthew Boss,Overweight,Overweight,389,389,1,1,No change
+1228,126,4/22/2025,Lululemon Athletica,LULU,NaN,Brooke Roach,Neutral,Neutral,302,302,0,0,No change
+1229,126,4/22/2025,Lululemon Athletica,LULU,NaN,Brooke Roach,Neutral,Neutral,302,302,0,0,No change
+1230,38,5/12/2025,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Equal Weight,Equal Weight,276,276,NaN,NaN,None
+1231,38,5/12/2025,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Equal Weight,Equal Weight,276,276,NaN,NaN,None
+1232,575,5/29/2025,Lululemon Athletica,LULU,NaN,Paul Lejuez,Neutral,Neutral,325,325,0,0,No change
+1233,90,6/3/2025,Lululemon Athletica,LULU,NaN,Anna Andreeva,Neutral,Neutral,315,315,0,0,No change
+1234,90,6/3/2025,Lululemon Athletica,LULU,NaN,Anna Andreeva,Neutral,Neutral,315,315,0,0,No change
+1235,166,6/6/2025,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,360,360,1,1,No change
+1236,500,6/6/2025,Lululemon Athletica,LULU,NaN,Michael Binetti,Outperform,Outperform,320,320,1,1,No change
+1237,204,6/6/2025,Lululemon Athletica,LULU,Btig,Janine Stichter,Buy,Buy,420,405,1,1,No change
+1238,759,6/6/2025,Lululemon Athletica,LULU,Needham,Tom Nikic,Buy,Buy,366,317,1,1,No change
+1239,234,6/6/2025,Lululemon Athletica,LULU,NaN,Jay Sole,Neutral,Neutral,290,290,0,0,No change
+1240,199,6/6/2025,Lululemon Athletica,LULU,NaN,Ike Boruchow,Equal Weight,Equal Weight,270,270,NaN,NaN,None
+1241,166,6/6/2025,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,360,360,1,1,No change
+1242,199,6/6/2025,Lululemon Athletica,LULU,NaN,Ike Boruchow,Equal Weight,Equal Weight,270,270,NaN,NaN,None
+1243,332,6/6/2025,Lululemon Athletica,LULU,Td Cowen,John Kernan,Buy,Buy,373,321,1,1,No change
+1244,618,6/24/2025,Lululemon Athletica,LULU,Jefferies,Randal Konik,Underperform,Underperform,200,175,-1,-1,No change
+1245,473,7/22/2025,Lululemon Athletica,LULU,NaN,Matthew Boss,Overweight,Neutral,224,224,1,0,Downgrade
+1246,91,7/29/2025,Lululemon Athletica,LULU,NaN,Anna Andreeva,Neutral,Neutral,200,200,0,0,No change
+1247,91,7/29/2025,Lululemon Athletica,LULU,NaN,Anna Andreeva,Neutral,Neutral,200,200,0,0,No change
+1248,432,8/11/2025,Lululemon Athletica,LULU,NaN,Mark Altschwager,Outperform,Outperform,260,260,1,1,No change
+1249,235,8/18/2025,Lululemon Athletica,LULU,NaN,Jay Sole,Neutral,Neutral,240,240,0,0,No change
+1250,201,8/19/2025,Lululemon Athletica,LULU,NaN,Ike Boruchow,Equal Weight,Equal Weight,205,205,NaN,NaN,None
+1251,377,8/26/2025,Lululemon Athletica,LULU,NaN,Lorraine Hutchinson,Buy,Buy,300,300,1,1,No change
+1252,769,8/29/2025,Lululemon Athletica,LULU,NaN,Tom Nikic,Buy,Buy,238,238,1,1,No change
+1253,149,8/29/2025,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,360,360,1,1,No change
+1254,149,8/29/2025,Lululemon Athletica,LULU,NaN,Dana Telsey,Outperform,Outperform,360,360,1,1,No change
+1255,433,9/5/2025,Lululemon Athletica,LULU,NaN,Mark Altschwager,Outperform,Outperform,225,225,1,1,No change
+1256,378,9/5/2025,Lululemon Athletica,LULU,NaN,Lorraine Hutchinson,Buy,Neutral,210,210,1,0,Downgrade
+1257,770,9/5/2025,Lululemon Athletica,LULU,NaN,Tom Nikic,Buy,Buy,192,192,1,1,No change

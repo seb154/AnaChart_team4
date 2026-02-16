@@ -1,0 +1,37 @@
+Row,Date,Company Name,Ticker,Broker,Analyst,Rating Before,Rating After,Price Target Before,Price Target After,Adjusted Close Price (t = 0),Adjusted Close Price (t = 30),Event Type
+415,11/22/2013,Ross Stores Inc,ROST,Maxim Group,Rick Snyder,Hold,Sell,37.5,31.5,,,Downgrade
+134,7/16/2014,Ross Stores Inc,ROST,Crt Capital,Ike Boruchow,Buy,Neutral,40.5,34.0,,,Downgrade
+360,12/16/2014,Ross Stores Inc,ROST,Td Cowen,Oliver Chen,Outperform,Market Perform,47.5,47.0,,,Downgrade
+37,6/27/2019,Ross Stores Inc,ROST,Goldman Sachs,Alexandra Walvis,Neutral,Sell,102.0,91.0,,,Downgrade
+371,3/20/2020,Ross Stores Inc,ROST,Citi,Paul Lejuez,Buy,Neutral,90.0,120.0,,,Downgrade
+206,4/28/2020,Ross Stores Inc,ROST,D.A. Davidson,John Morris,Buy,Neutral,87.0,108.0,,,Downgrade
+251,3/22/2023,Ross Stores Inc,ROST,Loop Capital,Laura Champine,Buy,Hold,105.0,115.0,,,Downgrade
+189,8/3/2023,Ross Stores Inc,ROST,Td Cowen,John Kernan,Outperform,Market Perform,113.0,128.0,,,Downgrade
+385,11/12/2024,Ross Stores Inc,ROST,Citi,Paul Lejuez,Buy,Neutral,152.0,152.0,,,Downgrade
+1005,7/22/2014,Amazon.com Inc,AMZN,Citi,Mark May,Buy,Neutral,20.7,19.75,,,Downgrade
+1318,7/29/2015,Amazon.com Inc,AMZN,Stifel,Scott Devitt,Buy,Hold,26.3,35.0,,,Downgrade
+1045,2/18/2016,Amazon.com Inc,AMZN,Canaccord,Michael Graham,Buy,Hold,30.0,37.5,,,Downgrade
+447,11/4/2020,Amazon.com Inc,AMZN,China Renaissance,Ella Ji,Buy,Hold,168.0,200.0,,,Downgrade
+90,10/29/2021,Amazon.com Inc,AMZN,Jefferies,Brent Thill,Buy,Hold,210.0,200.0,,,Downgrade
+628,7/28/2017,Starbucks Corp,SBUX,Stifel,Mark Astrachan,Buy,Hold,66.0,58.0,,,Downgrade
+452,2/1/2018,Starbucks Corp,SBUX,Mizuho,Jeremy Scott,Buy,Neutral,68.0,60.0,,,Downgrade
+584,1/11/2019,Starbucks Corp,SBUX,Goldman Sachs,Karen Holthouse,Buy,Neutral,75.0,68.0,,,Downgrade
+383,4/9/2020,Starbucks Corp,SBUX,Baml,Gregory Francfort,Buy,Neutral,73.0,68.0,,,Downgrade
+427,2/5/2021,Starbucks Corp,SBUX,Gordon Haskett,Jeff Farmer,Buy,Hold,100.0,120.0,,,Downgrade
+664,3/19/2021,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Outperform,Neutral,108.0,124.0,,,Downgrade
+244,11/1/2021,Starbucks Corp,SBUX,Stifel,Chris O'Cull,Buy,Hold,112.0,112.0,,,Downgrade
+263,1/7/2022,Starbucks Corp,SBUX,Rbc,Christopher Carril,Outperform,Sector Perform,124.0,122.0,,,Downgrade
+613,5/1/2024,Starbucks Corp,SBUX,Deutsche Bank,Lauren Silberman,Buy,Hold,108.0,89.0,,,Downgrade
+335,4/7/2025,Starbucks Corp,SBUX,,David Tarantino,Outperform,Neutral,85.0,85.0,,,Downgrade
+248,4/30/2025,Starbucks Corp,SBUX,,Christine Cho,Buy,Neutral,85.0,85.0,,,Downgrade
+628,2/5/2015,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Buy,Hold,147.0,142.0,,,Downgrade
+835,3/11/2021,Costco Wholesale,COST,R5 Capital,Scott Mushkin,Buy,Hold,379.0,400.0,,,Downgrade
+385,7/14/2022,Costco Wholesale,COST,Deutsche Bank,Krisztina Katai,Buy,Hold,525.0,579.0,,,Downgrade
+663,6/11/2013,Lululemon Athletica,LULU,Crt Capital,Sam Poser,Buy,Neutral,90.0,75.0,,,Downgrade
+664,11/14/2013,Lululemon Athletica,LULU,Crt Capital,Sam Poser,Neutral,Underperform,75.0,56.0,,,Downgrade
+357,10/16/2014,Lululemon Athletica,LULU,Macquarie,Laurent Vasilescu,Neutral,Underperform,40.0,34.0,,,Downgrade
+694,3/30/2017,Lululemon Athletica,LULU,Susquehanna,Sam Poser,Positive,Neutral,82.0,57.0,,,Downgrade
+573,7/25/2024,Lululemon Athletica,LULU,Citi,Paul Lejuez,Buy,Neutral,300.0,300.0,,,Downgrade
+125,8/2/2024,Lululemon Athletica,LULU,,Brooke Roach,Buy,Neutral,286.0,286.0,,,Downgrade
+125,8/2/2024,Lululemon Athletica,LULU,,Brooke Roach,Buy,Neutral,286.0,286.0,,,Downgrade
+378,9/5/2025,Lululemon Athletica,LULU,,Lorraine Hutchinson,Buy,Neutral,210.0,210.0,,,Downgrade

@@ -1,0 +1,26 @@
+Row,Date,Company Name,Ticker,Broker,Analyst,Rating Before,Rating After,Price Target Before,Price Target After,Adjusted Close Price (t = 0),Adjusted Close Price (t = 30),Event Type
+122,6/13/2013,Ross Stores Inc,ROST,Crt Capital,Ike Boruchow,Neutral,Buy,36.0,37.5,,,Upgrade
+131,4/17/2015,Ross Stores Inc,ROST,Crt Capital,Ike Boruchow,Short,Neutral,52.5,56.0,,,Upgrade
+428,3/2/2016,Ross Stores Inc,ROST,Roth Mkm,Roxanne Meyer,Neutral,Buy,52.0,65.0,,,Upgrade
+39,3/25/2020,Ross Stores Inc,ROST,Goldman Sachs,Alexandra Walvis,Sell,Buy,93.0,110.0,,,Upgrade
+248,10/14/2021,Ross Stores Inc,ROST,Loop Capital,Laura Champine,Hold,Buy,140.0,105.0,,,Upgrade
+175,2/23/2024,Ross Stores Inc,ROST,Ubs,Jay Sole,Sell,Neutral,85.0,142.0,,,Upgrade
+1099,4/24/2015,Amazon.com Inc,AMZN,Wedbush,Michael Pachter,Short,Neutral,19.75,21.75,,,Upgrade
+67,8/4/2023,Amazon.com Inc,AMZN,Rosenblatt,Barton Crockett,Neutral,Buy,184.0,184.0,,,Upgrade
+620,4/20/2017,Starbucks Corp,SBUX,Stifel,Mark Astrachan,Hold,Buy,60.0,67.0,,,Upgrade
+327,7/23/2021,Starbucks Corp,SBUX,Baird,David Tarantino,Neutral,Outperform,117.0,142.0,,,Upgrade
+310,12/17/2021,Starbucks Corp,SBUX,Baird,David Tarantino,Neutral,Outperform,126.0,116.0,,,Upgrade
+663,4/5/2022,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Outperform,105.0,91.0,,,Upgrade
+535,4/12/2022,Starbucks Corp,SBUX,Citi,Jon Tower,Neutral,Buy,120.0,91.0,,,Upgrade
+328,8/13/2024,Starbucks Corp,SBUX,Baird,David Tarantino,Neutral,Outperform,81.0,110.0,,,Upgrade
+614,8/14/2024,Starbucks Corp,SBUX,Deutsche Bank,Lauren Silberman,Hold,Buy,85.0,118.0,,,Upgrade
+223,8/14/2024,Starbucks Corp,SBUX,,Brian Mullan,Hold,Buy,118.0,118.0,,,Upgrade
+246,8/14/2024,Starbucks Corp,SBUX,Stifel,Chris O'Cull,Hold,Buy,110.0,110.0,,,Upgrade
+633,12/3/2015,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Buy,152.0,200.0,,,Upgrade
+28,9/18/2019,Costco Wholesale,COST,Bernstein,Brandon Fletcher,Underperform,Market Perform,230.0,220.0,,,Upgrade
+560,10/20/2017,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral,Buy,62.0,73.0,,,Upgrade
+360,5/7/2019,Lululemon Athletica,LULU,Macquarie,Laurent Vasilescu,Underperform,Neutral,101.0,188.0,,,Upgrade
+561,3/29/2023,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral,Buy,350.0,440.0,,,Upgrade
+62,9/5/2023,Lululemon Athletica,LULU,Bernstein,Aneesha Sherman,Underperform,Market Perform,366.0,366.0,,,Upgrade
+62,9/5/2023,Lululemon Athletica,LULU,Bernstein,Aneesha Sherman,Underperform,Market Perform,366.0,366.0,,,Upgrade
+768,1/10/2025,Lululemon Athletica,LULU,,Tom Nikic,Hold,Buy,475.0,475.0,,,Upgrade
