@@ -1,0 +1,10 @@
+,Rating Before,Rating After,Score Before,Score After,Event Type,Ratings
+1,Hold,Sell,0,-1,Downgrade,Bearish
+4,Buy,Neutral,1,0,Downgrade,Neutral
+8,Outperform,Market Perform,1,0,Downgrade,Neutral
+49,Neutral,Sell,0,-1,Downgrade,Bearish
+61,Buy,Neutral,1,0,Downgrade,Neutral
+66,Buy,Neutral,1,0,Downgrade,Neutral
+94,Buy,Hold,1,0,Downgrade,Neutral
+100,Outperform,Market Perform,1,0,Downgrade,Neutral
+124,Buy,Neutral,1,0,Downgrade,Neutral
