@@ -1,0 +1,10 @@
+Row,Date,Company Name,Ticker,Broker,Analyst,Rating Before,Rating After,Price Target Before,Price Target After,Adjusted Close Price (t = 0),Adjusted Close Price (t = 30),Event Type
+620,4/20/2017,Starbucks Corp,SBUX,Stifel,Mark Astrachan,Hold,Buy,60.0,67.0,,,Upgrade
+327,7/23/2021,Starbucks Corp,SBUX,Baird,David Tarantino,Neutral,Outperform,117.0,142.0,,,Upgrade
+310,12/17/2021,Starbucks Corp,SBUX,Baird,David Tarantino,Neutral,Outperform,126.0,116.0,,,Upgrade
+663,4/5/2022,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Neutral,Outperform,105.0,91.0,,,Upgrade
+535,4/12/2022,Starbucks Corp,SBUX,Citi,Jon Tower,Neutral,Buy,120.0,91.0,,,Upgrade
+328,8/13/2024,Starbucks Corp,SBUX,Baird,David Tarantino,Neutral,Outperform,81.0,110.0,,,Upgrade
+614,8/14/2024,Starbucks Corp,SBUX,Deutsche Bank,Lauren Silberman,Hold,Buy,85.0,118.0,,,Upgrade
+223,8/14/2024,Starbucks Corp,SBUX,,Brian Mullan,Hold,Buy,118.0,118.0,,,Upgrade
+246,8/14/2024,Starbucks Corp,SBUX,Stifel,Chris O'Cull,Hold,Buy,110.0,110.0,,,Upgrade
