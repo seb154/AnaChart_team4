@@ -1,0 +1,260 @@
+Row,Date,Company Name,Ticker,Broker,Analyst,Rating Before,Rating After,Price Target Before,Price Target After,Event Type
+218,2013-05-31,Costco Wholesale,COST,Ubs,Jason Derise,Buy,Buy,125,125,No Change
+141,2014-09-25,Costco Wholesale,COST,Jefferies,Daniel Binder,Hold,Hold,115,115,No Change
+220,2014-10-02,Costco Wholesale,COST,,Jason Derise,Neutral,Neutral,125,125,No Change
+626,2014-10-06,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Buy,Buy,130,130,No Change
+140,2014-10-07,Costco Wholesale,COST,Jefferies,Daniel Binder,Hold,Hold,116,116,No Change
+221,2014-10-09,Costco Wholesale,COST,,Jason Derise,Neutral,Neutral,129,129,No Change
+138,2014-12-05,Costco Wholesale,COST,Jefferies,Daniel Binder,Hold,Hold,118,130,No Change
+216,2014-12-11,Costco Wholesale,COST,,Jason Derise,Neutral,Neutral,145,145,No Change
+139,2015-01-07,Costco Wholesale,COST,Jefferies,Daniel Binder,Hold,Hold,133,133,No Change
+616,2015-07-09,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,143,143,No Change
+72,2015-09-22,Costco Wholesale,COST,,Charles Grom,Buy,Buy,152,152,No Change
+627,2015-09-30,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,144,144,No Change
+71,2015-10-02,Costco Wholesale,COST,,Charles Grom,Buy,Buy,154,154,No Change
+222,2015-10-26,Costco Wholesale,COST,,Jason Derise,Buy,Buy,180,180,No Change
+888,2015-11-17,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,163,179,No Change
+840,2015-12-09,Costco Wholesale,COST,Piper Sandler,Sean Naughton,Overweight,Overweight,171,174,No Change
+354,2016-02-05,Costco Wholesale,COST,Bmo,Kelly Bania,Outperform,Outperform,170,170,No Change
+37,2016-02-12,Costco Wholesale,COST,Oppenheimer,Brian Nagel,Outperform,Outperform,160,160,No Change
+621,2016-05-16,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Buy,Buy,196,196,No Change
+328,2016-05-27,Costco Wholesale,COST,Citi,Kate Mcshane,Neutral,Neutral,155,155,No Change
+622,2016-05-31,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Buy,Buy,195,195,No Change
+326,2016-08-16,Costco Wholesale,COST,Citi,Kate Mcshane,Neutral,Neutral,172,172,No Change
+330,2016-09-30,Costco Wholesale,COST,Citi,Kate Mcshane,Neutral,Neutral,167,167,No Change
+614,2016-12-05,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Buy,Buy,194,194,No Change
+48,2017-01-11,Costco Wholesale,COST,Oppenheimer,Brian Nagel,Outperform,Outperform,175,185,No Change
+310,2017-03-03,Costco Wholesale,COST,Barclays,Karen Short,Equal Weight,Equal Weight,170,170,No Change
+558,2017-03-03,Costco Wholesale,COST,Td Cowen,Oliver Chen,Outperform,Outperform,170,190,No Change
+70,2017-05-09,Costco Wholesale,COST,,Charles Grom,Accumulate,Accumulate,191,191,No Change
+462,2017-05-26,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,191,191,No Change
+329,2017-10-06,Costco Wholesale,COST,Citi,Kate Mcshane,Buy,Buy,190,190,No Change
+463,2017-11-30,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,185,185,No Change
+327,2018-06-01,Costco Wholesale,COST,Citi,Kate Mcshane,Buy,Buy,222,222,No Change
+104,2018-06-01,Costco Wholesale,COST,,Christopher Horvers,Overweight,Overweight,212,212,No Change
+910,2018-07-12,Costco Wholesale,COST,,Zachary Fadem,Outperform,Outperform,235,235,No Change
+160,2018-07-12,Costco Wholesale,COST,Wells Fargo,Edward Kelly,Outperform,Outperform,235,235,No Change
+64,2018-07-25,Costco Wholesale,COST,Gordon Haskett,Charles Grom,Accumulate,Buy,222,235,No Change
+771,2018-08-21,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,210,250,No Change
+464,2018-09-07,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,245,245,No Change
+916,2018-09-14,Costco Wholesale,COST,,Zachary Fadem,Market Perform,Market Perform,235,235,No Change
+105,2018-09-17,Costco Wholesale,COST,,Christopher Horvers,Overweight,Overweight,255,255,No Change
+514,2018-10-05,Costco Wholesale,COST,Deutsche Bank,Michael Baker,Hold,Hold,223,223,No Change
+625,2018-10-05,Costco Wholesale,COST,,Paul Trussell,Hold,Hold,223,223,No Change
+908,2018-12-14,Costco Wholesale,COST,,Zachary Fadem,Market Perform,Market Perform,220,220,No Change
+236,2019-04-09,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,265,265,No Change
+32,2019-04-17,Costco Wholesale,COST,,Brian Nagel,Outperform,Outperform,270,270,No Change
+913,2019-05-09,Costco Wholesale,COST,,Zachary Fadem,Market Perform,Market Perform,240,240,No Change
+53,2019-05-16,Costco Wholesale,COST,Raymond James,Budd Bugatch,Outperform,Outperform,250,260,No Change
+461,2019-07-11,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,289,289,No Change
+810,2019-09-06,Costco Wholesale,COST,Rbc,Scot Ciccarelli,Outperform,Outperform,299,321,No Change
+161,2019-09-06,Costco Wholesale,COST,,Edward Kelly,Market Perform,Market Perform,290,290,No Change
+915,2019-09-06,Costco Wholesale,COST,,Zachary Fadem,Market Perform,Market Perform,290,290,No Change
+223,2019-09-09,Costco Wholesale,COST,,Jason Derise,Buy,Buy,335,335,No Change
+624,2019-10-01,Costco Wholesale,COST,,Paul Trussell,Hold,Hold,274,274,No Change
+243,2019-10-04,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,329,329,No Change
+623,2019-11-07,Costco Wholesale,COST,,Paul Trussell,Hold,Hold,286,286,No Change
+615,2019-12-13,Costco Wholesale,COST,,Paul Trussell,Hold,Hold,288,288,No Change
+217,2020-03-06,Costco Wholesale,COST,,Jason Derise,Buy,Buy,355,355,No Change
+513,2020-03-06,Costco Wholesale,COST,Nomura,Michael Baker,Neutral,Neutral,310,310,No Change
+613,2020-04-09,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,295,295,No Change
+620,2020-05-07,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,290,290,No Change
+619,2020-06-04,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,297,297,No Change
+39,2020-07-09,Costco Wholesale,COST,,Brian Nagel,Outperform,Outperform,355,355,No Change
+617,2020-07-09,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,298,298,No Change
+618,2020-07-30,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Hold,299,299,No Change
+587,2020-08-06,Costco Wholesale,COST,Citi,Paul Lejuez,Neutral,Neutral,345,345,No Change
+46,2020-09-03,Costco Wholesale,COST,,Brian Nagel,Outperform,Outperform,400,400,No Change
+244,2020-09-03,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,400,400,No Change
+246,2020-09-25,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,365,365,No Change
+41,2021-03-05,Costco Wholesale,COST,,Brian Nagel,Outperform,Outperform,395,395,No Change
+240,2021-03-05,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,395,395,No Change
+1,2021-03-11,Costco Wholesale,COST,,Zachary Fadem,Equal Weight,Overweight,340,370,No Change
+162,2021-03-11,Costco Wholesale,COST,Wells Fargo,Edward Kelly,Overweight,Equal Weight,340,370,No Change
+325,2021-04-08,Costco Wholesale,COST,Goldman Sachs,Kate Mcshane,Buy,Buy,350,350,No Change
+34,2021-04-08,Costco Wholesale,COST,,Brian Nagel,Outperform,Outperform,400,400,No Change
+907,2021-04-08,Costco Wholesale,COST,,Zachary Fadem,Overweight,Overweight,400,400,No Change
+466,2021-04-08,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,370,385,No Change
+43,2021-05-18,Costco Wholesale,COST,,Brian Nagel,Outperform,Outperform,425,425,No Change
+241,2021-05-28,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,415,415,No Change
+871,2021-06-01,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,415,415,No Change
+590,2021-06-02,Costco Wholesale,COST,,Paul Lejuez,Neutral,Neutral,400,400,No Change
+911,2021-06-02,Costco Wholesale,COST,,Zachary Fadem,Overweight,Overweight,415,415,No Change
+239,2021-07-09,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,440,440,No Change
+40,2021-07-09,Costco Wholesale,COST,,Brian Nagel,Outperform,Outperform,440,440,No Change
+869,2021-07-09,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,425,425,No Change
+238,2021-08-05,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,480,480,No Change
+35,2021-08-05,Costco Wholesale,COST,,Brian Nagel,Outperform,Outperform,480,480,No Change
+245,2021-09-02,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,500,500,No Change
+47,2021-09-02,Costco Wholesale,COST,,Brian Nagel,Outperform,Outperform,500,500,No Change
+288,2021-09-24,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,480,480,No Change
+17,2021-09-24,Costco Wholesale,COST,,Bobby Griffin,Outperform,Outperform,490,490,No Change
+895,2021-09-24,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,510,510,No Change
+725,2021-10-01,Costco Wholesale,COST,Credit Suisse,Robert Moskow,Neutral,Neutral,490,490,No Change
+596,2021-10-01,Costco Wholesale,COST,,Paul Lejuez,Neutral,Neutral,495,495,No Change
+719,2021-10-01,Costco Wholesale,COST,Baird,Peter Benedict,Outperform,Outperform,520,520,No Change
+289,2021-10-01,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,480,480,No Change
+896,2021-10-01,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,510,510,No Change
+18,2021-10-01,Costco Wholesale,COST,,Bobby Griffin,Outperform,Outperform,490,490,No Change
+383,2021-10-01,Costco Wholesale,COST,Deutsche Bank,Krisztina Katai,Hold,Hold,424,424,No Change
+577,2021-10-08,Costco Wholesale,COST,Td Cowen,Oliver Chen,Outperform,Outperform,520,520,No Change
+490,2021-11-02,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,515,515,No Change
+290,2021-11-05,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,540,540,No Change
+19,2021-11-05,Costco Wholesale,COST,,Bobby Griffin,Outperform,Outperform,540,540,No Change
+764,2021-11-10,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,540,540,No Change
+242,2021-11-10,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,540,540,No Change
+45,2021-11-10,Costco Wholesale,COST,,Brian Nagel,Outperform,Outperform,540,540,No Change
+79,2021-11-11,Costco Wholesale,COST,Gordon Haskett,Charles Grom,Accumulate,Buy,525,575,No Change
+20,2021-12-03,Costco Wholesale,COST,,Bobby Griffin,Outperform,Outperform,565,565,No Change
+589,2021-12-03,Costco Wholesale,COST,,Paul Lejuez,Neutral,Neutral,540,540,No Change
+319,2021-12-10,Costco Wholesale,COST,,Karen Short,Overweight,Overweight,570,570,No Change
+291,2021-12-10,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,610,610,No Change
+36,2021-12-10,Costco Wholesale,COST,,Brian Nagel,Outperform,Outperform,565,565,No Change
+86,2021-12-14,Costco Wholesale,COST,Argus,Christopher Graja,Buy,Buy,515,610,No Change
+358,2022-03-04,Costco Wholesale,COST,Bmo,Kelly Bania,Outperform,Outperform,560,580,No Change
+292,2022-03-04,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,615,615,No Change
+42,2022-03-30,Costco Wholesale,COST,,Brian Nagel,Outperform,Outperform,620,620,No Change
+904,2022-04-07,Costco Wholesale,COST,Jefferies,Stephanie Wissink,Buy,Buy,650,670,No Change
+324,2022-04-07,Costco Wholesale,COST,Goldman Sachs,Kate Mcshane,Buy,Buy,627,627,No Change
+33,2022-04-07,Costco Wholesale,COST,,Brian Nagel,Outperform,Outperform,645,645,No Change
+21,2022-04-19,Costco Wholesale,COST,,Bobby Griffin,Outperform,Outperform,645,645,No Change
+293,2022-05-27,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,590,590,No Change
+22,2022-05-31,Costco Wholesale,COST,,Bobby Griffin,Outperform,Outperform,560,560,No Change
+135,2022-06-02,Costco Wholesale,COST,,Corey Tarlowe,Buy,Buy,580,580,No Change
+344,2022-08-04,Costco Wholesale,COST,Goldman Sachs,Kate Mcshane,Buy,Buy,573,573,No Change
+23,2022-08-05,Costco Wholesale,COST,,Bobby Griffin,Outperform,Outperform,600,600,No Change
+127,2022-09-01,Costco Wholesale,COST,Jefferies,Corey Tarlowe,Buy,Buy,580,610,No Change
+897,2022-09-23,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,525,525,No Change
+24,2022-09-26,Costco Wholesale,COST,,Bobby Griffin,Outperform,Outperform,560,560,No Change
+25,2022-12-01,Costco Wholesale,COST,,Bobby Griffin,Outperform,Outperform,570,570,No Change
+294,2022-12-09,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,580,580,No Change
+460,2022-12-09,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,In Line,565,545,No Change
+554,2023-01-06,Costco Wholesale,COST,Ubs,Michael Lasser,Buy,Buy,600,600,No Change
+175,2023-02-06,Costco Wholesale,COST,,George Kelly,Equal Weight,Equal Weight,475,475,No Change
+855,2023-02-08,Costco Wholesale,COST,,Seth Sigman,Equal Weight,Equal Weight,510,510,No Change
+306,2023-03-03,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,540,540,No Change
+261,2023-03-28,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,540,540,No Change
+262,2023-04-06,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,540,540,No Change
+779,2023-04-06,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,550,550,No Change
+13,2023-05-26,Costco Wholesale,COST,Roth Mkm,Bill Kirk,Neutral,Neutral,482,482,No Change
+263,2023-05-26,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,540,540,No Change
+780,2023-05-26,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,550,550,No Change
+443,2023-06-02,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,570,570,No Change
+781,2023-06-05,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,575,575,No Change
+212,2023-06-08,Costco Wholesale,COST,Tigress Partners,Ivan Feinseth,Buy,Buy,635,635,No Change
+264,2023-06-29,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,540,540,No Change
+597,2023-07-10,Costco Wholesale,COST,Citi,Paul Lejuez,Neutral,Neutral,530,530,No Change
+769,2023-07-25,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,575,630,No Change
+265,2023-08-03,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,575,575,No Change
+266,2023-08-28,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,575,575,No Change
+491,2023-08-31,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,575,575,No Change
+196,2023-09-08,Costco Wholesale,COST,Evercore,Greg Melich,Outperform,Outperform,600,600,No Change
+267,2023-09-18,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,575,575,No Change
+521,2023-09-26,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,478,570,No Change
+268,2023-09-27,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,575,575,No Change
+741,2023-09-27,Costco Wholesale,COST,Baml,Robert Ohmes,Buy,Buy,610,610,No Change
+14,2023-09-27,Costco Wholesale,COST,Roth Mkm,Bill Kirk,Neutral,Neutral,502,502,No Change
+26,2023-09-27,Costco Wholesale,COST,,Bobby Griffin,Outperform,Outperform,580,580,No Change
+831,2023-10-05,Costco Wholesale,COST,,Scot Ciccarelli,Buy,Buy,619,619,No Change
+269,2023-10-19,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,600,600,No Change
+270,2023-11-02,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,600,600,No Change
+492,2023-11-30,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,615,615,No Change
+832,2023-11-30,Costco Wholesale,COST,,Scot Ciccarelli,Buy,Buy,619,619,No Change
+782,2023-12-15,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,675,675,No Change
+213,2023-12-29,Costco Wholesale,COST,Tigress Partners,Ivan Feinseth,Buy,Buy,745,745,No Change
+783,2024-02-02,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,760,760,No Change
+345,2024-02-08,Costco Wholesale,COST,Goldman Sachs,Kate Mcshane,Buy,Buy,749,749,No Change
+176,2024-02-08,Costco Wholesale,COST,,George Kelly,Equal Weight,Equal Weight,675,675,No Change
+484,2024-03-08,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,735,800,No Change
+524,2024-03-08,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,600,680,No Change
+367,2024-03-11,Costco Wholesale,COST,Bmo,Kelly Bania,Outperform,Outperform,800,800,No Change
+271,2024-04-04,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,800,800,No Change
+272,2024-04-11,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,800,800,No Change
+528,2024-04-11,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,680,680,No Change
+434,2024-04-11,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,830,820,No Change
+594,2024-04-23,Costco Wholesale,COST,Citi,Paul Lejuez,Neutral,Neutral,630,710,No Change
+273,2024-05-06,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,800,800,No Change
+439,2024-05-09,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,820,840,No Change
+197,2024-05-14,Costco Wholesale,COST,,Greg Melich,Outperform,Outperform,820,820,No Change
+784,2024-05-22,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,850,850,No Change
+92,2024-05-28,Costco Wholesale,COST,Argus,Christopher Graja,Buy,Buy,900,900,No Change
+833,2024-05-31,Costco Wholesale,COST,Truist,Scot Ciccarelli,Buy,Buy,873,873,No Change
+578,2024-05-31,Costco Wholesale,COST,Td Cowen,Oliver Chen,Buy,Buy,850,850,No Change
+274,2024-05-31,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,850,850,No Change
+368,2024-05-31,Costco Wholesale,COST,Bmo,Kelly Bania,Outperform,Outperform,875,875,No Change
+177,2024-05-31,Costco Wholesale,COST,,George Kelly,Equal Weight,Equal Weight,775,775,No Change
+320,2024-05-31,Costco Wholesale,COST,,Karen Short,Equal Weight,Equal Weight,765,765,No Change
+485,2024-05-31,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,800,850,No Change
+15,2024-05-31,Costco Wholesale,COST,,Bill Kirk,Neutral,Neutral,676,676,No Change
+204,2024-05-31,Costco Wholesale,COST,,Greg Melich,Outperform,Outperform,860,860,No Change
+525,2024-05-31,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,680,780,No Change
+260,2024-06-06,Costco Wholesale,COST,Telsey Advisory,Joseph Feldman,Outperform,Outperform,850,900,No Change
+775,2024-06-06,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,850,905,No Change
+441,2024-06-14,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,890,940,No Change
+205,2024-06-20,Costco Wholesale,COST,,Greg Melich,Outperform,Outperform,890,890,No Change
+214,2024-06-25,Costco Wholesale,COST,Tigress Partners,Ivan Feinseth,Buy,Buy,975,975,No Change
+275,2024-07-08,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,900,900,No Change
+776,2024-07-11,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,905,950,No Change
+717,2024-07-11,Costco Wholesale,COST,Baird,Peter Benedict,Outperform,Outperform,975,975,No Change
+198,2024-07-11,Costco Wholesale,COST,,Greg Melich,Outperform,Outperform,920,920,No Change
+494,2024-07-11,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,950,950,No Change
+178,2024-07-11,Costco Wholesale,COST,,George Kelly,Equal Weight,Equal Weight,800,800,No Change
+579,2024-07-12,Costco Wholesale,COST,Td Cowen,Oliver Chen,Buy,Buy,925,925,No Change
+276,2024-08-05,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,925,925,No Change
+199,2024-08-07,Costco Wholesale,COST,,Greg Melich,Outperform,Outperform,915,915,No Change
+785,2024-08-08,Costco Wholesale,COST,Oppenheimer,Rupesh Parikh,Outperform,Outperform,925,925,No Change
+84,2024-08-08,Costco Wholesale,COST,Gordon Haskett,Charles Grom,Accumulate,Buy,925,925,No Change
+295,2024-08-27,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,925,925,No Change
+529,2024-09-06,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,780,780,No Change
+296,2024-09-06,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,925,925,No Change
+444,2024-09-06,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,975,975,No Change
+495,2024-09-06,Costco Wholesale,COST,,Mark Astrachan,Buy,Buy,915,915,No Change
+297,2024-09-27,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1000,1000,No Change
+828,2024-09-27,Costco Wholesale,COST,Truist,Scot Ciccarelli,Hold,Hold,873,909,No Change
+16,2024-09-27,Costco Wholesale,COST,,Bill Kirk,Neutral,Neutral,755,755,No Change
+369,2024-09-27,Costco Wholesale,COST,,Kelly Bania,Outperform,Outperform,980,980,No Change
+179,2024-09-27,Costco Wholesale,COST,,George Kelly,Equal Weight,Equal Weight,850,850,No Change
+435,2024-09-27,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,975,1005,No Change
+298,2024-10-03,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1000,1000,No Change
+299,2024-10-10,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1000,1000,No Change
+530,2024-10-10,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,880,880,No Change
+300,2024-11-04,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1000,1000,No Change
+370,2024-11-18,Costco Wholesale,COST,,Kelly Bania,Outperform,Outperform,1075,1075,No Change
+301,2024-11-29,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1000,1000,No Change
+302,2024-12-05,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1050,1050,No Change
+483,2024-12-05,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,935,1000,No Change
+136,2024-12-05,Costco Wholesale,COST,Jefferies,Corey Tarlowe,Buy,Buy,1145,1145,No Change
+718,2024-12-05,Costco Wholesale,COST,Baird,Peter Benedict,Outperform,Outperform,1075,1075,No Change
+527,2024-12-13,Costco Wholesale,COST,D.A. Davidson,Michael Baker,Neutral,Neutral,880,900,No Change
+891,2024-12-13,Costco Wholesale,COST,Morgan Stanley,Simeon Gutman,Overweight,Overweight,950,1150,No Change
+303,2024-12-13,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1050,1050,No Change
+829,2024-12-13,Costco Wholesale,COST,Truist,Scot Ciccarelli,Hold,Hold,909,935,No Change
+445,2024-12-13,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,1095,1095,No Change
+598,2024-12-18,Costco Wholesale,COST,Citi,Paul Lejuez,Neutral,Neutral,1060,1060,No Change
+304,2025-01-03,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1100,1100,No Change
+305,2025-01-08,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1100,1100,No Change
+277,2025-02-03,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1100,1100,No Change
+200,2025-02-06,Costco Wholesale,COST,Evercore,Greg Melich,Outperform,Outperform,1070,1070,No Change
+437,2025-02-06,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,1095,1150,No Change
+493,2025-02-06,Costco Wholesale,COST,Stifel,Mark Astrachan,Buy,Buy,1075,1075,No Change
+132,2025-03-07,Costco Wholesale,COST,Jefferies,Corey Tarlowe,Buy,Buy,1145,1180,No Change
+830,2025-03-07,Costco Wholesale,COST,Truist,Scot Ciccarelli,Hold,Hold,935,995,No Change
+278,2025-03-07,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1100,1100,No Change
+433,2025-03-07,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,1150,1135,No Change
+573,2025-03-07,Costco Wholesale,COST,Td Cowen,Oliver Chen,Buy,Buy,1090,1100,No Change
+201,2025-03-11,Costco Wholesale,COST,,Greg Melich,Outperform,Outperform,1070,1070,No Change
+279,2025-04-04,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1100,1100,No Change
+280,2025-04-10,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1100,1100,No Change
+281,2025-04-28,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1100,1100,No Change
+282,2025-05-05,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1100,1100,No Change
+202,2025-05-30,Costco Wholesale,COST,,Greg Melich,Outperform,Outperform,1075,1075,No Change
+834,2025-05-30,Costco Wholesale,COST,,Scot Ciccarelli,Hold,Hold,1042,1042,No Change
+446,2025-05-30,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,1110,1110,No Change
+283,2025-05-30,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1100,1100,No Change
+438,2025-06-05,Costco Wholesale,COST,Loop Capital,Laura Champine,Buy,Buy,1110,1170,No Change
+284,2025-06-05,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1100,1100,No Change
+203,2025-06-17,Costco Wholesale,COST,,Greg Melich,Outperform,Outperform,1060,1060,No Change
+285,2025-07-03,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1100,1100,No Change
+286,2025-07-10,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1100,1100,No Change
+287,2025-08-04,Costco Wholesale,COST,,Joseph Feldman,Outperform,Outperform,1100,1100,No Change
+117,2025-08-07,Costco Wholesale,COST,,Christopher Horvers,Overweight,Overweight,1160,1160,No Change

@@ -1,0 +1,5 @@
+Row,Date,Company Name,Ticker,Broker,Analyst,Rating Before,Rating After,Price Target Before,Price Target After,Event Type
+633,2015-12-03,Costco Wholesale,COST,Deutsche Bank,Paul Trussell,Hold,Buy,152,200,Upgrade
+28,2019-09-18,Costco Wholesale,COST,Bernstein,Brandon Fletcher,Underperform,Market Perform,230,220,Upgrade
+311,2020-10-06,Costco Wholesale,COST,Barclays,Karen Short,Short,Overweight,330,400,Upgrade
+308,2021-05-28,Costco Wholesale,COST,Barclays,Karen Short,Short,Overweight,400,450,Upgrade
