@@ -1,0 +1,127 @@
+,Rating Before,Rating After,Score Before,Score After,Event Type,Ratings
+2,Buy,Buy,1,1,No Change,Bullish
+3,Buy,Buy,1,1,No Change,Bullish
+5,Sell,Sell,-1,-1,No Change,Bearish
+6,Buy,Buy,1,1,No Change,Bullish
+7,Buy,Buy,1,1,No Change,Bullish
+9,Neutral,Neutral,0,0,No Change,Neutral
+10,Buy,Buy,1,1,No Change,Bullish
+12,Neutral,Neutral,0,0,No Change,Neutral
+14,Outperform,Outperform,1,1,No Change,Bullish
+15,Outperform,Outperform,1,1,No Change,Bullish
+16,Neutral,Neutral,0,0,No Change,Neutral
+17,Buy,Buy,1,1,No Change,Bullish
+18,Buy,Buy,1,1,No Change,Bullish
+19,Neutral,Neutral,0,0,No Change,Neutral
+20,Buy,Buy,1,1,No Change,Bullish
+21,Buy,Buy,1,1,No Change,Bullish
+22,Hold,Hold,0,0,No Change,Neutral
+23,Hold,Hold,0,0,No Change,Neutral
+24,Market Perform,Market Perfo,0,NaN,No Change,neutral
+25,Outperform,Positive,1,1,No Change,Bullish
+26,Hold,Hold,0,0,No Change,Neutral
+27,Overweight,Overweight,1,1,No Change,Bullish
+28,Market Perform,Market Perform,0,0,No Change,Neutral
+29,Sector Perform,Sector Perform,0,0,No Change,Neutral
+30,Outperform,Outperform,1,1,No Change,Bullish
+31,Buy,Buy,1,1,No Change,Bullish
+32,Buy,Buy,1,1,No Change,Bullish
+33,Buy,Buy,1,1,No Change,Bullish
+34,Overweight,Overweight,1,1,No Change,Bullish
+35,Buy,Buy,1,1,No Change,Bullish
+36,Neutral,Neutral,0,0,No Change,Neutral
+37,Buy,Buy,1,1,No Change,Bullish
+38,Overweight,Overweight,1,1,No Change,Bullish
+39,Buy,Buy,1,1,No Change,Bullish
+40,Outperform,Outperform,1,1,No Change,Bullish
+41,Buy,Buy,1,1,No Change,Bullish
+42,Neutral,Neutral,0,0,No Change,Neutral
+43,Neutral,Neutral,0,0,No Change,Neutral
+44,Buy,Buy,1,1,No Change,Bullish
+45,Buy,Buy,1,1,No Change,Bullish
+46,Outperform,Outperform,1,1,No Change,Bullish
+47,Neutral,Neutral,0,0,No Change,Neutral
+48,Overweight,Overweight,1,1,No Change,Bullish
+50,Outperform,Outperform.,1,NaN,No Change,neutral
+51,Buy,Buy,1,1,No Change,Bullish
+52,Outperform,Outperform,1,1,No Change,Bullish
+53,Market Perform,Market Perform,0,0,No Change,Neutral
+54,Neutral,Neutral,0,0,No Change,Neutral
+55,Outperform,Outperform,1,1,No Change,Bullish
+56,Market Perform,Market Perform,0,0,No Change,Neutral
+57,Outperform,Outperform,1,1,No Change,Bullish
+58,Buy,Buy,1,1,No Change,Bullish
+59,Overweight,Overweight,1,1,No Change,Bullish
+60,Buy,Buy,1,1,No Change,Bullish
+63,Buy,Buy,1,1,No Change,Bullish
+64,Overweight,Overweight,1,1,No Change,Bullish
+65,Neutral,Neutral,0,0,No Change,Neutral
+67,Market Perform,Market Perform,0,0,No Change,Neutral
+68,Buy,Buy,1,1,No Change,Bullish
+69,Outperform,Outperform,1,1,No Change,Bullish
+70,Overweight,Overweight,1,1,No Change,Bullish
+71,Overweight,Overweight,1,1,No Change,Bullish
+72,Outperform,Outperform,1,1,No Change,Bullish
+73,Outperform,Outperform,1,1,No Change,Bullish
+75,Buy,Buy,1,1,No Change,Bullish
+76,Market Perform,Market Perform,0,0,No Change,Neutral
+77,Market Perform,Market Perform,0,0,No Change,Neutral
+78,Equal Weight,Equal Weight,NaN,NaN,No Change,neutral
+79,Hold,Accumulate,0,NaN,No Change,neutral
+80,Overweight,Overweight,1,1,No Change,Bullish
+81,Overweight,Overweight,1,1,No Change,Bullish
+82,Outperform,Outperform,1,1,No Change,Bullish
+83,Outperform,Outperform,1,1,No Change,Bullish
+84,Equal Weight,Equal Weight,NaN,NaN,No Change,neutral
+85,Hold,Hold,0,0,No Change,Neutral
+86,Market Perform,Market Perform,0,0,No Change,Neutral
+87,Overweight,Overweight,1,1,No Change,Bullish
+88,Overweight,Overweight,1,1,No Change,Bullish
+89,Neutral,Neutral,0,0,No Change,Neutral
+90,Overweight,Overweight,1,1,No Change,Bullish
+91,Market Perform,Market Perform,0,0,No Change,Neutral
+92,Market Perform,Market Perform,0,0,No Change,Neutral
+93,Outperform,Outperform,1,1,No Change,Bullish
+95,Overweight,Overweight,1,1,No Change,Bullish
+96,Market Perform,Market Perform,0,0,No Change,Neutral
+97,Market Perform,Market Perform,0,0,No Change,Neutral
+98,Buy,Accumulate,1,NaN,No Change,neutral
+99,Neutral,Neutral,0,0,No Change,Neutral
+101,Market Perform,Market Perform,0,0,No Change,Neutral
+102,Overweight,Overweight,1,1,No Change,Bullish
+103,Buy,Buy,1,1,No Change,Bullish
+104,Market Perform,Market Perform,0,0,No Change,Neutral
+105,Buy,Buy,1,1,No Change,Bullish
+106,Accumulate,Buy,NaN,1,No Change,Bullish
+107,Outperform,Outperform,1,1,No Change,Bullish
+109,Outperform,Outperform,1,1,No Change,Bullish
+110,Market Perform,Market Perform,0,0,No Change,Neutral
+111,Overweight,Overweight,1,1,No Change,Bullish
+112,Buy,Buy,1,1,No Change,Bullish
+113,Market Perform,Market Perform,0,0,No Change,Neutral
+114,Market Perform,Market Perform,0,0,No Change,Neutral
+115,Market Perform,Market Perform,0,0,No Change,Neutral
+116,Buy,Buy,1,1,No Change,Bullish
+117,Overweight,Overweight,1,1,No Change,Bullish
+118,Buy,Buy,1,1,No Change,Bullish
+119,Neutral,Neutral,0,0,No Change,Neutral
+120,Buy,Buy,1,1,No Change,Bullish
+121,Outperform,Outperform,1,1,No Change,Bullish
+122,Overweight,Overweight,1,1,No Change,Bullish
+123,Market Perform,Market Perform,0,0,No Change,Neutral
+125,Overweight,Overweight,1,1,No Change,Bullish
+126,Buy,Buy,1,1,No Change,Bullish
+127,Market Perform,Market Perform,0,0,No Change,Neutral
+128,Overweight,Equal Weight,1,NaN,No Change,neutral
+129,Market Perform,Market Perform,0,0,No Change,Neutral
+130,Buy,Buy,1,1,No Change,Bullish
+131,Market Perform,Market Perfo,0,NaN,No Change,neutral
+132,Equal Weight,Overweight,NaN,1,No Change,Bullish
+133,Overweight,Overweight,1,1,No Change,Bullish
+134,Market Perform,Market Perform,0,0,No Change,Neutral
+135,Equal Weight,Equal Weight,NaN,NaN,No Change,neutral
+136,Market Perform,Market Perform,0,0,No Change,Neutral
+137,Overweight,Overweight,1,1,No Change,Bullish
+138,Hold,Hold,0,0,No Change,Neutral
+139,Overweight,Overweight,1,1,No Change,Bullish
+140,Overweight,Overweight,1,1,No Change,Bullish

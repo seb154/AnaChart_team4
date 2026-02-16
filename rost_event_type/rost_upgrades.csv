@@ -1,0 +1,7 @@
+,Rating Before,Rating After,Score Before,Score After,Event Type,Ratings
+0,Neutral,Buy,0,1,Upgrade,Bullish
+11,Short,Neutral,-1,0,Upgrade,Neutral
+13,Neutral,Buy,0,1,Upgrade,Bullish
+62,Sell,Buy,-1,1,Upgrade,Bullish
+74,Hold,Buy,0,1,Upgrade,Bullish
+108,Sell,Neutral,-1,0,Upgrade,Neutral
