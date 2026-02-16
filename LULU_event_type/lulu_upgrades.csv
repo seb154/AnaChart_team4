@@ -1,0 +1,7 @@
+Row,Date,Company Name,Ticker,Broker,Analyst,Rating Before,Rating After,Price Target Before,Price Target After,Event type
+560,10/20/2017,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral,Buy,62,73,Upgrade
+360,5/7/2019,Lululemon Athletica,LULU,Macquarie,Laurent Vasilescu,Underperform,Neutral,101,188,Upgrade
+561,3/29/2023,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral,Buy,350,440,Upgrade
+62,9/5/2023,Lululemon Athletica,LULU,Bernstein,Aneesha Sherman,Underperform,Market Perform,366,366,Upgrade
+62,9/5/2023,Lululemon Athletica,LULU,Bernstein,Aneesha Sherman,Underperform,Market Perform,366,366,Upgrade
+768,1/10/2025,Lululemon Athletica,LULU,,Tom Nikic,Hold,Buy,475,475,Upgrade
