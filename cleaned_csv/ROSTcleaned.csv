@@ -1,0 +1,142 @@
+Row,Date,Company Name,Ticker,Broker,Analyst,Rating Before,Rating After,Price Target Before,Price Target After
+122,2013-06-13,Ross Stores Inc,ROST,Crt Capital,Ike Boruchow,Neutral,Buy,36,37.5
+415,2013-11-22,Ross Stores Inc,ROST,Maxim Group,Rick Snyder,Hold,Sell,37.5,31.5
+430,2014-02-28,Ross Stores Inc,ROST,,Roxanne Meyer,Buy,Buy,84,84
+322,2014-05-23,Ross Stores Inc,ROST,Deutsche Bank,Michael Baker,Buy,Buy,78,78
+134,2014-07-16,Ross Stores Inc,ROST,Crt Capital,Ike Boruchow,Buy,Neutral,40.5,34
+253,2014-11-21,Ross Stores Inc,ROST,,Laura Champine,Sell,Sell,74,74
+324,2014-11-21,Ross Stores Inc,ROST,Deutsche Bank,Michael Baker,Buy,Buy,95,95
+462,2014-12-03,Ross Stores Inc,ROST,Goldman Sachs,Stephen Grambling,Buy,Buy,49.5,48
+360,2014-12-16,Ross Stores Inc,ROST,Td Cowen,Oliver Chen,Outperform,Market Perform,47.5,47
+429,2015-02-27,Ross Stores Inc,ROST,,Roxanne Meyer,Neutral,Neutral,99,99
+319,2015-02-27,Ross Stores Inc,ROST,Deutsche Bank,Michael Baker,Buy,Buy,115,115
+131,2015-04-17,Ross Stores Inc,ROST,Crt Capital,Ike Boruchow,Short,Neutral,52.5,56
+433,2015-09-17,Ross Stores Inc,ROST,,Roxanne Meyer,Neutral,Neutral,52,52
+428,2016-03-02,Ross Stores Inc,ROST,Roth Mkm,Roxanne Meyer,Neutral,Buy,52,65
+364,2016-05-20,Ross Stores Inc,ROST,Td Cowen,Oliver Chen,Outperform,Outperform,63,61
+365,2016-07-13,Ross Stores Inc,ROST,Td Cowen,Oliver Chen,Outperform,Outperform,61,63
+457,2016-08-01,Ross Stores Inc,ROST,,Stephen Grambling,Neutral,Neutral,64,64
+316,2016-08-19,Ross Stores Inc,ROST,Deutsche Bank,Michael Baker,Buy,Buy,70,70
+420,2016-08-19,Ross Stores Inc,ROST,,Robert Drbul,Buy,Buy,70,70
+458,2016-08-19,Ross Stores Inc,ROST,,Stephen Grambling,Neutral,Neutral,67,67
+376,2016-08-19,Ross Stores Inc,ROST,Citi,Paul Lejuez,Buy,Buy,70,70
+434,2016-08-19,Ross Stores Inc,ROST,Roth Mkm,Roxanne Meyer,Buy,Buy,65,72
+413,2016-08-19,Ross Stores Inc,ROST,Jefferies,Randal Konik,Hold,Hold,51,57
+411,2016-11-18,Ross Stores Inc,ROST,Jefferies,Randal Konik,Hold,Hold,57,59
+208,2017-03-01,Ross Stores Inc,ROST,Bmo,John Morris,Market Perform,Market Perfo,65,72
+347,2017-03-01,Ross Stores Inc,ROST,Wedbush,Morry Brown,Outperform,Positive,71,73
+412,2017-03-01,Ross Stores Inc,ROST,Jefferies,Randal Konik,Hold,Hold,59,63
+221,2017-11-17,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,77,77
+207,2017-11-17,Ross Stores Inc,ROST,Bmo,John Morris,Market Perform,Market Perform,71,71
+48,2017-11-17,Ross Stores Inc,ROST,Rbc,Brian Tunick,Sector Perform,Sector Perform,70,70
+74,2017-11-17,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Outperform,Outperform,75,75
+447,2017-11-17,Ross Stores Inc,ROST,Nomura,Simeon Siegel,Buy,Buy,80,80
+439,2017-11-17,Ross Stores Inc,ROST,Roth Mkm,Roxanne Meyer,Buy,Buy,78,80
+446,2018-01-17,Ross Stores Inc,ROST,Nomura,Simeon Siegel,Buy,Buy,90,90
+217,2018-03-07,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,94,94
+323,2018-05-25,Ross Stores Inc,ROST,,Michael Baker,Buy,Buy,91,91
+377,2018-07-31,Ross Stores Inc,ROST,Citi,Paul Lejuez,Neutral,Neutral,89,89
+392,2018-08-24,Ross Stores Inc,ROST,,Paul Trussell,Buy,Buy,95,95
+293,2018-08-24,Ross Stores Inc,ROST,,Matthew Boss,Overweight,Overweight,96,96
+318,2018-08-24,Ross Stores Inc,ROST,,Michael Baker,Buy,Buy,95,95
+71,2018-08-24,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Outperform,Outperform,100,100
+444,2018-08-24,Ross Stores Inc,ROST,Nomura,Simeon Siegel,Buy,Buy,95,95
+461,2018-09-04,Ross Stores Inc,ROST,,Stephen Grambling,Neutral,Neutral,104,104
+379,2018-10-11,Ross Stores Inc,ROST,Citi,Paul Lejuez,Neutral,Neutral,98,98
+261,2018-11-14,Ross Stores Inc,ROST,Baml,Lorraine Hutchinson,Buy,Buy,115,115
+448,2018-11-21,Ross Stores Inc,ROST,Nomura,Simeon Siegel,Buy,Buy,95,95
+75,2018-11-21,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Outperform,Outperform,95,95
+378,2018-11-21,Ross Stores Inc,ROST,Citi,Paul Lejuez,Neutral,Neutral,88,88
+222,2018-11-23,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,94,94
+37,2019-06-27,Ross Stores Inc,ROST,Goldman Sachs,Alexandra Walvis,Neutral,Sell,102,91
+115,2019-08-23,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Outperform,Outperform.,104,116
+317,2019-08-23,Ross Stores Inc,ROST,,Michael Baker,Buy,Buy,113,113
+182,2019-08-23,Ross Stores Inc,ROST,Td Cowen,John Kernan,Outperform,Outperform,115,116
+77,2019-10-11,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,103 » 112,103 » 112
+325,2019-11-22,Ross Stores Inc,ROST,,Michael Baker,Neutral,Neutral,113,113
+191,2019-11-22,Ross Stores Inc,ROST,Td Cowen,John Kernan,Outperform,Outperform,126,131
+76,2019-11-22,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,112 » 118,112 » 118
+445,2020-02-04,Ross Stores Inc,ROST,,Simeon Siegel,Outperform,Outperform,130,130
+393,2020-02-24,Ross Stores Inc,ROST,Deutsche Bank,Paul Trussell,Buy,Buy,128,128
+294,2020-03-04,Ross Stores Inc,ROST,,Matthew Boss,Overweight,Overweight,122,122
+432,2020-03-04,Ross Stores Inc,ROST,Roth Mkm,Roxanne Meyer,Buy,Buy,124,124
+371,2020-03-20,Ross Stores Inc,ROST,Citi,Paul Lejuez,Buy,Neutral,90,120
+39,2020-03-25,Ross Stores Inc,ROST,Goldman Sachs,Alexandra Walvis,Sell,Buy,93,110
+460,2020-03-25,Ross Stores Inc,ROST,,Stephen Grambling,Buy,Buy,93,93
+219,2020-03-30,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,105,105
+321,2020-03-31,Ross Stores Inc,ROST,Nomura,Michael Baker,Neutral,Neutral,80,80
+206,2020-04-28,Ross Stores Inc,ROST,D.A. Davidson,John Morris,Buy,Neutral,87,108
+73,2020-05-22,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,96 » 101,96 » 101
+260,2020-05-22,Ross Stores Inc,ROST,Baml,Lorraine Hutchinson,Buy,Buy,110,110
+192,2020-05-22,Ross Stores Inc,ROST,Td Cowen,John Kernan,Outperform,Outperform,99,103
+220,2020-11-13,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,111,111
+223,2020-11-23,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,121,121
+211,2021-04-23,Ross Stores Inc,ROST,,Kate Fitzsimons,Outperform,Outperform,130,130
+72,2021-05-17,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Outperform,Outperform,145,145
+248,2021-10-14,Ross Stores Inc,ROST,Loop Capital,Laura Champine,Hold,Buy,140,105
+111,2021-11-11,Ross Stores Inc,ROST,,Gabriella Carbone,Buy,Buy,146,146
+181,2021-12-10,Ross Stores Inc,ROST,Td Cowen,John Kernan,Market Perform,Market Perform,109,109
+357,2021-12-10,Ross Stores Inc,ROST,,Oliver Chen,Market Perform,Market Perform,109,109
+123,2022-01-04,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Equal Weight,Equal Weight,120,120
+57,2022-02-10,Ross Stores Inc,ROST,Gordon Haskett,Chuck Grom,Hold,Accumulate,130,106
+218,2022-03-02,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,137,137
+216,2022-04-26,Ross Stores Inc,ROST,Morgan Stanley,Kimberly Greenberger,Overweight,Overweight,139,139
+341,2022-08-19,Ross Stores Inc,ROST,Credit Suisse,Michael Binetti,Outperform,Outperform,99,99
+193,2022-08-19,Ross Stores Inc,ROST,Td Cowen,John Kernan,Outperform,Outperform,80,83
+140,2022-08-19,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Equal Weight,Equal Weight,90,90
+250,2022-08-19,Ross Stores Inc,ROST,Loop Capital,Laura Champine,Hold,Hold,80,85
+85,2022-11-18,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,120,120
+141,2022-11-18,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Overweight,Overweight,120,120
+232,2022-11-18,Ross Stores Inc,ROST,,Kimberly Greenberger,Overweight,Overweight,127,127
+178,2022-11-18,Ross Stores Inc,ROST,,Jay Sole,Neutral,Neutral,108,108
+142,2022-12-20,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Overweight,Overweight,135,135
+86,2023-02-17,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,120,120
+87,2023-03-01,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,120,120
+342,2023-03-01,Ross Stores Inc,ROST,,Michael Binetti,Outperform,Outperform,123,123
+251,2023-03-22,Ross Stores Inc,ROST,Loop Capital,Laura Champine,Buy,Hold,105,115
+308,2023-04-03,Ross Stores Inc,ROST,Jpmorgan,Matthew Boss,Overweight,Overweight,124,124
+88,2023-05-12,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,120,120
+89,2023-05-19,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,120,120
+65,2023-06-26,Ross Stores Inc,ROST,Gordon Haskett,Chuck Grom,Buy,Accumulate,120,120
+102,2023-06-29,Ross Stores Inc,ROST,,Edward Yruma,Neutral,Neutral,112,112
+189,2023-08-03,Ross Stores Inc,ROST,Td Cowen,John Kernan,Outperform,Market Perform,113,128
+90,2023-08-10,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,120,120
+233,2023-08-18,Ross Stores Inc,ROST,,Kimberly Greenberger,Overweight,Overweight,131,131
+423,2023-08-18,Ross Stores Inc,ROST,Guggenheim,Robert Drbul,Buy,Buy,135,135
+91,2023-08-18,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,130,130
+258,2023-08-18,Ross Stores Inc,ROST,Loop Capital,Laura Champine,Buy,Buy,135,135
+66,2023-11-03,Ross Stores Inc,ROST,Gordon Haskett,Chuck Grom,Accumulate,Buy,135,135
+343,2023-11-07,Ross Stores Inc,ROST,,Michael Binetti,Outperform,Outperform,140,140
+175,2024-02-23,Ross Stores Inc,ROST,Ubs,Jay Sole,Sell,Neutral,85,142
+344,2024-02-23,Ross Stores Inc,ROST,,Michael Binetti,Outperform,Outperform,165,165
+92,2024-05-17,Ross Stores Inc,ROST,,Dana Telsey,Market Perform,Market Perform,160,160
+34,2024-05-24,Ross Stores Inc,ROST,Morgan Stanley,Alex Straton,Overweight,Overweight,161,161
+199,2024-05-24,Ross Stores Inc,ROST,Td Cowen,John Kernan,Buy,Buy,176,176
+93,2024-05-24,Ross Stores Inc,ROST,,Dana Telsey,Market Perform,Market Perform,160,160
+94,2024-06-14,Ross Stores Inc,ROST,,Dana Telsey,Market Perform,Market Perform,160,160
+95,2024-08-16,Ross Stores Inc,ROST,,Dana Telsey,Market Perform,Market Perform,160,160
+55,2024-08-23,Ross Stores Inc,ROST,Goldman Sachs,Brooke Roach,Buy,Buy,167,185
+35,2024-08-23,Ross Stores Inc,ROST,Morgan Stanley,Alex Straton,Overweight,Overweight,178,178
+200,2024-08-23,Ross Stores Inc,ROST,Td Cowen,John Kernan,Buy,Buy,185,185
+176,2024-08-23,Ross Stores Inc,ROST,Ubs,Jay Sole,Neutral,Neutral,167,167
+259,2024-08-23,Ross Stores Inc,ROST,Loop Capital,Laura Champine,Buy,Buy,190,190
+283,2024-08-23,Ross Stores Inc,ROST,Baird,Mark Altschwager,Outperform,Outperform,180,180
+21,2024-08-23,Ross Stores Inc,ROST,Barclays,Adrienne Yih,Overweight,Overweight,175,175
+96,2024-10-29,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,175,175
+385,2024-11-12,Ross Stores Inc,ROST,Citi,Paul Lejuez,Buy,Neutral,152,152
+143,2024-11-14,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Overweight,Overweight,165,165
+198,2024-11-19,Ross Stores Inc,ROST,Td Cowen,John Kernan,Buy,Buy,185,177
+97,2024-11-22,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,175,175
+144,2025-01-10,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Overweight,Equal Weight,165,165
+98,2025-02-24,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perform,175,175
+197,2025-02-28,Ross Stores Inc,ROST,Td Cowen,John Kernan,Buy,Buy,180,175
+82,2025-03-05,Ross Stores Inc,ROST,Telsey Advisory,Dana Telsey,Market Perform,Market Perfo,175,150
+145,2025-04-08,Ross Stores Inc,ROST,Wells Fargo,Ike Boruchow,Equal Weight,Overweight,150,150
+309,2025-04-14,Ross Stores Inc,ROST,Jpmorgan,Matthew Boss,Overweight,Overweight,161,161
+99,2025-05-16,Ross Stores Inc,ROST,,Dana Telsey,Market Perform,Market Perform,150,150
+36,2025-05-23,Ross Stores Inc,ROST,,Alex Straton,Equal Weight,Equal Weight,126,126
+100,2025-05-23,Ross Stores Inc,ROST,,Dana Telsey,Market Perform,Market Perform,150,150
+146,2025-05-23,Ross Stores Inc,ROST,,Ike Boruchow,Overweight,Overweight,150,150
+68,2025-05-23,Ross Stores Inc,ROST,Jefferies,Corey Tarlowe,Hold,Hold,145,135
+305,2025-06-13,Ross Stores Inc,ROST,Jpmorgan,Matthew Boss,Overweight,Overweight,141,154
+310,2025-07-28,Ross Stores Inc,ROST,,Matthew Boss,Overweight,Overweight,156,156

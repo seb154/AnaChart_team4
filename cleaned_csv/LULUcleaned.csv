@@ -1,0 +1,275 @@
+Row,Date,Company Name,Ticker,Broker,Analyst,Rating Before,Rating After,Price Target Before,Price Target After
+670,2013-03-19,Lululemon Athletica,LULU,Crt Capital,Sam Poser,Neutral                      ,Neutral                      ,68,68
+671,2013-05-08,Lululemon Athletica,LULU,Crt Capital,Sam Poser,Buy                          ,Buy                          ,90,90
+663,2013-06-11,Lululemon Athletica,LULU,Crt Capital,Sam Poser,Buy,Neutral,90,75
+664,2013-11-14,Lululemon Athletica,LULU,Crt Capital,Sam Poser,Neutral,Underperform,75,56
+12,2013-12-13,Lululemon Athletica,LULU,Janney,Adrienne Yih,Buy                          ,Buy                          ,75,75
+12,2013-12-13,Lululemon Athletica,LULU,Janney,Adrienne Yih,Buy                          ,Buy                          ,75,75
+253,2013-12-13,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy                          ,Buy                          ,75,75
+254,2014-01-14,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy                          ,Buy                          ,73,73
+667,2014-01-21,Lululemon Athletica,LULU,Crt Capital,Sam Poser,Underperform                 ,Underperform                 ,43,43
+357,2014-10-16,Lululemon Athletica,LULU,Macquarie,Laurent Vasilescu,Neutral,Underperform,40,34
+549,2014-12-09,Lululemon Athletica,LULU,Wells Fargo,Paul Lejuez,Outperform,Marketperform,50,54
+13,2015-01-13,Lululemon Athletica,LULU,Janney,Adrienne Yih,Neutral                      ,Neutral                      ,61,61
+13,2015-01-13,Lululemon Athletica,LULU,Janney,Adrienne Yih,Neutral                      ,Neutral                      ,61,61
+16,2015-03-26,Lululemon Athletica,LULU,Janney,Adrienne Yih,Neutral                      ,Neutral                      ,63,63
+16,2015-03-26,Lululemon Athletica,LULU,Janney,Adrienne Yih,Neutral                      ,Neutral                      ,63,63
+527,2015-04-08,Lululemon Athletica,LULU,Td Cowen,Oliver Chen,Outperform,Outperform,72,74
+486,2015-10-22,Lululemon Athletica,LULU,Ubs,Michael Binetti,Neutral,Neutral,59,55
+552,2016-03-31,Lululemon Athletica,LULU,Citi,Paul Lejuez,Buy                          ,Buy                          ,72,72
+653,2016-03-31,Lululemon Athletica,LULU,,Robert Drbul,Buy                          ,Buy                          ,72,72
+488,2016-06-09,Lululemon Athletica,LULU,Ubs,Michael Binetti,Neutral,Neutral,69,72
+553,2016-09-02,Lululemon Athletica,LULU,Citi,Paul Lejuez,Buy                          ,Buy                          ,85,85
+692,2016-12-08,Lululemon Athletica,LULU,Susquehanna,Sam Poser,Positive,Positive,77,82
+138,2017-03-30,Lululemon Athletica,LULU,,Dana Telsey,Outperform                   ,Outperform                   ,64,64
+138,2017-03-30,Lululemon Athletica,LULU,,Dana Telsey,Outperform                   ,Outperform                   ,64,64
+694,2017-03-30,Lululemon Athletica,LULU,Susquehanna,Sam Poser,Positive,Neutral,82,57
+560,2017-10-20,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral,Buy,62,73
+633,2017-12-01,Lululemon Athletica,LULU,Needham,Rick Patel,Buy                          ,Buy                          ,71,71
+131,2017-12-07,Lululemon Athletica,LULU,,Dana Telsey,Outperform                   ,Outperform                   ,84,84
+131,2017-12-07,Lululemon Athletica,LULU,,Dana Telsey,Outperform                   ,Outperform                   ,84,84
+133,2018-01-02,Lululemon Athletica,LULU,,Dana Telsey,Outperform                   ,Outperform                   ,92,92
+133,2018-01-02,Lululemon Athletica,LULU,,Dana Telsey,Outperform                   ,Outperform                   ,92,92
+634,2018-01-09,Lululemon Athletica,LULU,Needham,Rick Patel,Buy                          ,Buy                          ,84,84
+187,2018-03-28,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Market Perform               ,Market Perform               ,82,82
+187,2018-03-28,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Market Perform               ,Market Perform               ,82,82
+516,2018-03-28,Lululemon Athletica,LULU,,Oliver Chen,Outperform                   ,Outperform                   ,98,98
+637,2018-03-28,Lululemon Athletica,LULU,Needham,Rick Patel,Buy,Buy,84,88
+668,2018-06-01,Lululemon Athletica,LULU,Susquehanna,Sam Poser,Positive                     ,Positive                     ,121,121
+134,2018-06-01,Lululemon Athletica,LULU,,Dana Telsey,Outperform                   ,Outperform                   ,125,125
+255,2018-06-01,Lululemon Athletica,LULU,Stifel,Jim Duffy,Hold                         ,Hold                         ,111,111
+134,2018-06-01,Lululemon Athletica,LULU,,Dana Telsey,Outperform                   ,Outperform                   ,125,125
+712,2018-06-04,Lululemon Athletica,LULU,Nomura,Simeon Siegel,Buy                          ,Buy                          ,120,120
+256,2018-06-08,Lululemon Athletica,LULU,Stifel,Jim Duffy,Hold                         ,Hold                         ,113,113
+514,2018-07-09,Lululemon Athletica,LULU,,Oliver Chen,Outperform                   ,Outperform                   ,137,137
+551,2018-07-12,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral                      ,Neutral                      ,127,127
+733,2018-08-15,Lululemon Athletica,LULU,B. Riley,Susan Anderson,Neutral,In Line,112,128
+252,2018-08-31,Lululemon Athletica,LULU,Stifel,Jim Duffy,Hold                         ,Hold                         ,150,150
+518,2018-10-02,Lululemon Athletica,LULU,,Oliver Chen,Outperform                   ,Outperform                   ,185,185
+517,2019-03-28,Lululemon Athletica,LULU,,Oliver Chen,Outperform                   ,Outperform                   ,192,192
+360,2019-05-07,Lululemon Athletica,LULU,Macquarie,Laurent Vasilescu,Underperform,Neutral,101,188
+136,2019-06-13,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,205,205
+313,2019-06-13,Lululemon Athletica,LULU,Td Cowen,John Kernan,Outperform,Outperform,192,200
+136,2019-06-13,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,205,205
+141,2019-09-06,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,214,214
+519,2019-09-06,Lululemon Athletica,LULU,,Oliver Chen,Outperform                   ,Outperform                   ,214,214
+141,2019-09-06,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,214,214
+453,2019-09-06,Lululemon Athletica,LULU,Jpmorgan,Matthew Boss,Overweight                   ,Overweight                   ,230,230
+309,2019-09-17,Lululemon Athletica,LULU,Td Cowen,John Kernan,Outperform,Outperform,214,235
+520,2019-09-17,Lululemon Athletica,LULU,,Oliver Chen,Outperform                   ,Outperform                   ,235,235
+511,2019-12-03,Lululemon Athletica,LULU,,Oliver Chen,Outperform                   ,Outperform                   ,250,250
+325,2020-01-14,Lululemon Athletica,LULU,Td Cowen,John Kernan,Outperform,Outperform,250,270
+550,2020-01-16,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral                      ,Neutral                      ,245,245
+684,2020-02-21,Lululemon Athletica,LULU,Susquehanna,Sam Poser,Positive,Buy,285,310
+186,2020-03-16,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Overweight                   ,Overweight                   ,250,250
+186,2020-03-16,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Overweight                   ,Overweight                   ,250,250
+137,2020-03-24,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,285 » 230       ,285 » 230
+137,2020-03-24,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,285 » 230       ,285 » 230
+452,2020-03-27,Lululemon Athletica,LULU,Jpmorgan,Matthew Boss,Overweight                   ,Overweight                   ,209,209
+515,2020-06-01,Lululemon Athletica,LULU,,Oliver Chen,Outperform                   ,Outperform                   ,311,311
+178,2020-06-02,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Equal Weight,Overweight,275,250
+178,2020-06-02,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Equal Weight,Overweight,275,250
+135,2020-06-08,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,230 » 360       ,230 » 360
+135,2020-06-08,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,230 » 360       ,230 » 360
+451,2020-06-12,Lululemon Athletica,LULU,Jpmorgan,Matthew Boss,Overweight                   ,Overweight                   ,334,334
+613,2020-06-12,Lululemon Athletica,LULU,Jefferies,Randal Konik,Hold                         ,Hold                         ,290,290
+139,2020-09-03,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,360 » 440       ,360 » 440
+139,2020-09-03,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,360 » 440       ,360 » 440
+326,2020-11-25,Lululemon Athletica,LULU,Td Cowen,John Kernan,Outperform,Outperform,399,403
+739,2021-03-31,Lululemon Athletica,LULU,B. Riley,Susan Anderson,Buy,Buy,409,374
+15,2021-06-04,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight                   ,Overweight                   ,445,445
+15,2021-06-04,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight                   ,Overweight                   ,445,445
+140,2021-09-03,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,460,460
+140,2021-09-03,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,460,460
+142,2021-09-09,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,485,485
+142,2021-09-09,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,485,485
+366,2021-09-09,Lululemon Athletica,LULU,Baml,Lorraine Hutchinson,Buy                          ,Buy                          ,473,473
+554,2021-09-10,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral                      ,Neutral                      ,430,430
+132,2021-12-10,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,515 » 523       ,515 » 523
+512,2021-12-10,Lululemon Athletica,LULU,,Oliver Chen,Outperform                   ,Outperform                   ,515 » 523       ,515 » 523
+132,2021-12-10,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,515 » 523       ,515 » 523
+450,2021-12-10,Lululemon Athletica,LULU,Jpmorgan,Matthew Boss,Overweight                   ,Overweight                   ,481 » 487       ,481 » 487
+513,2022-01-13,Lululemon Athletica,LULU,,Oliver Chen,Outperform                   ,Outperform                   ,491,491
+14,2022-01-14,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight                   ,Overweight                   ,461,461
+14,2022-01-14,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight                   ,Overweight                   ,461,461
+100,2022-04-01,Lululemon Athletica,LULU,Oppenheimer,Brian Nagel,Outperform                   ,Outperform                   ,520,520
+100,2022-04-01,Lululemon Athletica,LULU,Oppenheimer,Brian Nagel,Outperform                   ,Outperform                   ,520,520
+746,2022-06-03,Lululemon Athletica,LULU,B. Riley,Susan Anderson,Buy,Buy,440,377
+202,2022-06-03,Lululemon Athletica,LULU,,Ike Boruchow,Equal Weight                 ,Equal Weight                 ,345,345
+329,2022-06-03,Lululemon Athletica,LULU,Td Cowen,John Kernan,Outperform,Outperform,497,505
+286,2022-09-02,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy                          ,Buy                          ,400,400
+470,2022-10-25,Lululemon Athletica,LULU,Jpmorgan,Matthew Boss,Overweight                   ,Overweight                   ,413,413
+231,2022-12-02,Lululemon Athletica,LULU,Ubs,Jay Sole,Neutral                      ,Neutral                      ,395,395
+287,2022-12-05,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy                          ,Buy                          ,450,450
+501,2022-12-05,Lululemon Athletica,LULU,Credit Suisse,Michael Binetti,Outperform                   ,Outperform                   ,465,465
+121,2022-12-09,Lululemon Athletica,LULU,Goldman Sachs,Brooke Roach,Buy,Buy,431,383
+121,2022-12-09,Lululemon Athletica,LULU,Goldman Sachs,Brooke Roach,Buy,Buy,431,383
+32,2022-12-12,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight                   ,Overweight                   ,445,445
+32,2022-12-12,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight                   ,Overweight                   ,445,445
+183,2023-01-06,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Overweight,Equal Weight,360,380
+183,2023-01-06,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Overweight,Equal Weight,360,380
+150,2023-01-10,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,425,425
+150,2023-01-10,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,425,425
+151,2023-03-21,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,425,425
+151,2023-03-21,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,425,425
+127,2023-03-29,Lululemon Athletica,LULU,,Dan Brennan,Outperform                   ,Outperform                   ,500,500
+152,2023-03-29,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,425,425
+561,2023-03-29,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral,Buy,350,440
+168,2023-03-29,Lululemon Athletica,LULU,,Gregory Francfort,Buy                          ,Buy                          ,440,440
+167,2023-03-29,Lululemon Athletica,LULU,,David Manthey,Outperform                   ,Outperform                   ,425,425
+168,2023-03-29,Lululemon Athletica,LULU,,Gregory Francfort,Buy                          ,Buy                          ,440,440
+167,2023-03-29,Lululemon Athletica,LULU,,David Manthey,Outperform                   ,Outperform                   ,425,425
+152,2023-03-29,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform                   ,Outperform                   ,425,425
+127,2023-03-29,Lululemon Athletica,LULU,,Dan Brennan,Outperform                   ,Outperform                   ,500,500
+369,2023-04-20,Lululemon Athletica,LULU,Baml,Lorraine Hutchinson,Buy,Buy,410,450
+128,2023-04-27,Lululemon Athletica,LULU,,Dan Brennan,Outperform,Outperform,525,525
+128,2023-04-27,Lululemon Athletica,LULU,,Dan Brennan,Outperform,Outperform,525,525
+153,2023-05-26,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,425,425
+153,2023-05-26,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,425,425
+505,2023-06-02,Lululemon Athletica,LULU,,Noah Zatzkin,Overweight,Overweight,400,400
+763,2023-06-02,Lululemon Athletica,LULU,Wedbush,Tom Nikic,Outperform,Outperform,415,415
+154,2023-06-02,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,430,430
+730,2023-06-02,Lululemon Athletica,LULU,Bmo,Simeon Siegel,Market Perform,Market Perform,355,355
+154,2023-06-02,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,430,430
+33,2023-06-05,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,430,430
+572,2023-06-05,Lululemon Athletica,LULU,Citi,Paul Lejuez,Buy,Buy,450,450
+33,2023-06-05,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,430,430
+506,2023-07-25,Lululemon Athletica,LULU,,Noah Zatzkin,Overweight,Overweight,425,425
+155,2023-08-25,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,430,430
+155,2023-08-25,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,430,430
+764,2023-08-30,Lululemon Athletica,LULU,Wedbush,Tom Nikic,Outperform,Outperform,415,415
+156,2023-09-01,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,450,450
+507,2023-09-01,Lululemon Athletica,LULU,,Noah Zatzkin,Overweight,Overweight,450,450
+156,2023-09-01,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,450,450
+62,2023-09-05,Lululemon Athletica,LULU,Bernstein,Aneesha Sherman,Underperform,Market Perform,366,366
+62,2023-09-05,Lululemon Athletica,LULU,Bernstein,Aneesha Sherman,Underperform,Market Perform,366,366
+644,2023-09-20,Lululemon Athletica,LULU,Raymond James,Rick Patel,Buy                          ,Buy                          ,470,470
+157,2023-09-21,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,450,450
+157,2023-09-21,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,450,450
+502,2023-11-07,Lululemon Athletica,LULU,,Michael Binetti,Outperform                   ,Outperform                   ,475,475
+704,2023-11-17,Lululemon Athletica,LULU,,Scot Ciccarelli,Buy                          ,Buy                          ,500,500
+508,2023-12-08,Lululemon Athletica,LULU,,Noah Zatzkin,Overweight,Overweight,500,500
+645,2023-12-08,Lululemon Athletica,LULU,Raymond James,Rick Patel,Buy,Buy,525,525
+158,2023-12-13,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,550,550
+158,2023-12-13,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,550,550
+621,2024-02-13,Lululemon Athletica,LULU,Jefferies,Randal Konik,Underperform,Underperform,250,300
+86,2024-02-20,Lululemon Athletica,LULU,Needham,Anna Andreeva,Buy,Buy,525,525
+86,2024-02-20,Lululemon Athletica,LULU,Needham,Anna Andreeva,Buy,Buy,525,525
+336,2024-03-22,Lululemon Athletica,LULU,Td Cowen,John Kernan,Outperform,Outperform,553,515
+703,2024-03-22,Lululemon Athletica,LULU,Truist,Scot Ciccarelli,Buy,Buy,561,498
+34,2024-03-25,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,546,546
+34,2024-03-25,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Overweight,546,546
+430,2024-04-19,Lululemon Athletica,LULU,Baird,Mark Altschwager,Outperform,Outperform,505,505
+35,2024-04-29,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Equal Weight,395,395
+35,2024-04-29,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Overweight,Equal Weight,395,395
+159,2024-05-22,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,550,550
+159,2024-05-22,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,550,550
+288,2024-05-28,Lululemon Athletica,LULU,,Jim Duffy,Buy,Buy,410,410
+46,2024-05-29,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,490,404
+46,2024-05-29,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,490,404
+160,2024-05-30,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,550,550
+160,2024-05-30,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,Outperform,550,550
+379,2024-06-06,Lululemon Athletica,LULU,Baml,Lorraine Hutchinson,Buy,Buy,440,440
+148,2024-06-06,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,In Line,550,470
+113,2024-06-06,Lululemon Athletica,LULU,Oppenheimer,Brian Nagel,Outperform,Outperform,445,445
+148,2024-06-06,Lululemon Athletica,LULU,Telsey Advisory,Dana Telsey,Outperform,In Line,550,470
+113,2024-06-06,Lululemon Athletica,LULU,Oppenheimer,Brian Nagel,Outperform,Outperform,445,445
+197,2024-06-06,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Equal Weight,Equal Weight,425,350
+197,2024-06-06,Lululemon Athletica,LULU,Wells Fargo,Ike Boruchow,Equal Weight,Equal Weight,425,350
+63,2024-06-07,Lululemon Athletica,LULU,,Aneesha Sherman,Market Perform,Market Perform,382,382
+63,2024-06-07,Lululemon Athletica,LULU,,Aneesha Sherman,Market Perform,Market Perform,382,382
+352,2024-06-13,Lululemon Athletica,LULU,,Krisztina Katai,Hold                         ,Hold                         ,357,357
+471,2024-07-25,Lululemon Athletica,LULU,Jpmorgan,Matthew Boss,Overweight,Overweight,338,338
+573,2024-07-25,Lululemon Athletica,LULU,Citi,Paul Lejuez,Buy,Neutral,300,300
+431,2024-07-25,Lululemon Athletica,LULU,Baird,Mark Altschwager,Outperform,Outperform,470,470
+622,2024-07-25,Lululemon Athletica,LULU,Jefferies,Randal Konik,Underperform,Underperform,220,220
+339,2024-07-25,Lululemon Athletica,LULU,Td Cowen,John Kernan,Buy,Buy,420,420
+702,2024-07-25,Lululemon Athletica,LULU,Truist,Scot Ciccarelli,Buy,Buy,415,310
+203,2024-07-25,Lululemon Athletica,LULU,Btig,Janine Stichter,Buy,Buy,425,360
+498,2024-07-26,Lululemon Athletica,LULU,Evercore,Michael Binetti,Outperform,Outperform,300,300
+125,2024-08-02,Lululemon Athletica,LULU,,Brooke Roach,Buy,Neutral,286,286
+125,2024-08-02,Lululemon Athletica,LULU,,Brooke Roach,Buy,Neutral,286,286
+278,2024-08-22,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy,Buy,416,370
+87,2024-08-23,Lululemon Athletica,LULU,,Anna Andreeva,Neutral                      ,Neutral                      ,250,250
+87,2024-08-23,Lululemon Athletica,LULU,,Anna Andreeva,Neutral                      ,Neutral                      ,250,250
+161,2024-08-26,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,360,360
+161,2024-08-26,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,360,360
+499,2024-08-26,Lululemon Athletica,LULU,Evercore,Michael Binetti,Outperform,Outperform,300,300
+334,2024-08-27,Lululemon Athletica,LULU,Td Cowen,John Kernan,Buy,Buy,420,375
+765,2024-08-28,Lululemon Athletica,LULU,,Tom Nikic,Outperform,Outperform,324,324
+646,2024-08-30,Lululemon Athletica,LULU,,Rick Patel,Outperform,Outperform,325,325
+88,2024-08-30,Lululemon Athletica,LULU,,Anna Andreeva,Neutral,Neutral,260,260
+88,2024-08-30,Lululemon Athletica,LULU,,Anna Andreeva,Neutral,Neutral,260,260
+44,2024-10-01,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,326,314
+44,2024-10-01,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,326,314
+48,2024-11-26,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,314,345
+48,2024-11-26,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,314,345
+111,2024-11-27,Lululemon Athletica,LULU,Oppenheimer,Brian Nagel,Outperform,Outperform,445,380
+111,2024-11-27,Lululemon Athletica,LULU,Oppenheimer,Brian Nagel,Outperform,Outperform,445,380
+337,2024-12-03,Lululemon Athletica,LULU,Td Cowen,John Kernan,Buy,Buy,382,383
+289,2024-12-06,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy,Buy,438,438
+89,2024-12-06,Lululemon Athletica,LULU,,Anna Andreeva,Neutral,Neutral,340,340
+36,2024-12-06,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Equal Weight,Equal Weight,378,378
+232,2024-12-06,Lululemon Athletica,LULU,,Jay Sole,Neutral,Neutral,360,360
+36,2024-12-06,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Equal Weight,Equal Weight,378,378
+162,2024-12-06,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,430,430
+89,2024-12-06,Lululemon Athletica,LULU,,Anna Andreeva,Neutral,Neutral,340,340
+726,2024-12-06,Lululemon Athletica,LULU,Bmo,Simeon Siegel,Market Perform,Market Perfo,265,302
+162,2024-12-06,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,430,430
+429,2024-12-13,Lululemon Athletica,LULU,Baird,Mark Altschwager,Outperform,Outperform,440,480
+768,2025-01-10,Lululemon Athletica,LULU,,Tom Nikic,Hold,Buy,475,475
+163,2025-01-14,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,445,445
+163,2025-01-14,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,445,445
+647,2025-01-15,Lululemon Athletica,LULU,,Rick Patel,Outperform,Outperform,430,430
+37,2025-01-16,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Equal Weight,Equal Weight,411,411
+37,2025-01-16,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Equal Weight,Equal Weight,411,411
+497,2025-01-28,Lululemon Athletica,LULU,Evercore,Michael Binetti,Outperform,Outperform,440,495
+114,2025-02-07,Lululemon Athletica,LULU,,Brian Nagel,Outperform,Outperform,500,500
+114,2025-02-07,Lululemon Athletica,LULU,,Brian Nagel,Outperform,Outperform,500,500
+47,2025-03-19,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,420,411
+47,2025-03-19,Lululemon Athletica,LULU,Morgan Stanley,Alex Straton,Overweight,Overweight,420,411
+574,2025-03-20,Lululemon Athletica,LULU,Citi,Paul Lejuez,Neutral,Neutral,330,330
+164,2025-03-20,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,445,445
+164,2025-03-20,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,445,445
+376,2025-03-28,Lululemon Athletica,LULU,,Lorraine Hutchinson,Buy,Buy,400,400
+290,2025-03-28,Lululemon Athletica,LULU,Stifel,Jim Duffy,Buy,Buy,424,424
+760,2025-03-28,Lululemon Athletica,LULU,Needham,Tom Nikic,Buy,Buy,430,366
+233,2025-03-28,Lululemon Athletica,LULU,,Jay Sole,Neutral,Neutral,335,335
+84,2025-03-28,Lululemon Athletica,LULU,Piper Sandler,Anna Andreeva,Neutral,Neutral,340,315
+724,2025-03-28,Lululemon Athletica,LULU,Bmo,Simeon Siegel,Market Perform,Market Perfo,313,302
+165,2025-03-28,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,385,385
+84,2025-03-28,Lululemon Athletica,LULU,Piper Sandler,Anna Andreeva,Neutral,Neutral,340,315
+165,2025-03-28,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,385,385
+83,2025-04-11,Lululemon Athletica,LULU,Piper Sandler,Anna Andreeva,Neutral,Neutral,315,280
+83,2025-04-11,Lululemon Athletica,LULU,Piper Sandler,Anna Andreeva,Neutral,Neutral,315,280
+472,2025-04-14,Lululemon Athletica,LULU,,Matthew Boss,Overweight,Overweight,389,389
+126,2025-04-22,Lululemon Athletica,LULU,,Brooke Roach,Neutral,Neutral,302,302
+126,2025-04-22,Lululemon Athletica,LULU,,Brooke Roach,Neutral,Neutral,302,302
+38,2025-05-12,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Equal Weight,Equal Weight,276,276
+38,2025-05-12,Lululemon Athletica,LULU,Barclays,Adrienne Yih,Equal Weight,Equal Weight,276,276
+575,2025-05-29,Lululemon Athletica,LULU,,Paul Lejuez,Neutral,Neutral,325,325
+90,2025-06-03,Lululemon Athletica,LULU,,Anna Andreeva,Neutral,Neutral,315,315
+90,2025-06-03,Lululemon Athletica,LULU,,Anna Andreeva,Neutral,Neutral,315,315
+166,2025-06-06,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,360,360
+500,2025-06-06,Lululemon Athletica,LULU,,Michael Binetti,Outperform,Outperform,320,320
+204,2025-06-06,Lululemon Athletica,LULU,Btig,Janine Stichter,Buy,Buy,420,405
+759,2025-06-06,Lululemon Athletica,LULU,Needham,Tom Nikic,Buy,Buy,366,317
+234,2025-06-06,Lululemon Athletica,LULU,,Jay Sole,Neutral,Neutral,290,290
+199,2025-06-06,Lululemon Athletica,LULU,,Ike Boruchow,Equal Weight,Equal Weight,270,270
+166,2025-06-06,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,360,360
+199,2025-06-06,Lululemon Athletica,LULU,,Ike Boruchow,Equal Weight,Equal Weight,270,270
+332,2025-06-06,Lululemon Athletica,LULU,Td Cowen,John Kernan,Buy,Buy,373,321
+618,2025-06-24,Lululemon Athletica,LULU,Jefferies,Randal Konik,Underperform,Underperform,200,175
+473,2025-07-22,Lululemon Athletica,LULU,,Matthew Boss,Overweight,Neutral,224,224
+91,2025-07-29,Lululemon Athletica,LULU,,Anna Andreeva,Neutral,Neutral,200,200
+91,2025-07-29,Lululemon Athletica,LULU,,Anna Andreeva,Neutral,Neutral,200,200
+432,2025-08-11,Lululemon Athletica,LULU,,Mark Altschwager,Outperform,Outperform,260,260
+235,2025-08-18,Lululemon Athletica,LULU,,Jay Sole,Neutral,Neutral,240,240
+201,2025-08-19,Lululemon Athletica,LULU,,Ike Boruchow,Equal Weight,Equal Weight,205,205
+377,2025-08-26,Lululemon Athletica,LULU,,Lorraine Hutchinson,Buy,Buy,300,300
+769,2025-08-29,Lululemon Athletica,LULU,,Tom Nikic,Buy,Buy,238,238
+149,2025-08-29,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,360,360
+149,2025-08-29,Lululemon Athletica,LULU,,Dana Telsey,Outperform,Outperform,360,360
+433,2025-09-05,Lululemon Athletica,LULU,,Mark Altschwager,Outperform,Outperform,225,225
+378,2025-09-05,Lululemon Athletica,LULU,,Lorraine Hutchinson,Buy,Neutral,210,210
+770,2025-09-05,Lululemon Athletica,LULU,,Tom Nikic,Buy,Buy,192,192
