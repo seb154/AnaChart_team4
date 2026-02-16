@@ -1,0 +1,6 @@
+Row,Date,Company Name,Ticker,Broker,Analyst,Rating Before,Rating After,Price Target Before,Price Target After,Adjusted Close Price (t = 0),Adjusted Close Price (t = 30),Event Type
+1005,7/22/2014,Amazon.com Inc,AMZN,Citi,Mark May,Buy,Neutral,20.7,19.75,,,Downgrade
+1318,7/29/2015,Amazon.com Inc,AMZN,Stifel,Scott Devitt,Buy,Hold,26.3,35.0,,,Downgrade
+1045,2/18/2016,Amazon.com Inc,AMZN,Canaccord,Michael Graham,Buy,Hold,30.0,37.5,,,Downgrade
+447,11/4/2020,Amazon.com Inc,AMZN,China Renaissance,Ella Ji,Buy,Hold,168.0,200.0,,,Downgrade
+90,10/29/2021,Amazon.com Inc,AMZN,Jefferies,Brent Thill,Buy,Hold,210.0,200.0,,,Downgrade

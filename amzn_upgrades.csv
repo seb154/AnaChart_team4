@@ -1,0 +1,3 @@
+Row,Date,Company Name,Ticker,Broker,Analyst,Rating Before,Rating After,Price Target Before,Price Target After,Adjusted Close Price (t = 0),Adjusted Close Price (t = 30),Event Type
+1099,4/24/2015,Amazon.com Inc,AMZN,Wedbush,Michael Pachter,Short,Neutral,19.75,21.75,,,Upgrade
+67,8/4/2023,Amazon.com Inc,AMZN,Rosenblatt,Barton Crockett,Neutral,Buy,184.0,184.0,,,Upgrade
