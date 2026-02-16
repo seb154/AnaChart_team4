@@ -1,0 +1,12 @@
+Row,Date,Company Name,Ticker,Broker,Analyst,Rating Before,Rating After,Price Target Before,Price Target After,Adjusted Close Price (t = 0),Adjusted Close Price (t = 30),Event Type
+628,7/28/2017,Starbucks Corp,SBUX,Stifel,Mark Astrachan,Buy,Hold,66.0,58.0,,,Downgrade
+452,2/1/2018,Starbucks Corp,SBUX,Mizuho,Jeremy Scott,Buy,Neutral,68.0,60.0,,,Downgrade
+584,1/11/2019,Starbucks Corp,SBUX,Goldman Sachs,Karen Holthouse,Buy,Neutral,75.0,68.0,,,Downgrade
+383,4/9/2020,Starbucks Corp,SBUX,Baml,Gregory Francfort,Buy,Neutral,73.0,68.0,,,Downgrade
+427,2/5/2021,Starbucks Corp,SBUX,Gordon Haskett,Jeff Farmer,Buy,Hold,100.0,120.0,,,Downgrade
+664,3/19/2021,Starbucks Corp,SBUX,Wedbush,Nick Setyan,Outperform,Neutral,108.0,124.0,,,Downgrade
+244,11/1/2021,Starbucks Corp,SBUX,Stifel,Chris O'Cull,Buy,Hold,112.0,112.0,,,Downgrade
+263,1/7/2022,Starbucks Corp,SBUX,Rbc,Christopher Carril,Outperform,Sector Perform,124.0,122.0,,,Downgrade
+613,5/1/2024,Starbucks Corp,SBUX,Deutsche Bank,Lauren Silberman,Buy,Hold,108.0,89.0,,,Downgrade
+335,4/7/2025,Starbucks Corp,SBUX,,David Tarantino,Outperform,Neutral,85.0,85.0,,,Downgrade
+248,4/30/2025,Starbucks Corp,SBUX,,Christine Cho,Buy,Neutral,85.0,85.0,,,Downgrade
